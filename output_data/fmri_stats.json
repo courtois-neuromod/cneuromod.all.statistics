@@ -1,0 +1,23 @@
+{
+  "dataset": {
+    "Description": "Name of the CNeuroMod dataset."
+  },
+  "total_runs": {
+    "Description": "Total number of unique fMRI runs across all subjects and sessions. Multi-echo acquisitions (e.g. emotion-videos) are counted as one run regardless of the number of echoes or parts."
+  },
+  "avg_runs_per_session": {
+    "Description": "Average number of fMRI runs per scanning session, computed as the mean across all (subject, session) pairs with at least one run."
+  },
+  "avg_run_duration_h": {
+    "Description": "Average duration of a single fMRI run in hours, computed from the number of brain volumes (length of time.samples.AcquisitionNumber in the BIDS sidecar JSON) multiplied by the RepetitionTime.",
+    "Units": "hours"
+  },
+  "avg_session_duration_h": {
+    "Description": "Average total fMRI acquisition time per scanning session in hours, computed as the sum of all run durations within a session, then averaged across all (subject, session) pairs.",
+    "Units": "hours"
+  },
+  "total_duration_h": {
+    "Description": "Total cumulative fMRI acquisition time for the dataset across all subjects and sessions, in hours.",
+    "Units": "hours"
+  }
+}

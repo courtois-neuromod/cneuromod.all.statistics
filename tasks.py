@@ -36,6 +36,24 @@ def run_statistics(c):
 
 
 @task
+def run_fmri_stats(c):
+    """Compute fMRI run stats per dataset; save to output_data/fmri_stats.tsv."""
+    from airoh.utils import ensure_dir_exist
+    from analysis.statistics import compute_fmri_stats
+
+    source_dir = Path(c.config.get("source_data_dir"))
+    output_dir = Path(c.config.get("output_data_dir"))
+    out_file = output_dir / "fmri_stats.tsv"
+
+    if out_file.exists():
+        print(f"Skipping run-fmri-stats (output exists: {out_file})")
+        return
+
+    ensure_dir_exist(c, "output_data_dir")
+    compute_fmri_stats(source_dir, out_file)
+
+
+@task
 def run_notebooks(c):
     """Execute notebooks and save figures to output_data/."""
     from airoh.utils import run_notebooks as airoh_run_notebooks, ensure_dir_exist
@@ -47,7 +65,7 @@ def run_notebooks(c):
     airoh_run_notebooks(c, notebooks_dir, output_dir, keys=["source_data_dir", "output_data_dir"])
 
 
-@task(pre=[fetch, run_statistics, run_notebooks])
+@task(pre=[fetch, run_statistics, run_fmri_stats, run_notebooks])
 def run(c):
     """Full pipeline."""
     print("Pipeline complete.")
@@ -59,6 +77,14 @@ def run_smoke(c):
     fetch(c)
     run_statistics(c)
     run_notebooks(c)
+
+
+@task
+def clean_fmri_stats(c):
+    """Remove fmri_stats.tsv and its JSON sidecar."""
+    from airoh.utils import clean_folder
+    clean_folder(c, "output_data_dir", "fmri_stats.tsv")
+    clean_folder(c, "output_data_dir", "fmri_stats.json")
 
 
 @task
@@ -75,7 +101,7 @@ def clean_figures(c):
     clean_folder(c, "output_data_dir", "*.png")
 
 
-@task(pre=[clean_statistics, clean_figures])
+@task(pre=[clean_statistics, clean_fmri_stats, clean_figures])
 def clean(c):
     """Remove all computed outputs."""
     pass

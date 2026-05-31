@@ -4,7 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-**CNeuroMod all-statistics** computes summary statistics across all CNeuroMod datasets. The first analysis counts BIDS sessions per subject (sub-01 to sub-06) per dataset, producing a TSV and a grid of bar chart figures.
+**CNeuroMod all-statistics** computes summary statistics across all CNeuroMod datasets.
+
+- **Session counts** (`run-statistics`): counts BIDS sessions per subject (sub-01 to sub-06) per dataset → `session_counts.tsv`.
+- **fMRI run stats** (`run-fmri-stats`): per-dataset aggregate statistics — total runs, average runs per session, average run duration, average session duration, total duration — derived from `bold.nii*` files and their JSON sidecars → `fmri_stats.tsv` + BIDS JSON sidecar.
 
 Source data is the [cneuromod.all](https://github.com/courtois-neuromod/cneuromod.all) git submodule at `source_data/cneuromod.all/`. Each dataset's `bids/` folder is a sub-submodule initialized by `invoke fetch` (non-recursive, no datalad).
 
