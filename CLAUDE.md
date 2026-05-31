@@ -4,7 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is the `airoh-mini` template — a starting point for structuring a reproducible data analysis. It is built on the [`invoke`](https://www.pyinvoke.org/) task runner. The `airoh` pip package provides reusable invoke tasks; this repo customizes them via `tasks.py` and `invoke.yaml`.
+**CNeuroMod all-statistics** computes summary statistics across all CNeuroMod datasets. The first analysis counts BIDS sessions per subject (sub-01 to sub-06) per dataset, producing a TSV and a grid of bar chart figures.
+
+Source data is the [cneuromod.all](https://github.com/courtois-neuromod/cneuromod.all) git submodule at `source_data/cneuromod.all/`. Each dataset's `bids/` folder is a sub-submodule initialized by `invoke fetch` (non-recursive, no datalad).
+
+This project is built on the [`airoh-mini`](https://github.com/airoh-pipeline/airoh-template) template, using the [`invoke`](https://www.pyinvoke.org/) task runner and the `airoh` pip package.
 
 ## Persona
 
