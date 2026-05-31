@@ -209,6 +209,99 @@ def _write_bids_sidecar(tsv_path: Path) -> None:
     print(f"BIDS sidecar saved to {json_path}")
 
 
+def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
+    """
+    Compute per-dataset, per-subject fMRI run statistics and write a TSV.
+
+    For each (dataset, subject), computes: total_runs, avg_runs_per_session,
+    avg_session_duration_h, total_duration_h.
+    """
+    records = []
+    cneuromod_dir = source_dir / "cneuromod.all"
+
+    for bids_dir in sorted(cneuromod_dir.glob("*/bids")):
+        dataset = bids_dir.parent.name
+
+        all_nii = list(bids_dir.glob("sub-*/ses-*/func/*_bold.nii*"))
+        if not all_nii:
+            continue
+
+        # deduplicate multi-echo/part runs
+        run_map: dict[str, Path] = {}
+        for nii in sorted(all_nii):
+            key = _run_key(nii)
+            if key not in run_map:
+                run_map[key] = nii
+
+        # parse durations
+        run_durations: dict[str, float | None] = {}
+        for key, nii in run_map.items():
+            if nii.suffix == ".gz":
+                json_path = nii.with_name(nii.name[:-7] + ".json")
+            else:
+                json_path = nii.with_suffix(".json")
+
+            if not json_path.exists():
+                warnings.warn(
+                    f"[{dataset}] Missing BIDS sidecar JSON for {nii.name} "
+                    f"(expected {json_path.name}). Every bold.nii* must have a companion JSON.",
+                    stacklevel=2,
+                )
+                run_durations[key] = None
+            else:
+                run_durations[key] = _parse_run_duration(json_path, dataset)
+
+        # group runs by (subject, session)
+        session_runs: dict[tuple[str, str], list[float | None]] = {}
+        for key in run_durations:
+            m = re.match(r"(sub-\S+?)_(ses-\S+?)_", key)
+            sub = m.group(1) if m else "unknown"
+            ses = m.group(2) if m else "unknown"
+            session_runs.setdefault((sub, ses), []).append(run_durations[key])
+
+        # aggregate per subject
+        subject_sessions: dict[str, list[tuple[str, str]]] = {}
+        for (sub, ses) in session_runs:
+            subject_sessions.setdefault(sub, []).append((sub, ses))
+
+        for subject in SUBJECTS:
+            sub_sessions = subject_sessions.get(subject, [])
+            if not sub_sessions:
+                records.append({
+                    "dataset": dataset, "subject": subject,
+                    "total_runs": 0,
+                    "avg_runs_per_session": float("nan"),
+                    "avg_session_duration_h": float("nan"),
+                    "total_duration_h": float("nan"),
+                })
+                continue
+
+            runs_per_ses = [len(session_runs[key]) for key in sub_sessions]
+            session_durations = []
+            for key in sub_sessions:
+                known = [d for d in session_runs[key] if d is not None]
+                session_durations.append(sum(known) if known else float("nan"))
+
+            total_runs = sum(runs_per_ses)
+            avg_runs_per_session = total_runs / len(runs_per_ses)
+            known_ses = [d for d in session_durations if d == d]  # filter NaN
+            avg_session_duration_h = sum(known_ses) / len(known_ses) if known_ses else float("nan")
+            total_duration_h = sum(known_ses) if known_ses else float("nan")
+
+            records.append({
+                "dataset": dataset,
+                "subject": subject,
+                "total_runs": total_runs,
+                "avg_runs_per_session": round(avg_runs_per_session, 2),
+                "avg_session_duration_h": round(avg_session_duration_h, 4),
+                "total_duration_h": round(total_duration_h, 4),
+            })
+
+    df = pd.DataFrame(records)
+    df.to_csv(out_file, sep="\t", index=False)
+    print(f"fMRI per-subject stats saved to {out_file}")
+
+
 def count_sessions(source_dir: Path, out_file: Path) -> None:
     """Count BIDS sessions per subject per dataset and write a TSV."""
     records = []
