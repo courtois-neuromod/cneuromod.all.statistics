@@ -19,5 +19,17 @@
   "total_duration_h": {
     "Description": "Total cumulative fMRI acquisition time for the dataset across all subjects and sessions, in hours.",
     "Units": "hours"
+  },
+  "total_volumes": {
+    "Description": "Total number of brain volumes (TRs) acquired across all subjects, sessions, and runs in the dataset.",
+    "Units": "volumes"
+  },
+  "avg_volumes_per_run": {
+    "Description": "Average number of brain volumes per fMRI run, computed as the mean across all unique runs in the dataset.",
+    "Units": "volumes"
+  },
+  "avg_volumes_per_session": {
+    "Description": "Average total number of brain volumes per scanning session, computed as the mean across all (subject, session) pairs.",
+    "Units": "volumes"
   }
 }

@@ -19,10 +19,10 @@ def _run_key(nii_path: Path) -> str:
     return stem
 
 
-def _parse_run_duration(json_path: Path, dataset: str) -> float | None:
+def _parse_run_info(json_path: Path, dataset: str) -> tuple[int | None, float | None]:
     """
-    Return run duration in hours from a BIDS bold sidecar JSON.
-    Returns None if volume count is unavailable.
+    Return (n_volumes, duration_h) from a BIDS bold sidecar JSON.
+    Both are None if volume count is unavailable.
     Warns if RepetitionTime differs from EXPECTED_TR (unless dataset is in MULTIECHO_DATASETS).
     """
     with open(json_path) as f:
@@ -34,7 +34,7 @@ def _parse_run_duration(json_path: Path, dataset: str) -> float | None:
             f"[{dataset}] {json_path.name}: 'RepetitionTime' field is missing from sidecar.",
             stacklevel=2,
         )
-        return None
+        return None, None
 
     if tr != EXPECTED_TR and dataset not in MULTIECHO_DATASETS:
         warnings.warn(
@@ -58,9 +58,9 @@ def _parse_run_duration(json_path: Path, dataset: str) -> float | None:
                 "Run duration will be set to NaN.",
                 stacklevel=2,
             )
-            return None
+            return None, None
 
-    return n_volumes * tr / 3600.0
+    return n_volumes, n_volumes * tr / 3600.0
 
 
 def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
@@ -70,7 +70,8 @@ def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
     For each dataset, finds bold.nii* files under bids/sub-*/ses-*/,
     deduplicates multi-echo runs, reads companion JSON sidecars for volume counts,
     and computes: total_runs, avg_runs_per_session, avg_run_duration_h,
-    avg_session_duration_h, total_duration_h.
+    avg_session_duration_h, total_duration_h, total_volumes, avg_volumes_per_run,
+    avg_volumes_per_session.
     """
     records = []
     cneuromod_dir = source_dir / "cneuromod.all"
@@ -90,10 +91,10 @@ def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
             if key not in run_map:
                 run_map[key] = nii
 
-        # for each unique run, find its JSON sidecar and get duration
+        # for each unique run, find its JSON sidecar and get volume count + duration
+        run_volumes: dict[str, int | None] = {}
         run_durations: dict[str, float | None] = {}
         for key, nii in run_map.items():
-            json_path = nii.with_suffix("").with_suffix(".json")
             if nii.suffix == ".gz":
                 json_path = nii.with_name(nii.name[:-7] + ".json")
             else:
@@ -105,29 +106,35 @@ def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
                     f"(expected {json_path.name}). Every bold.nii* must have a companion JSON.",
                     stacklevel=2,
                 )
+                run_volumes[key] = None
                 run_durations[key] = None
             else:
-                run_durations[key] = _parse_run_duration(json_path, dataset)
+                n_vol, dur = _parse_run_info(json_path, dataset)
+                run_volumes[key] = n_vol
+                run_durations[key] = dur
 
         # group runs by (subject, session) to compute per-session stats
         # run_key has the form sub-XX_ses-YY_..._bold
-        session_runs: dict[tuple[str, str], list[float | None]] = {}
+        session_runs: dict[tuple[str, str], list[tuple[int | None, float | None]]] = {}
         for key in run_durations:
             m = re.match(r"(sub-\S+?)_(ses-\S+?)_", key)
             if m:
                 sub, ses = m.group(1), m.group(2)
             else:
                 sub, ses = "unknown", "unknown"
-            session_runs.setdefault((sub, ses), []).append(run_durations[key])
+            session_runs.setdefault((sub, ses), []).append((run_volumes[key], run_durations[key]))
 
         total_runs = len(run_durations)
 
-        # per-session: count runs and sum duration (NaN if no volume counts available)
+        # per-session: count runs, sum volumes, sum duration
         runs_per_session = [len(v) for v in session_runs.values()]
+        session_volumes = []
         session_durations = []
         for v in session_runs.values():
-            known = [d for d in v if d is not None]
-            session_durations.append(sum(known) if known else float("nan"))
+            known_vol = [n for n, _ in v if n is not None]
+            known_dur = [d for _, d in v if d is not None]
+            session_volumes.append(sum(known_vol) if known_vol else float("nan"))
+            session_durations.append(sum(known_dur) if known_dur else float("nan"))
 
         avg_runs_per_session = sum(runs_per_session) / len(runs_per_session) if runs_per_session else 0.0
 
@@ -144,6 +151,18 @@ def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
         )
         total_duration_h = sum(known_sessions) if known_sessions else float("nan")
 
+        volumes_with_data = [n for n in run_volumes.values() if n is not None]
+        total_volumes = sum(volumes_with_data) if volumes_with_data else float("nan")
+        avg_volumes_per_run = (
+            sum(volumes_with_data) / len(volumes_with_data)
+            if volumes_with_data else float("nan")
+        )
+        known_ses_vol = [v for v in session_volumes if not (v != v)]  # filter NaN
+        avg_volumes_per_session = (
+            sum(known_ses_vol) / len(known_ses_vol)
+            if known_ses_vol else float("nan")
+        )
+
         records.append({
             "dataset": dataset,
             "total_runs": total_runs,
@@ -151,9 +170,30 @@ def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
             "avg_run_duration_h": round(avg_run_duration_h, 4),
             "avg_session_duration_h": round(avg_session_duration_h, 4),
             "total_duration_h": round(total_duration_h, 4),
+            "total_volumes": int(total_volumes) if total_volumes == total_volumes else float("nan"),
+            "avg_volumes_per_run": round(avg_volumes_per_run, 1) if avg_volumes_per_run == avg_volumes_per_run else float("nan"),
+            "avg_volumes_per_session": round(avg_volumes_per_session, 1) if avg_volumes_per_session == avg_volumes_per_session else float("nan"),
         })
 
     df = pd.DataFrame(records)
+
+    # Append a cumulative "all" row
+    total_runs_all = int(df["total_runs"].sum())
+    total_duration_all = df["total_duration_h"].sum(skipna=True)
+    total_volumes_all = df["total_volumes"].sum(skipna=True)
+    all_row = {
+        "dataset": "all",
+        "total_runs": total_runs_all,
+        "avg_runs_per_session": round(df["avg_runs_per_session"].mean(skipna=True), 2),
+        "avg_run_duration_h": round(total_duration_all / total_runs_all, 4) if total_runs_all else float("nan"),
+        "avg_session_duration_h": round(df["avg_session_duration_h"].mean(skipna=True), 4),
+        "total_duration_h": round(total_duration_all, 4),
+        "total_volumes": int(total_volumes_all) if not pd.isna(total_volumes_all) else float("nan"),
+        "avg_volumes_per_run": round(total_volumes_all / total_runs_all, 1) if total_runs_all else float("nan"),
+        "avg_volumes_per_session": round(df["avg_volumes_per_session"].mean(skipna=True), 1),
+    }
+    df = pd.concat([df, pd.DataFrame([all_row])], ignore_index=True)
+
     df.to_csv(out_file, sep="\t", index=False)
     print(f"fMRI stats saved to {out_file}")
 
@@ -202,6 +242,27 @@ def _write_bids_sidecar(tsv_path: Path) -> None:
             ),
             "Units": "hours"
         },
+        "total_volumes": {
+            "Description": (
+                "Total number of brain volumes (TRs) acquired across all subjects, sessions, "
+                "and runs in the dataset."
+            ),
+            "Units": "volumes"
+        },
+        "avg_volumes_per_run": {
+            "Description": (
+                "Average number of brain volumes per fMRI run, computed as the mean across "
+                "all unique runs in the dataset."
+            ),
+            "Units": "volumes"
+        },
+        "avg_volumes_per_session": {
+            "Description": (
+                "Average total number of brain volumes per scanning session, computed as the "
+                "mean across all (subject, session) pairs."
+            ),
+            "Units": "volumes"
+        },
     }
     json_path = tsv_path.with_suffix(".json")
     with open(json_path, "w") as f:
@@ -214,7 +275,7 @@ def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
     Compute per-dataset, per-subject fMRI run statistics and write a TSV.
 
     For each (dataset, subject), computes: total_runs, avg_runs_per_session,
-    avg_session_duration_h, total_duration_h.
+    avg_session_duration_h, total_duration_h, total_volumes, avg_volumes_per_session.
     """
     records = []
     cneuromod_dir = source_dir / "cneuromod.all"
@@ -233,7 +294,8 @@ def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
             if key not in run_map:
                 run_map[key] = nii
 
-        # parse durations
+        # parse volume counts and durations
+        run_volumes: dict[str, int | None] = {}
         run_durations: dict[str, float | None] = {}
         for key, nii in run_map.items():
             if nii.suffix == ".gz":
@@ -247,17 +309,20 @@ def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
                     f"(expected {json_path.name}). Every bold.nii* must have a companion JSON.",
                     stacklevel=2,
                 )
+                run_volumes[key] = None
                 run_durations[key] = None
             else:
-                run_durations[key] = _parse_run_duration(json_path, dataset)
+                n_vol, dur = _parse_run_info(json_path, dataset)
+                run_volumes[key] = n_vol
+                run_durations[key] = dur
 
         # group runs by (subject, session)
-        session_runs: dict[tuple[str, str], list[float | None]] = {}
+        session_runs: dict[tuple[str, str], list[tuple[int | None, float | None]]] = {}
         for key in run_durations:
             m = re.match(r"(sub-\S+?)_(ses-\S+?)_", key)
             sub = m.group(1) if m else "unknown"
             ses = m.group(2) if m else "unknown"
-            session_runs.setdefault((sub, ses), []).append(run_durations[key])
+            session_runs.setdefault((sub, ses), []).append((run_volumes[key], run_durations[key]))
 
         # aggregate per subject
         subject_sessions: dict[str, list[tuple[str, str]]] = {}
@@ -273,20 +338,29 @@ def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
                     "avg_runs_per_session": float("nan"),
                     "avg_session_duration_h": float("nan"),
                     "total_duration_h": float("nan"),
+                    "total_volumes": float("nan"),
+                    "avg_volumes_per_session": float("nan"),
                 })
                 continue
 
             runs_per_ses = [len(session_runs[key]) for key in sub_sessions]
             session_durations = []
+            session_volumes = []
             for key in sub_sessions:
-                known = [d for d in session_runs[key] if d is not None]
-                session_durations.append(sum(known) if known else float("nan"))
+                known_dur = [d for _, d in session_runs[key] if d is not None]
+                known_vol = [n for n, _ in session_runs[key] if n is not None]
+                session_durations.append(sum(known_dur) if known_dur else float("nan"))
+                session_volumes.append(sum(known_vol) if known_vol else float("nan"))
 
             total_runs = sum(runs_per_ses)
             avg_runs_per_session = total_runs / len(runs_per_ses)
-            known_ses = [d for d in session_durations if d == d]  # filter NaN
-            avg_session_duration_h = sum(known_ses) / len(known_ses) if known_ses else float("nan")
-            total_duration_h = sum(known_ses) if known_ses else float("nan")
+            known_ses_dur = [d for d in session_durations if d == d]  # filter NaN
+            avg_session_duration_h = sum(known_ses_dur) / len(known_ses_dur) if known_ses_dur else float("nan")
+            total_duration_h = sum(known_ses_dur) if known_ses_dur else float("nan")
+
+            known_ses_vol = [v for v in session_volumes if v == v]  # filter NaN
+            total_volumes = int(sum(known_ses_vol)) if known_ses_vol else float("nan")
+            avg_volumes_per_session = sum(known_ses_vol) / len(known_ses_vol) if known_ses_vol else float("nan")
 
             records.append({
                 "dataset": dataset,
@@ -295,9 +369,32 @@ def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
                 "avg_runs_per_session": round(avg_runs_per_session, 2),
                 "avg_session_duration_h": round(avg_session_duration_h, 4),
                 "total_duration_h": round(total_duration_h, 4),
+                "total_volumes": total_volumes,
+                "avg_volumes_per_session": round(avg_volumes_per_session, 1) if avg_volumes_per_session == avg_volumes_per_session else float("nan"),
             })
 
     df = pd.DataFrame(records)
+
+    # Append cumulative "all" rows — one per subject, summing across datasets
+    all_records = []
+    for subject in SUBJECTS:
+        sub_df = df[df["subject"] == subject]
+        has_data = sub_df[sub_df["total_runs"] > 0]
+        total_runs = int(sub_df["total_runs"].sum())
+        total_duration = has_data["total_duration_h"].sum(skipna=True)
+        total_volumes = has_data["total_volumes"].sum(skipna=True)
+        all_records.append({
+            "dataset": "all",
+            "subject": subject,
+            "total_runs": total_runs,
+            "avg_runs_per_session": round(has_data["avg_runs_per_session"].mean(skipna=True), 2) if len(has_data) else float("nan"),
+            "avg_session_duration_h": round(has_data["avg_session_duration_h"].mean(skipna=True), 4) if len(has_data) else float("nan"),
+            "total_duration_h": round(total_duration, 4),
+            "total_volumes": int(total_volumes) if not pd.isna(total_volumes) else float("nan"),
+            "avg_volumes_per_session": round(has_data["avg_volumes_per_session"].mean(skipna=True), 1) if len(has_data) else float("nan"),
+        })
+    df = pd.concat([df, pd.DataFrame(all_records)], ignore_index=True)
+
     df.to_csv(out_file, sep="\t", index=False)
     print(f"fMRI per-subject stats saved to {out_file}")
 
