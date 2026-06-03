@@ -53,3 +53,15 @@ Use `uv run invoke --list` for the full task list.
 
 - Source data: see [`source_data/CONTENT.md`](source_data/CONTENT.md)
 - Output data: see [`output_data/CONTENT.md`](output_data/CONTENT.md)
+
+---
+
+## Embedded use (inside `cneuromod.all/docs/`)
+
+When this repo is a submodule inside `cneuromod.all/docs/`, the source data already lives at `../..` — no submodule init is needed. Override the data path via the `INVOKE_CNEUROMOD_ALL_DIR` environment variable and pass `-e` to invoke:
+
+```makefile
+INVOKE_CNEUROMOD_ALL_DIR=../.. invoke -e run
+```
+
+`fetch` detects that the path is external and skips the git submodule step automatically.

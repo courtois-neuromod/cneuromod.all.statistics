@@ -5,16 +5,21 @@ from invoke import task
 @task
 def fetch(c):
     """Init cneuromod.all submodule and each dataset's bids sub-submodule."""
-    submodule_path = Path("source_data/cneuromod.all")
+    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
+    repo_root = Path(".").resolve()
+
+    if not cneuromod_all_dir.resolve().is_relative_to(repo_root):
+        print(f"Using external cneuromod.all at {cneuromod_all_dir}, skipping submodule init.")
+        return
 
     print("Updating cneuromod.all submodule...")
-    c.run("git submodule update --init source_data/cneuromod.all")
+    c.run(f"git submodule update --init {cneuromod_all_dir}")
 
-    for bids_dir in sorted(submodule_path.glob("*/bids")):
-        rel = bids_dir.relative_to(submodule_path)
+    for bids_dir in sorted(cneuromod_all_dir.glob("*/bids")):
+        rel = bids_dir.relative_to(cneuromod_all_dir)
         dataset = bids_dir.parent.name
         print(f"Initializing {dataset}/bids...")
-        c.run(f"git -C source_data/cneuromod.all submodule update --init {rel}")
+        c.run(f"git -C {cneuromod_all_dir} submodule update --init {rel}")
 
 
 @task
@@ -23,7 +28,7 @@ def run_statistics(c):
     from airoh.utils import ensure_dir_exist
     from analysis.statistics import count_sessions
 
-    source_dir = Path(c.config.get("source_data_dir"))
+    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
     output_dir = Path(c.config.get("output_data_dir"))
     out_file = output_dir / "session_counts.tsv"
 
@@ -32,7 +37,7 @@ def run_statistics(c):
         return
 
     ensure_dir_exist(c, "output_data_dir")
-    count_sessions(source_dir, out_file)
+    count_sessions(cneuromod_all_dir, out_file)
 
 
 @task
@@ -41,7 +46,7 @@ def run_fmri_stats(c):
     from airoh.utils import ensure_dir_exist
     from analysis.statistics import compute_fmri_stats
 
-    source_dir = Path(c.config.get("source_data_dir"))
+    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
     output_dir = Path(c.config.get("output_data_dir"))
     out_file = output_dir / "fmri_stats.tsv"
 
@@ -50,7 +55,7 @@ def run_fmri_stats(c):
         return
 
     ensure_dir_exist(c, "output_data_dir")
-    compute_fmri_stats(source_dir, out_file)
+    compute_fmri_stats(cneuromod_all_dir, out_file)
 
 
 @task
@@ -59,7 +64,7 @@ def run_fmri_per_subject_stats(c):
     from airoh.utils import ensure_dir_exist
     from analysis.statistics import compute_fmri_stats_per_subject
 
-    source_dir = Path(c.config.get("source_data_dir"))
+    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
     output_dir = Path(c.config.get("output_data_dir"))
     out_file = output_dir / "fmri_stats_per_subject.tsv"
 
@@ -68,7 +73,7 @@ def run_fmri_per_subject_stats(c):
         return
 
     ensure_dir_exist(c, "output_data_dir")
-    compute_fmri_stats_per_subject(source_dir, out_file)
+    compute_fmri_stats_per_subject(cneuromod_all_dir, out_file)
 
 
 @task
@@ -135,4 +140,5 @@ def clean(c):
 @task
 def clean_source(c):
     """Deinitialize the cneuromod.all submodule and all bids sub-submodules."""
-    c.run("git submodule deinit -f source_data/cneuromod.all")
+    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
+    c.run(f"git submodule deinit -f {cneuromod_all_dir}")

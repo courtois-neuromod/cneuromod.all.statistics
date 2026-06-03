@@ -9,6 +9,9 @@ notebooks_dir: notebooks
 # source data folders
 source_data_dir: source_data
 
+# path to the root of cneuromod.all (override via INVOKE_CNEUROMOD_ALL_DIR with `invoke -e`)
+cneuromod_all_dir: source_data/cneuromod.all
+
 # output data folders
 output_data_dir: output_data
 

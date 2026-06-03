@@ -63,7 +63,7 @@ def _parse_run_info(json_path: Path, dataset: str) -> tuple[int | None, float | 
     return n_volumes, n_volumes * tr / 3600.0
 
 
-def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
+def compute_fmri_stats(cneuromod_all_dir: Path, out_file: Path) -> None:
     """
     Compute per-dataset fMRI run statistics and write a TSV + BIDS JSON sidecar.
 
@@ -74,9 +74,8 @@ def compute_fmri_stats(source_dir: Path, out_file: Path) -> None:
     avg_volumes_per_session.
     """
     records = []
-    cneuromod_dir = source_dir / "cneuromod.all"
 
-    for bids_dir in sorted(cneuromod_dir.glob("*/bids")):
+    for bids_dir in sorted(cneuromod_all_dir.glob("*/bids")):
         dataset = bids_dir.parent.name
 
         # collect all bold nii files across subjects/sessions
@@ -270,7 +269,7 @@ def _write_bids_sidecar(tsv_path: Path) -> None:
     print(f"BIDS sidecar saved to {json_path}")
 
 
-def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
+def compute_fmri_stats_per_subject(cneuromod_all_dir: Path, out_file: Path) -> None:
     """
     Compute per-dataset, per-subject fMRI run statistics and write a TSV.
 
@@ -278,9 +277,8 @@ def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
     avg_session_duration_h, total_duration_h, total_volumes, avg_volumes_per_session.
     """
     records = []
-    cneuromod_dir = source_dir / "cneuromod.all"
 
-    for bids_dir in sorted(cneuromod_dir.glob("*/bids")):
+    for bids_dir in sorted(cneuromod_all_dir.glob("*/bids")):
         dataset = bids_dir.parent.name
 
         all_nii = list(bids_dir.glob("sub-*/ses-*/func/*_bold.nii*"))
@@ -399,12 +397,11 @@ def compute_fmri_stats_per_subject(source_dir: Path, out_file: Path) -> None:
     print(f"fMRI per-subject stats saved to {out_file}")
 
 
-def count_sessions(source_dir: Path, out_file: Path) -> None:
+def count_sessions(cneuromod_all_dir: Path, out_file: Path) -> None:
     """Count BIDS sessions per subject per dataset and write a TSV."""
     records = []
-    cneuromod_dir = source_dir / "cneuromod.all"
 
-    for bids_dir in sorted(cneuromod_dir.glob("*/bids")):
+    for bids_dir in sorted(cneuromod_all_dir.glob("*/bids")):
         dataset = bids_dir.parent.name
         for subject in SUBJECTS:
             sub_dir = bids_dir / subject

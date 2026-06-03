@@ -9,7 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Session counts** (`run-statistics`): counts BIDS sessions per subject (sub-01 to sub-06) per dataset → `session_counts.tsv`.
 - **fMRI run stats** (`run-fmri-stats`): per-dataset aggregate statistics — total runs, average runs per session, average run duration, average session duration, total duration — derived from `bold.nii*` files and their JSON sidecars → `fmri_stats.tsv` + BIDS JSON sidecar.
 
-Source data is the [cneuromod.all](https://github.com/courtois-neuromod/cneuromod.all) git submodule at `source_data/cneuromod.all/`. Each dataset's `bids/` folder is a sub-submodule initialized by `invoke fetch` (non-recursive, no datalad).
+By default, source data is the [cneuromod.all](https://github.com/courtois-neuromod/cneuromod.all) git submodule at `source_data/cneuromod.all/`. Each dataset's `bids/` folder is a sub-submodule initialized by `invoke fetch` (non-recursive, no datalad). The path to `cneuromod.all` is configurable via `cneuromod_all_dir` in `invoke.yaml` or by setting `INVOKE_CNEUROMOD_ALL_DIR` and passing `-e` to invoke — useful when embedding this repo inside `cneuromod.all/docs/` where the data already lives at `../..`.
 
 This project is built on the [`airoh-mini`](https://github.com/airoh-pipeline/airoh-template) template, using the [`invoke`](https://www.pyinvoke.org/) task runner and the `airoh` pip package.
 
@@ -56,7 +56,7 @@ invoke --list             # Show all available tasks
 
 **Execution flow:** `invoke run` triggers the project's analysis pipeline via `pre=` dependencies declared in `tasks.py`. The three permanent tasks — `fetch`, `run`, `clean` — are always present; intermediate steps are project-specific.
 
-- `invoke.yaml` — all path and data config (`output_data_dir`, `source_data_dir`, `notebooks_dir`, `files:` for downloads)
+- `invoke.yaml` — all path and data config (`output_data_dir`, `source_data_dir`, `cneuromod_all_dir`, `notebooks_dir`, `files:` for downloads)
 - `tasks.py` — project-specific invoke tasks; imports reusable tasks from `airoh.utils`
 - `analysis/` — pure Python analysis logic, called by tasks in `tasks.py`
 - `notebooks/` — Jupyter notebooks executed by `run_notebooks` via `airoh.utils.run_notebooks`; notebooks receive `OUTPUT_DATA_DIR` and `SOURCE_DATA_DIR` as environment variables
