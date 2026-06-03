@@ -8,12 +8,13 @@ def fetch(c):
     cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
     repo_root = Path(".").resolve()
 
-    if not cneuromod_all_dir.resolve().is_relative_to(repo_root):
-        print(f"Using external cneuromod.all at {cneuromod_all_dir}, skipping submodule init.")
-        return
+    is_external = not cneuromod_all_dir.resolve().is_relative_to(repo_root)
 
-    print("Updating cneuromod.all submodule...")
-    c.run(f"git submodule update --init {cneuromod_all_dir}")
+    if not is_external:
+        print("Updating cneuromod.all submodule...")
+        c.run(f"git submodule update --init {cneuromod_all_dir}")
+    else:
+        print(f"Using external cneuromod.all at {cneuromod_all_dir}, skipping top-level submodule init.")
 
     for bids_dir in sorted(cneuromod_all_dir.glob("*/bids")):
         rel = bids_dir.relative_to(cneuromod_all_dir)
