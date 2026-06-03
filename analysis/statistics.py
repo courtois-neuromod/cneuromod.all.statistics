@@ -75,6 +75,11 @@ def _collect_run_map(bids_dir: Path) -> dict[str, Path]:
         key = _run_key(nii)
         if key not in run_map:
             run_map[key] = nii
+    # also handle session-less BIDS layout (e.g. harrypotter)
+    for nii in sorted(bids_dir.glob("sub-*/func/*_bold.nii*")):
+        key = _run_key(nii)
+        if key not in run_map:
+            run_map[key] = nii
     return run_map
 
 
