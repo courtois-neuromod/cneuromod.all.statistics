@@ -121,8 +121,13 @@ def _group_by_session(
     session_runs: dict[tuple[str, str], list] = {}
     for key in run_durations:
         m = re.match(r"(sub-\S+?)_(ses-\S+?)_", key)
-        sub = m.group(1) if m else "unknown"
-        ses = m.group(2) if m else "unknown"
+        if m:
+            sub, ses = m.group(1), m.group(2)
+        else:
+            # session-less layout (e.g. harrypotter): no ses- entity in key
+            m2 = re.match(r"(sub-\S+?)_", key)
+            sub = m2.group(1) if m2 else "unknown"
+            ses = "ses-01"
         session_runs.setdefault((sub, ses), []).append((run_volumes[key], run_durations[key]))
     return session_runs
 
