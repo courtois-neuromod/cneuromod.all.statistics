@@ -1,5 +1,20 @@
+import configparser
 from pathlib import Path
 from invoke import task
+
+
+def _branch_tracked_submodules(cneuromod_all_dir: Path) -> set:
+    """Return set of submodule paths that have a 'branch' key in .gitmodules."""
+    gitmodules = cneuromod_all_dir / ".gitmodules"
+    if not gitmodules.exists():
+        return set()
+    cfg = configparser.ConfigParser()
+    cfg.read(gitmodules)
+    tracked = set()
+    for section in cfg.sections():
+        if cfg.has_option(section, "branch") and cfg.has_option(section, "path"):
+            tracked.add(cfg.get(section, "path"))
+    return tracked
 
 
 @task
@@ -16,11 +31,14 @@ def fetch(c):
     else:
         print(f"Using external cneuromod.all at {cneuromod_all_dir}, skipping top-level submodule init.")
 
+    branch_tracked = _branch_tracked_submodules(cneuromod_all_dir)
+
     for bids_dir in sorted(cneuromod_all_dir.glob("*/bids")):
         rel = bids_dir.relative_to(cneuromod_all_dir)
         dataset = bids_dir.parent.name
         print(f"Initializing {dataset}/bids...")
-        c.run(f"git -C {cneuromod_all_dir} submodule update --init {rel}")
+        remote_flag = "--remote" if str(rel) in branch_tracked else ""
+        c.run(f"git -C {cneuromod_all_dir} submodule update --init {remote_flag} {rel}".strip())
 
 
 @task
