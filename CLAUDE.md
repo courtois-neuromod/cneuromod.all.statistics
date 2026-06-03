@@ -8,6 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - **Session counts** (`run-statistics`): counts BIDS sessions per subject (sub-01 to sub-06) per dataset → `session_counts.tsv`.
 - **fMRI run stats** (`run-fmri-stats`): per-dataset aggregate statistics — total runs, average runs per session, average run duration, average session duration, total duration — derived from `bold.nii*` files and their JSON sidecars → `fmri_stats.tsv` + BIDS JSON sidecar.
+- **Per-subject fMRI stats** (`run-fmri-per-subject-stats`): same metrics broken down by subject → `fmri_stats_per_subject.tsv`.
 
 By default, source data is the [cneuromod.all](https://github.com/courtois-neuromod/cneuromod.all) git submodule at `source_data/cneuromod.all/`. Each dataset's `bids/` folder is a sub-submodule initialized by `invoke fetch` (non-recursive, no datalad). The path to `cneuromod.all` is configurable via `cneuromod_all_dir` in `invoke.yaml` or by setting `INVOKE_CNEUROMOD_ALL_DIR` and passing `-e` to invoke — useful when embedding this repo inside `cneuromod.all/docs/` where the data already lives at `../..`.
 

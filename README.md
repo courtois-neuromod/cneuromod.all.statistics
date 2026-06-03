@@ -33,17 +33,21 @@ uv run invoke run
 
 ## Task overview
 
-| Task                | Description                                                         |
-|---------------------|---------------------------------------------------------------------|
-| `fetch`             | Init `cneuromod.all` submodule and each dataset's `bids` sub-submodule |
-| `run-statistics`    | Count sessions per subject per dataset; write `output_data/session_counts.tsv` |
-| `run-notebooks`     | Execute notebooks and save figures to `output_data/`               |
-| `run`               | Full pipeline in order                                              |
-| `run-smoke`         | Minimal end-to-end pass                                             |
-| `clean-statistics`  | Remove `session_counts.tsv`                                         |
-| `clean-figures`     | Remove generated figures                                            |
-| `clean`             | Remove all computed outputs                                         |
-| `clean-source`      | Deinitialize the `cneuromod.all` submodule                         |
+| Task                           | Description                                                         |
+|--------------------------------|---------------------------------------------------------------------|
+| `fetch`                        | Init `cneuromod.all` submodule and each dataset's `bids` sub-submodule |
+| `run-statistics`               | Count sessions per subject per dataset; write `output_data/session_counts.tsv` |
+| `run-fmri-stats`               | Compute per-dataset fMRI aggregate stats; write `output_data/fmri_stats.tsv` |
+| `run-fmri-per-subject-stats`   | Compute per-subject fMRI stats per dataset; write `output_data/fmri_stats_per_subject.tsv` |
+| `run-notebooks`                | Execute notebooks and save figures to `output_data/`               |
+| `run`                          | Full pipeline in order                                              |
+| `run-smoke`                    | Minimal end-to-end pass                                             |
+| `clean-statistics`             | Remove `session_counts.tsv`                                         |
+| `clean-fmri-stats`             | Remove `fmri_stats.tsv` and its JSON sidecar                       |
+| `clean-fmri-per-subject-stats` | Remove `fmri_stats_per_subject.tsv`                                |
+| `clean-figures`                | Remove generated figures                                            |
+| `clean`                        | Remove all computed outputs                                         |
+| `clean-source`                 | Deinitialize the `cneuromod.all` submodule                         |
 
 Use `uv run invoke --list` for the full task list.
 
