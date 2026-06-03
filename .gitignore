@@ -1,5 +1,6 @@
-# Ignore data files 
-*.tar.gz 
+# Ignore data files
+*.tar.gz
+output_data/*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
