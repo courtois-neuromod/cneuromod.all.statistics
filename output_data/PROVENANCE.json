@@ -30,44 +30,44 @@
   },
   "outputs": {
     "figure_fmri_hours_min_avg_max.png": {
-      "sha256": "20765fdcac990562c37498436bda2426a56c6f0607acbcce9980d7f21585fd65",
-      "size_bytes": 88868
+      "sha256": "90d12773af7c93774f197565d0d055fef67dd44159fbbcfe3ca92f336ebf0e0a",
+      "size_bytes": 92616
     },
     "figure_fmri_per_subject_avg_session_duration_h.png": {
-      "sha256": "f7092ed3e16a433233f3e2b6d9b612d00a017f833af42747a2f00027704529c3",
-      "size_bytes": 230559
+      "sha256": "c016ca0a92437aa98e6a2cdce6e4d21f4e86e1aeb10e6f82715cd1e0f1f358ad",
+      "size_bytes": 259816
     },
     "figure_fmri_per_subject_avg_volumes_per_session.png": {
-      "sha256": "18c05c8dbb8d79fcb3e5b2088932b2497c00b5a5b8d7ce56ddb29b6d7f9ef809",
-      "size_bytes": 255477
+      "sha256": "38270175b8cc61662cc536bb449ced901ad6a9082ec12ef9b6edac56351246c3",
+      "size_bytes": 299250
     },
     "figure_fmri_per_subject_total_duration_h.png": {
-      "sha256": "de8a88c8e503a3c99ce00ab2f03484984614e25708b28f557c10be72b68b6132",
-      "size_bytes": 196504
+      "sha256": "3623cfa0388432d96a6e4fd236d23ded0f0affe1eb9ff38803c452b54cf17b60",
+      "size_bytes": 230881
     },
     "figure_fmri_per_subject_total_runs.png": {
-      "sha256": "2592f16f34339781bc55eb562c6adfe6432d90c41275009484d1f0b04811d699",
-      "size_bytes": 213880
+      "sha256": "cd4858149f62d594710abd9bc1ea70dc903cd4fc1df0825c09c1346cd1be21e3",
+      "size_bytes": 235140
     },
     "figure_fmri_per_subject_total_volumes.png": {
-      "sha256": "6c9fe133d5bae234e63017654a36c367d07ca946ad247422d4b491a9889d956f",
-      "size_bytes": 272092
+      "sha256": "8dc0df8cf17a7ffca04f89e7bc3770c883654916497c7515f2566a2fcc17602f",
+      "size_bytes": 304477
     },
     "figure_fmri_stats.png": {
-      "sha256": "2abb99f4430285de7448f13ad4ad5e3ea45f2fca04403b7a53affe00046bbf57",
-      "size_bytes": 199900
+      "sha256": "4553452df19f8327f56ad029a7645658a175d0831512d07c7dbc52829e6ff382",
+      "size_bytes": 208322
     },
     "figure_fmri_total_hours.png": {
-      "sha256": "8f84cb3dae56d6aa5d4d9efdb39b5cd2bbb33c82e5ee8f6c9e8d8e25a168c3a4",
-      "size_bytes": 75748
+      "sha256": "53a0a9473840fbef0e283a091d8cf049ed3ea6ca651c54e0e83c074517c54669",
+      "size_bytes": 78776
     },
     "figure_fmri_total_volumes.png": {
-      "sha256": "f7d8c578c310f927b12d030246afc2f29084214358c35d8dd9a40d5b738e1903",
-      "size_bytes": 74003
+      "sha256": "3a8090f677e266c9c901168c5a65bdbec35dad28c09a9cd480925cfe8ae2f6a2",
+      "size_bytes": 77025
     },
     "figure_fmri_volumes_min_avg_max.png": {
-      "sha256": "920be94c31fa9d374df487a93b8296c7fb7fab175997646a7b27b3370f0c9548",
-      "size_bytes": 92401
+      "sha256": "9e7ac9ae4628820a71771414847c4e601d4dedead8519e9048ea95f56e2ed24c",
+      "size_bytes": 94819
     },
     "figure_sessions.png": {
       "sha256": "7fdb8f06a1d76eec0a7bbced8cf4891699720eec9b6f8d9e87ed93f493bf570a",
@@ -78,30 +78,30 @@
       "size_bytes": 1729
     },
     "fmri_stats.tsv": {
-      "sha256": "9f5b384c776e209beaa248e0a89e9073e9e3853a9dba4200ba97c78972cae899",
-      "size_bytes": 1314
+      "sha256": "d9a92cf08869121e65e57022a2addfc6c753ec9b927d698be24cd61bf85c6c38",
+      "size_bytes": 1374
     },
     "fmri_stats_per_subject.tsv": {
-      "sha256": "821c821c2f2cbdda7c1ae9b59aaf6273c56ece77c2a2b3140cfe6a2bc0b2b5b0",
-      "size_bytes": 5656
+      "sha256": "257733732d19bc615d3ed30384893810c0086ec3d3db5c6c9329344380dead34",
+      "size_bytes": 5948
     },
     "session_counts.tsv": {
       "sha256": "ce24621413ed35509d3e67d662bca930bc7fa57ca1330aa967309f0e084c0004",
       "size_bytes": 2553
     },
     "total_acquisition_time_per_dataset_per_subject.png": {
-      "sha256": "386763be1f479e4273d38e2deb43219bf9b549483e2654476e15a26bf20ee6ba",
-      "size_bytes": 171716
+      "sha256": "690c2e03cd5d399b14fbbfd38beaaaa11030765528cfeedf7f24b5afb0327ef8",
+      "size_bytes": 183021
     },
     "total_volumes_per_dataset_per_subject.png": {
-      "sha256": "142b89d330ba7bb32a122cc16009c38447a9b3705cba930f18954b1f799cd995",
-      "size_bytes": 169955
+      "sha256": "6fc0831437cf1387c5585f223a1ae051290b1cb64d83ea8558d920f037702425",
+      "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-08-30T17:01:05+00:00",
+  "recorded_at": "2026-08-30T19:03:52+00:00",
   "repository": {
     "branch": "main",
-    "commit": "493a8d8f026789d1d800a2381c0b8eb77d552554",
+    "commit": "e240c0219607adc7ca57a9da1aa2017d6b93ce44",
     "dirty": true,
     "remote": "git@github.com:courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/pbellec/git/cneuromod.all.statistics"
