@@ -1,44 +1,59 @@
-import configparser
 from pathlib import Path
 from invoke import task
 
 
-def _branch_tracked_submodules(cneuromod_all_dir: Path) -> set:
-    """Return set of submodule paths that have a 'branch' key in .gitmodules."""
-    gitmodules = cneuromod_all_dir / ".gitmodules"
-    if not gitmodules.exists():
-        return set()
-    cfg = configparser.ConfigParser()
-    cfg.read(gitmodules)
-    tracked = set()
-    for section in cfg.sections():
-        if cfg.has_option(section, "branch") and cfg.has_option(section, "path"):
-            tracked.add(cfg.get(section, "path"))
-    return tracked
+def _cneuromod_dir(c) -> Path:
+    """Where the cneuromod.all superdataset is made available under source_data/."""
+    return Path(c.config.get("datasets", {}).get("cneuromod_all", {})["output_dir"])
 
 
-@task
-def fetch(c):
-    """Init cneuromod.all submodule and each dataset's bids sub-submodule."""
-    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
-    repo_root = Path(".").resolve()
+@task(help={
+    "source": "Path to an existing local cneuromod.all checkout to symlink "
+              "instead of cloning (defaults to the `source:` key in "
+              "invoke.yaml, i.e. ../cneuromod.all).",
+})
+def fetch_cneuromod(c, source=None):
+    """Make the cneuromod.all superdataset available under source_data/ (symlink or clone, tree only)."""
+    from airoh.datalad import install_dataset
+    install_dataset(c, "cneuromod_all", source=source)
 
-    is_external = not cneuromod_all_dir.resolve().is_relative_to(repo_root)
 
-    if not is_external:
-        print("Updating cneuromod.all submodule...")
-        c.run(f"git submodule update --init {cneuromod_all_dir}")
-    else:
-        print(f"Using external cneuromod.all at {cneuromod_all_dir}, skipping top-level submodule init.")
+@task(help={
+    "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
+              "(default: every dataset with a `bids/` subfolder).",
+    "strict": "Raise if a bids subdataset fails to install.",
+})
+def fetch_bids(c, dataset=None, strict=False):
+    """Install each dataset's `bids/` subdataset (tree only, no annexed content)."""
+    from airoh.datalad import install_subdataset
 
-    branch_tracked = _branch_tracked_submodules(cneuromod_all_dir)
+    root = _cneuromod_dir(c)
+    if not root.is_dir():
+        print(f"⚠️  {root} not found — run `invoke fetch-cneuromod` first.")
+        return
 
-    for bids_dir in sorted(cneuromod_all_dir.glob("*/bids")):
-        rel = bids_dir.relative_to(cneuromod_all_dir)
-        dataset = bids_dir.parent.name
-        print(f"Initializing {dataset}/bids...")
-        remote_flag = "--remote" if str(rel) in branch_tracked else ""
-        c.run(f"git -C {cneuromod_all_dir} submodule update --init {remote_flag} {rel}".strip())
+    names = {n.strip() for n in dataset.split(",")} if dataset else None
+    for bids_dir in sorted(root.glob("*/bids")):
+        name = bids_dir.parent.name
+        if names is not None and name not in names:
+            continue
+        print(f"Installing {name}/bids...")
+        install_subdataset(f"{name}/bids", root, strict=strict)
+
+
+@task(help={
+    "source": "Path to an existing local cneuromod.all checkout to symlink instead of cloning.",
+    "dataset": "Comma-separated dataset names to restrict the bids fetch to.",
+    "strict": "Raise if a bids subdataset fails to install.",
+})
+def fetch(c, source=None, dataset=None, strict=False):
+    """Retrieve all source data: the cneuromod.all superdataset and every dataset's bids tree."""
+    from airoh.provenance import record_sources
+
+    fetch_cneuromod(c, source=source)
+    fetch_bids(c, dataset=dataset, strict=strict)
+    record_sources(c)
+    print("✅ fetch complete.")
 
 
 @task
@@ -47,7 +62,7 @@ def run_statistics(c):
     from airoh.utils import ensure_dir_exist
     from analysis.statistics import count_sessions
 
-    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
+    cneuromod_all_dir = _cneuromod_dir(c)
     output_dir = Path(c.config.get("output_data_dir"))
     out_file = output_dir / "session_counts.tsv"
 
@@ -65,7 +80,7 @@ def run_fmri_stats(c):
     from airoh.utils import ensure_dir_exist
     from analysis.statistics import compute_fmri_stats
 
-    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
+    cneuromod_all_dir = _cneuromod_dir(c)
     output_dir = Path(c.config.get("output_data_dir"))
     out_file = output_dir / "fmri_stats.tsv"
 
@@ -83,7 +98,7 @@ def run_fmri_per_subject_stats(c):
     from airoh.utils import ensure_dir_exist
     from analysis.statistics import compute_fmri_stats_per_subject
 
-    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
+    cneuromod_all_dir = _cneuromod_dir(c)
     output_dir = Path(c.config.get("output_data_dir"))
     out_file = output_dir / "fmri_stats_per_subject.tsv"
 
@@ -107,17 +122,41 @@ def run_notebooks(c):
     airoh_run_notebooks(c, notebooks_dir, output_dir, keys=["source_data_dir", "output_data_dir"])
 
 
-@task(pre=[fetch, run_statistics, run_fmri_stats, run_fmri_per_subject_stats, run_notebooks])
-def run(c):
+@task(help={"force": "Run `clean` first, forcing every step to recompute."})
+def run(c, force=False):
     """Full pipeline."""
+    from airoh.provenance import record_run
+
+    if force:
+        clean(c)
+
+    run_statistics(c)
+    run_fmri_stats(c)
+    run_fmri_per_subject_stats(c)
+    run_notebooks(c)
+
+    record_run(c, tasks="run-statistics,run-fmri-stats,run-fmri-per-subject-stats,run-notebooks")
     print("Pipeline complete.")
+
+
+@task(help={
+    "skip": "Comma-separated check names to skip (also settable under "
+            "`verify: skip_checks:` in invoke.yaml).",
+    "strict": "Treat warnings as failures.",
+})
+def verify(c, skip=None, strict=False):
+    """Check that code, config, data and docs still agree. Not part of `run`."""
+    from airoh.verify import verify as airoh_verify
+    airoh_verify(c, skip=skip, strict=strict)
 
 
 @task
 def run_smoke(c):
     """Smoke test: minimal end-to-end pass."""
-    fetch(c)
+    fetch_cneuromod(c)
+    fetch_bids(c, strict=True)
     run_statistics(c)
+    run_fmri_per_subject_stats(c)
     run_notebooks(c)
 
 
@@ -150,14 +189,31 @@ def clean_figures(c):
     clean_folder(c, "output_data_dir", "*.png")
 
 
-@task(pre=[clean_statistics, clean_fmri_stats, clean_fmri_per_subject_stats, clean_figures])
+@task
 def clean(c):
     """Remove all computed outputs."""
-    pass
+    clean_statistics(c)
+    clean_fmri_stats(c)
+    clean_fmri_per_subject_stats(c)
+    clean_figures(c)
+
+
+@task
+def clean_cneuromod(c):
+    """Remove the cneuromod.all checkout (unlink the symlink, or delete a clone)."""
+    root = _cneuromod_dir(c)
+    if root.is_symlink():
+        root.unlink()
+        print(f"🧹 Unlinked {root}")
+    elif root.is_dir():
+        import shutil
+        shutil.rmtree(root)
+        print(f"🧹 Removed {root}")
+    else:
+        print(f"🫧 {root} does not exist — nothing to clean")
 
 
 @task
 def clean_source(c):
-    """Deinitialize the cneuromod.all submodule and all bids sub-submodules."""
-    cneuromod_all_dir = Path(c.config.get("cneuromod_all_dir"))
-    c.run(f"git submodule deinit -f {cneuromod_all_dir}")
+    """Remove the cneuromod.all checkout."""
+    clean_cneuromod(c)

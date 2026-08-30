@@ -1,0 +1,116 @@
+{
+  "command": "/home/pbellec/git/cneuromod.all.statistics/.venv/bin/invoke run",
+  "environment": {
+    "lockfiles": {
+      "requirements.txt": "a349618c6469de24a8aa13c0dcbdfaaa94b95711349e75156a2711bdbfbbcbf2",
+      "uv.lock": "18fdac1e8eb36d433b659c3e314ca60b46029d64cb4010044b8ba1b42509df20"
+    },
+    "packages": {
+      "airoh": "0.5.0",
+      "invoke": "3.0.3",
+      "jupyter": "1.1.1",
+      "matplotlib": "3.10.9",
+      "nbconvert": "7.17.1",
+      "pandas": "3.0.2",
+      "requests": "2.33.1"
+    },
+    "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+    "python": "3.14.0"
+  },
+  "inputs": {
+    "assets": {
+      "cneuromod_all": {
+        "commit": "02ab5a0f848613c78ed5d38def297168f83b2a98",
+        "resolved_path": "/home/pbellec/git/cneuromod.all",
+        "sha256": null
+      }
+    },
+    "manifest_file": "source_data/MANIFEST.json",
+    "manifest_sha256": "b61e87827f76a5ed3c9afa521e1c662f9189069a64a6f04a989d142ebd2a4e3d"
+  },
+  "outputs": {
+    "figure_fmri_hours_min_avg_max.png": {
+      "sha256": "20765fdcac990562c37498436bda2426a56c6f0607acbcce9980d7f21585fd65",
+      "size_bytes": 88868
+    },
+    "figure_fmri_per_subject_avg_session_duration_h.png": {
+      "sha256": "f7092ed3e16a433233f3e2b6d9b612d00a017f833af42747a2f00027704529c3",
+      "size_bytes": 230559
+    },
+    "figure_fmri_per_subject_avg_volumes_per_session.png": {
+      "sha256": "18c05c8dbb8d79fcb3e5b2088932b2497c00b5a5b8d7ce56ddb29b6d7f9ef809",
+      "size_bytes": 255477
+    },
+    "figure_fmri_per_subject_total_duration_h.png": {
+      "sha256": "de8a88c8e503a3c99ce00ab2f03484984614e25708b28f557c10be72b68b6132",
+      "size_bytes": 196504
+    },
+    "figure_fmri_per_subject_total_runs.png": {
+      "sha256": "2592f16f34339781bc55eb562c6adfe6432d90c41275009484d1f0b04811d699",
+      "size_bytes": 213880
+    },
+    "figure_fmri_per_subject_total_volumes.png": {
+      "sha256": "6c9fe133d5bae234e63017654a36c367d07ca946ad247422d4b491a9889d956f",
+      "size_bytes": 272092
+    },
+    "figure_fmri_stats.png": {
+      "sha256": "2abb99f4430285de7448f13ad4ad5e3ea45f2fca04403b7a53affe00046bbf57",
+      "size_bytes": 199900
+    },
+    "figure_fmri_total_hours.png": {
+      "sha256": "8f84cb3dae56d6aa5d4d9efdb39b5cd2bbb33c82e5ee8f6c9e8d8e25a168c3a4",
+      "size_bytes": 75748
+    },
+    "figure_fmri_total_volumes.png": {
+      "sha256": "f7d8c578c310f927b12d030246afc2f29084214358c35d8dd9a40d5b738e1903",
+      "size_bytes": 74003
+    },
+    "figure_fmri_volumes_min_avg_max.png": {
+      "sha256": "920be94c31fa9d374df487a93b8296c7fb7fab175997646a7b27b3370f0c9548",
+      "size_bytes": 92401
+    },
+    "figure_sessions.png": {
+      "sha256": "7fdb8f06a1d76eec0a7bbced8cf4891699720eec9b6f8d9e87ed93f493bf570a",
+      "size_bytes": 256945
+    },
+    "fmri_stats.json": {
+      "sha256": "3d17ffa628efdc20f05c246a301c8132a429a3496ceafbdbbe5a563897efee60",
+      "size_bytes": 1729
+    },
+    "fmri_stats.tsv": {
+      "sha256": "9f5b384c776e209beaa248e0a89e9073e9e3853a9dba4200ba97c78972cae899",
+      "size_bytes": 1314
+    },
+    "fmri_stats_per_subject.tsv": {
+      "sha256": "821c821c2f2cbdda7c1ae9b59aaf6273c56ece77c2a2b3140cfe6a2bc0b2b5b0",
+      "size_bytes": 5656
+    },
+    "session_counts.tsv": {
+      "sha256": "ce24621413ed35509d3e67d662bca930bc7fa57ca1330aa967309f0e084c0004",
+      "size_bytes": 2553
+    },
+    "total_acquisition_time_per_dataset_per_subject.png": {
+      "sha256": "386763be1f479e4273d38e2deb43219bf9b549483e2654476e15a26bf20ee6ba",
+      "size_bytes": 171716
+    },
+    "total_volumes_per_dataset_per_subject.png": {
+      "sha256": "142b89d330ba7bb32a122cc16009c38447a9b3705cba930f18954b1f799cd995",
+      "size_bytes": 169955
+    }
+  },
+  "recorded_at": "2026-08-30T17:01:05+00:00",
+  "repository": {
+    "branch": "main",
+    "commit": "493a8d8f026789d1d800a2381c0b8eb77d552554",
+    "dirty": true,
+    "remote": "git@github.com:courtois-neuromod/cneuromod.all.statistics.git",
+    "toplevel": "/home/pbellec/git/cneuromod.all.statistics"
+  },
+  "schema": "airoh/provenance/1",
+  "tasks": [
+    "run-statistics",
+    "run-fmri-stats",
+    "run-fmri-per-subject-stats",
+    "run-notebooks"
+  ]
+}

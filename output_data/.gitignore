@@ -1,2 +1,5 @@
 *.csv
 *.png
+
+# Provenance is a tracked output: it records what produced everything else.
+!PROVENANCE.json

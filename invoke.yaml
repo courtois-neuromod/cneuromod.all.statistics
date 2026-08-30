@@ -1,19 +1,57 @@
 # invoke.yaml
 
-# Code folder
-code_dir: analysis
-
 # Notebooks folders
 notebooks_dir: notebooks
 
 # source data folders
 source_data_dir: source_data
 
-# path to the root of cneuromod.all (override via INVOKE_CNEUROMOD_ALL_DIR with `invoke -e`)
-cneuromod_all_dir: source_data/cneuromod.all
-
 # output data folders
 output_data_dir: output_data
 
-# file sources
-files: {}
+# Datalad datasets
+#
+# cneuromod.all is a Datalad superdataset holding one folder per CNeuroMod
+# dataset. Each dataset's `bids/` folder is itself a subdataset, installed
+# (tree only, no annexed content — the analysis only reads directory
+# structure and *_bold.json sidecars, which are plain git files) by
+# `fetch-bids`.
+#
+#   - `url`        : remote to clone when no local checkout is available
+#   - `output_dir` : where the superdataset is made available inside source_data/
+#   - `source`     : path to an existing local checkout to use instead of
+#                    cloning — the primary use case here, since cneuromod.all
+#                    already lives at ../cneuromod.all relative to this repo.
+#                    Overridable on the command line with `invoke fetch --source /path`,
+#                    e.g. `invoke fetch --source ../..` when this repo is embedded
+#                    inside `cneuromod.all/docs/`.
+datasets:
+  cneuromod_all:
+    url: https://github.com/courtois-neuromod/cneuromod.all
+    output_dir: source_data/cneuromod.all
+    source: ../cneuromod.all
+
+# provenance records
+#
+# Written by `fetch` and `run` (see airoh.provenance). Both are git-tracked:
+# they are small, and they are the only record of what produced a result when
+# datalad is not in play.
+manifest_file: source_data/MANIFEST.json
+provenance_file: output_data/PROVENANCE.json
+# Files above this size record their metadata but no checksum, so one large
+# asset cannot make every fetch crawl.
+provenance_hash_max_bytes: 104857600
+
+# `invoke verify` settings — all optional; delete this block to accept the
+# defaults.
+verify:
+  # Check names to skip entirely, e.g. [lint, tracked_size].
+  skip_checks: []
+  # Glob patterns exempt from the path and tracked-file checks.
+  ignore_paths:
+    # Prose in CLAUDE.md's "Template cleanup" checklist for new projects
+    # started from this template — not a path that exists in this project,
+    # since that cleanup has already been done here.
+    - analysis/simulation.py
+  # Largest file git may track before the check fails (default 10 MB).
+  max_tracked_bytes: 10485760
