@@ -6,8 +6,9 @@ Made available by `invoke fetch-cneuromod`: a symlink to an existing local
 checkout (default `../cneuromod.all`, overridable with `--source`), or a
 `datalad clone` of [courtois-neuromod/cneuromod.all](https://github.com/courtois-neuromod/cneuromod.all)
 when none is found. Either way only the dataset *tree* is retrieved, never
-annexed content — this project only reads directory structure and
-`*_bold.json` sidecars, which are plain git files.
+annexed content — this project only reads directory structure,
+`*_bold.json` sidecars, each dataset's `dataset_info.yaml` and
+`docs/schema.json`, all plain git files.
 
 Contains one folder per CNeuroMod dataset. Each dataset with a `bids/`
 subfolder is itself a Datalad subdataset, installed (tree only) by

@@ -5,3 +5,5 @@ jupyter>=1.0
 nbconvert>=7.0
 matplotlib>=3.5
 pandas>=1.3
+pyyaml>=6.0
+jsonschema>=4.0

@@ -111,6 +111,46 @@ def run_fmri_per_subject_stats(c):
 
 
 @task
+def run_cneuromod_tables(c):
+    """Build tidy per-dataset comparison tables from cneuromod.all dataset_info.yaml files."""
+    from airoh.utils import ensure_dir_exist
+    from analysis.dataset_info import (
+        build_cneuromod_subjects_table,
+        build_cneuromod_tidy_table,
+        validate_dataset_info,
+        COLUMN_GROUPS_PER_SUBJECT,
+        COLUMN_GROUPS_TOTAL,
+    )
+
+    cneuromod_all_dir = _cneuromod_dir(c)
+    output_dir = Path(c.config.get("output_data_dir"))
+    out_files = {
+        "per_subject": output_dir / "cneuromod_tidy_per_subject.csv",
+        "total": output_dir / "cneuromod_tidy_total.csv",
+        "subjects": output_dir / "cneuromod_subjects.csv",
+    }
+
+    if all(f.exists() for f in out_files.values()):
+        print(f"Skipping run-cneuromod-tables (outputs exist in {output_dir})")
+        return
+
+    ensure_dir_exist(c, "output_data_dir")
+    validate_dataset_info(cneuromod_all_dir, cneuromod_all_dir / "docs" / "schema.json")
+
+    for scope, groups in [
+        ("per_subject", COLUMN_GROUPS_PER_SUBJECT),
+        ("total", COLUMN_GROUPS_TOTAL),
+    ]:
+        df = build_cneuromod_tidy_table(cneuromod_all_dir, groups)
+        df.to_csv(out_files[scope], index=False)
+        print(f"Saved {len(df)} rows to {out_files[scope].name}")
+
+    df = build_cneuromod_subjects_table(cneuromod_all_dir)
+    df.to_csv(out_files["subjects"], index=False)
+    print(f"Saved {len(df)} rows to {out_files['subjects'].name}")
+
+
+@task
 def run_notebooks(c):
     """Execute notebooks and save figures to output_data/."""
     from airoh.utils import run_notebooks as airoh_run_notebooks, ensure_dir_exist
@@ -133,9 +173,11 @@ def run(c, force=False):
     run_statistics(c)
     run_fmri_stats(c)
     run_fmri_per_subject_stats(c)
+    run_cneuromod_tables(c)
     run_notebooks(c)
 
-    record_run(c, tasks="run-statistics,run-fmri-stats,run-fmri-per-subject-stats,run-notebooks")
+    record_run(c, tasks="run-statistics,run-fmri-stats,run-fmri-per-subject-stats,"
+                        "run-cneuromod-tables,run-notebooks")
     print("Pipeline complete.")
 
 
@@ -157,6 +199,7 @@ def run_smoke(c):
     fetch_bids(c, strict=True)
     run_statistics(c)
     run_fmri_per_subject_stats(c)
+    run_cneuromod_tables(c)
     run_notebooks(c)
 
 
@@ -183,6 +226,13 @@ def clean_statistics(c):
 
 
 @task
+def clean_cneuromod_tables(c):
+    """Remove the cneuromod_*.csv comparison tables."""
+    from airoh.utils import clean_folder
+    clean_folder(c, "output_data_dir", "cneuromod_*.csv")
+
+
+@task
 def clean_figures(c):
     """Remove generated figures."""
     from airoh.utils import clean_folder
@@ -195,6 +245,7 @@ def clean(c):
     clean_statistics(c)
     clean_fmri_stats(c)
     clean_fmri_per_subject_stats(c)
+    clean_cneuromod_tables(c)
     clean_figures(c)
 
 

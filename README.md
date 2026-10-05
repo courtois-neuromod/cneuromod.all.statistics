@@ -2,7 +2,7 @@
 
 Statistics across all CNeuroMod datasets.
 
-This repository computes summary statistics (session counts per subject per dataset) from the BIDS metadata of the [Courtois-NeuroMod](https://www.cneuromod.ca/) data collection and produces visualizations.
+This repository computes summary statistics (session counts and fMRI run statistics per subject per dataset) from the BIDS metadata of the [Courtois-NeuroMod](https://www.cneuromod.ca/) data collection, compares CNeuroMod datasets by data volume using each dataset's curated `dataset_info.yaml`, and produces visualizations.
 
 ---
 
@@ -43,6 +43,7 @@ Or in one step: `uv run invoke run --force`.
 | `run-statistics`               | Count sessions per subject per dataset; write `output_data/session_counts.tsv` |
 | `run-fmri-stats`               | Compute per-dataset fMRI aggregate stats; write `output_data/fmri_stats.tsv` |
 | `run-fmri-per-subject-stats`   | Compute per-subject fMRI stats per dataset; write `output_data/fmri_stats_per_subject.tsv` |
+| `run-cneuromod-tables`         | Validate each `dataset_info.yaml` and build the per-dataset comparison tables `output_data/cneuromod_*.csv` |
 | `run-notebooks`                | Execute notebooks and save figures to `output_data/`               |
 | `run`                          | Full pipeline in order                                              |
 | `run-smoke`                    | Minimal end-to-end pass                                             |
@@ -50,6 +51,7 @@ Or in one step: `uv run invoke run --force`.
 | `clean-statistics`             | Remove `session_counts.tsv`                                         |
 | `clean-fmri-stats`             | Remove `fmri_stats.tsv` and its JSON sidecar                       |
 | `clean-fmri-per-subject-stats` | Remove `fmri_stats_per_subject.tsv`                                |
+| `clean-cneuromod-tables`       | Remove the `cneuromod_*.csv` comparison tables                     |
 | `clean-figures`                | Remove generated figures                                            |
 | `clean`                        | Remove all computed outputs                                         |
 | `clean-cneuromod`              | Remove the `cneuromod.all` checkout                                 |
@@ -67,7 +69,8 @@ Use `uv run invoke --list` for the full task list.
 `invoke fetch` symlinks an existing local checkout of `cneuromod.all` (the
 `source:` key in `invoke.yaml`, default `../cneuromod.all`), or clones it from
 GitHub when none is found — the dataset *tree* only, no annexed content, since
-this project only reads directory structure and `*_bold.json` sidecars. What
+this project only reads directory structure, `*_bold.json` sidecars, each
+dataset's `dataset_info.yaml` and the cneuromod.all JSON schema. What
 was actually consumed is recorded in `source_data/MANIFEST.json` (by `fetch`)
 and `output_data/PROVENANCE.json` (by `run`).
 

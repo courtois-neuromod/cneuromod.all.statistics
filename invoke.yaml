@@ -14,7 +14,8 @@ output_data_dir: output_data
 # cneuromod.all is a Datalad superdataset holding one folder per CNeuroMod
 # dataset. Each dataset's `bids/` folder is itself a subdataset, installed
 # (tree only, no annexed content — the analysis only reads directory
-# structure and *_bold.json sidecars, which are plain git files) by
+# structure, *_bold.json sidecars, each dataset's dataset_info.yaml and
+# docs/schema.json, which are plain git files) by
 # `fetch-bids`.
 #
 #   - `url`        : remote to clone when no local checkout is available
