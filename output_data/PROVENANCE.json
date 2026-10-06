@@ -36,20 +36,20 @@
       "size_bytes": 4076
     },
     "cneuromod_tidy_per_subject.csv": {
-      "sha256": "0aa6d2edbd1b81fde788d3a67e1dabf507d1e26a0a1674abb57b8d158f3bfafd",
-      "size_bytes": 23428
+      "sha256": "ed5dfdcd777e56fb15a479a20824de7770fd2424525c99c4ec820b390974dcbc",
+      "size_bytes": 24877
     },
     "cneuromod_tidy_total.csv": {
-      "sha256": "6b4990f51ee36e742a53a67a7f5b99af3ddba8686b2f29bd54f05da9b0eec85d",
-      "size_bytes": 28114
+      "sha256": "46f330226ee0c6eb7d3712d6aac4552b552767cf7f6541baf9fa0e4fedf55e7d",
+      "size_bytes": 29563
     },
     "figure_cneuromod_comparison_per_subject.png": {
-      "sha256": "c3921c99deeebdbf4a7af81e2d1f6429ba5d30cc60ae80b2970ba65424dbd9a0",
-      "size_bytes": 446592
+      "sha256": "0f78f8849cf0d917f5fdd2bcc1e96d1a41d17a60114c9b425148803c30e26818",
+      "size_bytes": 447656
     },
     "figure_cneuromod_comparison_total.png": {
-      "sha256": "d27c507e024173c855de434b39afc932c7dafd4fe92915a32a03784316ef35cd",
-      "size_bytes": 493229
+      "sha256": "5f2e63b5b7075f98e845b51ad9724f167b678d22b47b2070dc5254cb50b8609f",
+      "size_bytes": 494228
     },
     "figure_fmri_hours_min_avg_max.png": {
       "sha256": "4cda0253c57b1b22aefad0c57abbaf799f0b63d59cf728dc03be345bd508f1a6",
@@ -120,10 +120,10 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-10-06T02:06:46+00:00",
+  "recorded_at": "2026-10-06T02:25:51+00:00",
   "repository": {
     "branch": "main",
-    "commit": "46c5dcd5bdcd5aaa4f70d6538a188e47a2d780aa",
+    "commit": "68a6fe83ff342ab90746906ae23487904f20697f",
     "dirty": true,
     "remote": "git@github.com:courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/pbellec/git/cneuromod.all.statistics"

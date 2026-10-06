@@ -9,7 +9,7 @@ COLUMN_GROUPS_PER_SUBJECT = [
     ("Brain", "#4472C4", [
         ("fMRI",  "neuroimaging.fmri.per_subject_h",  "h"),
     ]),
-    ("Tasks", "#538135", [
+    ("Task content", "#538135", [
         ("Images",     "tasks.images.per_subject_unique",           "#img"),
         ("Video",      "tasks.video.per_subject_unique",            "h"),
         ("Audio",      "tasks.audio.per_subject_unique",            "h"),
@@ -37,7 +37,7 @@ COLUMN_GROUPS_TOTAL = [
         ("iEEG",  "neuroimaging.ieeg.total_h",  "h"),
         ("Ca²⁺",  "neuroimaging.calcium_imaging.total_h", "h"),
     ]),
-    ("Tasks", "#538135", [
+    ("Task content", "#538135", [
         ("Images", "tasks.images.total_unique",           "#img"),
         ("Video",  "tasks.video.total_unique",            "h"),
         ("Audio",  "tasks.audio.total_unique",            "h"),

@@ -3,3 +3,7 @@
 
 # Provenance is a tracked output: it records what produced everything else.
 !PROVENANCE.json
+
+# CNeuroMod comparison figures are tracked so they can be referenced directly.
+!figure_cneuromod_comparison_per_subject.png
+!figure_cneuromod_comparison_total.png
