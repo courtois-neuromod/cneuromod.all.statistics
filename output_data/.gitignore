@@ -7,3 +7,8 @@
 # CNeuroMod comparison figures are tracked so they can be referenced directly.
 !figure_cneuromod_comparison_per_subject.png
 !figure_cneuromod_comparison_total.png
+
+# CNeuroMod tidy tables are tracked so cneuromod.paper can quote live numbers from them.
+!cneuromod_tidy_per_subject.csv
+!cneuromod_tidy_total.csv
+!cneuromod_subjects.csv

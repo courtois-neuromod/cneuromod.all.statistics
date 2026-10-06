@@ -1,0 +1,346 @@
+dataset,group,group_color,modality,dotpath,unit,value
+anat,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,
+anat,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+anat,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+anat,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+anat,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+anat,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+anat,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+anat,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+anat,Task content,#538135,Games,tasks.game.per_subject_h,h,
+anat,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+anat,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+anat,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+anat,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+anat,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+anat,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+emotion-videos,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,5.2
+emotion-videos,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+emotion-videos,Task content,#538135,Video,tasks.video.per_subject_unique,h,5.2
+emotion-videos,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+emotion-videos,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+emotion-videos,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+emotion-videos,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+emotion-videos,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+emotion-videos,Task content,#538135,Games,tasks.game.per_subject_h,h,
+emotion-videos,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+emotion-videos,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,5.2
+emotion-videos,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,5.2
+emotion-videos,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,5.2
+emotion-videos,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,5.2
+emotion-videos,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,5.2
+floc,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,0.8
+floc,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+floc,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+floc,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+floc,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+floc,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+floc,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+floc,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,0.77
+floc,Task content,#538135,Games,tasks.game.per_subject_h,h,
+floc,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,9.0
+floc,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+floc,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+floc,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+floc,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+floc,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+friends,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,61.9
+friends,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+friends,Task content,#538135,Video,tasks.video.per_subject_unique,h,65.0
+friends,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,65.0
+friends,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,65.0
+friends,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+friends,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+friends,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+friends,Task content,#538135,Games,tasks.game.per_subject_h,h,
+friends,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+friends,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,65.0
+friends,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,65.0
+friends,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,65.0
+friends,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,65.0
+friends,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,22.0
+gamepad,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,0.7
+gamepad,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+gamepad,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+gamepad,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+gamepad,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+gamepad,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+gamepad,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+gamepad,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,0.67
+gamepad,Task content,#538135,Games,tasks.game.per_subject_h,h,
+gamepad,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+gamepad,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+gamepad,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+gamepad,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+gamepad,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+gamepad,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+harrypotter,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,1.4
+harrypotter,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+harrypotter,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+harrypotter,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+harrypotter,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+harrypotter,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,1.4
+harrypotter,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+harrypotter,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+harrypotter,Task content,#538135,Games,tasks.game.per_subject_h,h,
+harrypotter,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+harrypotter,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,1.4
+harrypotter,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,1.4
+harrypotter,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,1.4
+harrypotter,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,1.4
+harrypotter,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+hcptrt,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,7.3
+hcptrt,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+hcptrt,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+hcptrt,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+hcptrt,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+hcptrt,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+hcptrt,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,1.25
+hcptrt,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,7.85
+hcptrt,Task content,#538135,Games,tasks.game.per_subject_h,h,
+hcptrt,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,36.0
+hcptrt,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+hcptrt,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+hcptrt,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+hcptrt,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+hcptrt,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+hearing,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,
+hearing,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+hearing,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+hearing,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+hearing,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+hearing,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+hearing,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+hearing,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+hearing,Task content,#538135,Games,tasks.game.per_subject_h,h,
+hearing,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+hearing,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+hearing,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+hearing,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+hearing,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+hearing,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+langlocalizer,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,1.1
+langlocalizer,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+langlocalizer,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+langlocalizer,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+langlocalizer,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+langlocalizer,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+langlocalizer,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+langlocalizer,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,1.1
+langlocalizer,Task content,#538135,Games,tasks.game.per_subject_h,h,
+langlocalizer,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,4.0
+langlocalizer,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+langlocalizer,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+langlocalizer,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+langlocalizer,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+langlocalizer,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+mario,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,18.4
+mario,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+mario,Task content,#538135,Video,tasks.video.per_subject_unique,h,18.4
+mario,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,18.4
+mario,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+mario,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+mario,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+mario,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+mario,Task content,#538135,Games,tasks.game.per_subject_h,h,18.4
+mario,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+mario,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,18.4
+mario,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,18.4
+mario,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,18.4
+mario,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,18.4
+mario,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+mario3,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,9.9
+mario3,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+mario3,Task content,#538135,Video,tasks.video.per_subject_unique,h,9.9
+mario3,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,9.9
+mario3,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+mario3,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+mario3,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+mario3,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+mario3,Task content,#538135,Games,tasks.game.per_subject_h,h,9.9
+mario3,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+mario3,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+mario3,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+mario3,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+mario3,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+mario3,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+mario_eeg,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,
+mario_eeg,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+mario_eeg,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+mario_eeg,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+mario_eeg,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+mario_eeg,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+mario_eeg,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+mario_eeg,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+mario_eeg,Task content,#538135,Games,tasks.game.per_subject_h,h,
+mario_eeg,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+mario_eeg,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+mario_eeg,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+mario_eeg,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+mario_eeg,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+mario_eeg,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+mariostars,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,6.9
+mariostars,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+mariostars,Task content,#538135,Video,tasks.video.per_subject_unique,h,6.9
+mariostars,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,6.9
+mariostars,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+mariostars,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+mariostars,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+mariostars,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+mariostars,Task content,#538135,Games,tasks.game.per_subject_h,h,6.9
+mariostars,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+mariostars,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+mariostars,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+mariostars,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+mariostars,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+mariostars,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+movie10,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,10.3
+movie10,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+movie10,Task content,#538135,Video,tasks.video.per_subject_unique,h,7.3
+movie10,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,7.3
+movie10,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,7.3
+movie10,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+movie10,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+movie10,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+movie10,Task content,#538135,Games,tasks.game.per_subject_h,h,
+movie10,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+movie10,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,10.0
+movie10,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,10.0
+movie10,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,10.0
+movie10,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,10.0
+movie10,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+multfs,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,5.0
+multfs,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+multfs,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+multfs,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+multfs,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+multfs,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+multfs,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+multfs,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,8.8
+multfs,Task content,#538135,Games,tasks.game.per_subject_h,h,
+multfs,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+multfs,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+multfs,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+multfs,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+multfs,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+multfs,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+mutemusic,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,3.3
+mutemusic,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+mutemusic,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+mutemusic,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,1.1
+mutemusic,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+mutemusic,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+mutemusic,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+mutemusic,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+mutemusic,Task content,#538135,Games,tasks.game.per_subject_h,h,
+mutemusic,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+mutemusic,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+mutemusic,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+mutemusic,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+mutemusic,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+mutemusic,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+narratives,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,9.7
+narratives,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+narratives,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+narratives,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,3.2
+narratives,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,3.2
+narratives,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+narratives,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+narratives,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+narratives,Task content,#538135,Games,tasks.game.per_subject_h,h,
+narratives,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+narratives,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+narratives,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+narratives,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+narratives,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+narratives,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+ood,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,2.0
+ood,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+ood,Task content,#538135,Video,tasks.video.per_subject_unique,h,2.0
+ood,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,2.0
+ood,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,2.0
+ood,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+ood,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+ood,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+ood,Task content,#538135,Games,tasks.game.per_subject_h,h,
+ood,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+ood,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+ood,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+ood,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+ood,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+ood,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+petit-prince,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,3.2
+petit-prince,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+petit-prince,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+petit-prince,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,1.1
+petit-prince,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,1.1
+petit-prince,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+petit-prince,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+petit-prince,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+petit-prince,Task content,#538135,Games,tasks.game.per_subject_h,h,
+petit-prince,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+petit-prince,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+petit-prince,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+petit-prince,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+petit-prince,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+petit-prince,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+retinotopy,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,1.4
+retinotopy,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+retinotopy,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+retinotopy,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+retinotopy,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+retinotopy,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+retinotopy,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+retinotopy,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,1.4
+retinotopy,Task content,#538135,Games,tasks.game.per_subject_h,h,
+retinotopy,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,12.0
+retinotopy,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+retinotopy,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+retinotopy,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+retinotopy,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+retinotopy,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+shinobi,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,10.4
+shinobi,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+shinobi,Task content,#538135,Video,tasks.video.per_subject_unique,h,10.4
+shinobi,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,10.4
+shinobi,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+shinobi,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+shinobi,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+shinobi,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+shinobi,Task content,#538135,Games,tasks.game.per_subject_h,h,10.4
+shinobi,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+shinobi,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,8.0
+shinobi,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,8.0
+shinobi,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,8.0
+shinobi,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,8.0
+shinobi,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+things,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,16.4
+things,Task content,#538135,Images,tasks.images.per_subject_unique,#img,4320.0
+things,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+things,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+things,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+things,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
+things,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+things,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,16.4
+things,Task content,#538135,Games,tasks.game.per_subject_h,h,
+things,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,1.0
+things,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+things,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+things,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+things,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+things,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
+triplets,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,7.8
+triplets,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
+triplets,Task content,#538135,Video,tasks.video.per_subject_unique,h,
+triplets,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,
+triplets,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,
+triplets,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,2.6
+triplets,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
+triplets,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,
+triplets,Task content,#538135,Games,tasks.game.per_subject_h,h,
+triplets,Task content,#538135,Contrasts,tasks.contrasts.per_subject,#,
+triplets,Physiology,#7030A0,ECG,physiology.ecg.per_subject_h,h,
+triplets,Physiology,#7030A0,Resp.,physiology.respiration.per_subject_h,h,
+triplets,Physiology,#7030A0,PPG,physiology.plethysmograph.per_subject_h,h,
+triplets,Physiology,#7030A0,EDA,physiology.eda.per_subject_h,h,
+triplets,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,

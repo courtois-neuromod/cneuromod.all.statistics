@@ -1,5 +1,5 @@
 {
-  "command": "/home/pbellec/git/cneuromod.all.statistics/.venv/bin/invoke run",
+  "command": "/home/pbellec/git/cneuromod.paper/source_data/statistics/.venv/bin/invoke run",
   "environment": {
     "lockfiles": {
       "requirements.txt": "3a035d48cad92bb70a0d3d4e745eeda166055f065bb59306d9137678d5dfd979",
@@ -34,6 +34,10 @@
     "cneuromod_subjects.csv": {
       "sha256": "1754a842f04ee1ddee987c52e8563ceb11b6844696e140f3a01cdcf0cfb2d2b1",
       "size_bytes": 4076
+    },
+    "cneuromod_summary.yaml": {
+      "sha256": "9dc4bb94876bc755369f5237cd5a866e2527a85eec8353b2f6140ee6e1cf1272",
+      "size_bytes": 1257
     },
     "cneuromod_tidy_per_subject.csv": {
       "sha256": "ed5dfdcd777e56fb15a479a20824de7770fd2424525c99c4ec820b390974dcbc",
@@ -120,13 +124,13 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-10-06T02:25:51+00:00",
+  "recorded_at": "2026-10-06T16:55:01+00:00",
   "repository": {
     "branch": "main",
-    "commit": "68a6fe83ff342ab90746906ae23487904f20697f",
+    "commit": "9f45a0dc0825281c9f266fd98f994be7d465abe1",
     "dirty": true,
-    "remote": "git@github.com:courtois-neuromod/cneuromod.all.statistics.git",
-    "toplevel": "/home/pbellec/git/cneuromod.all.statistics"
+    "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics",
+    "toplevel": "/home/pbellec/git/cneuromod.paper/source_data/statistics"
   },
   "schema": "airoh/provenance/1",
   "tasks": [
@@ -134,6 +138,7 @@
     "run-fmri-stats",
     "run-fmri-per-subject-stats",
     "run-cneuromod-tables",
+    "run-cneuromod-summary",
     "run-notebooks"
   ]
 }
