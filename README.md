@@ -44,6 +44,7 @@ Or in one step: `uv run invoke run --force`.
 | `run-fmri-stats`               | Compute per-dataset fMRI aggregate stats; write `output_data/fmri_stats.tsv` |
 | `run-fmri-per-subject-stats`   | Compute per-subject fMRI stats per dataset; write `output_data/fmri_stats_per_subject.tsv` |
 | `run-cneuromod-tables`         | Validate each `dataset_info.yaml` and build the per-dataset comparison tables `output_data/cneuromod_*.csv` |
+| `run-cneuromod-summary`        | Sum every `dataset_info.yaml` into one CNeuroMod entry, `output_data/cneuromod_summary.yaml` |
 | `run-notebooks`                | Execute notebooks and save figures to `output_data/`               |
 | `run`                          | Full pipeline in order                                              |
 | `run-smoke`                    | Minimal end-to-end pass                                             |
@@ -52,6 +53,7 @@ Or in one step: `uv run invoke run --force`.
 | `clean-fmri-stats`             | Remove `fmri_stats.tsv` and its JSON sidecar                       |
 | `clean-fmri-per-subject-stats` | Remove `fmri_stats_per_subject.tsv`                                |
 | `clean-cneuromod-tables`       | Remove the `cneuromod_*.csv` comparison tables                     |
+| `clean-cneuromod-summary`      | Remove `cneuromod_summary.yaml`                                     |
 | `clean-figures`                | Remove generated figures                                            |
 | `clean`                        | Remove all computed outputs                                         |
 | `clean-cneuromod`              | Remove the `cneuromod.all` checkout                                 |

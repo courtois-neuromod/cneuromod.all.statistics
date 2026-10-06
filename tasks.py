@@ -151,6 +151,29 @@ def run_cneuromod_tables(c):
 
 
 @task
+def run_cneuromod_summary(c):
+    """Aggregate all dataset_info.yaml stats into one CNeuroMod entry (output_data/cneuromod_summary.yaml)."""
+    import yaml
+    from airoh.utils import ensure_dir_exist
+    from analysis.dataset_info import aggregate_cneuromod_summary, validate_dataset_info
+
+    cneuromod_all_dir = _cneuromod_dir(c)
+    output_dir = Path(c.config.get("output_data_dir"))
+    out_file = output_dir / "cneuromod_summary.yaml"
+
+    if out_file.exists():
+        print(f"Skipping run-cneuromod-summary (output exists: {out_file})")
+        return
+
+    ensure_dir_exist(c, "output_data_dir")
+    validate_dataset_info(cneuromod_all_dir, cneuromod_all_dir / "docs" / "schema.json")
+    with open(out_file, "w") as f:
+        yaml.dump(aggregate_cneuromod_summary(cneuromod_all_dir), f,
+                  default_flow_style=False, allow_unicode=True)
+    print(f"Saved combined CNeuroMod stats to {out_file.name}")
+
+
+@task
 def run_notebooks(c):
     """Execute notebooks and save figures to output_data/."""
     from airoh.utils import run_notebooks as airoh_run_notebooks, ensure_dir_exist
@@ -174,10 +197,11 @@ def run(c, force=False):
     run_fmri_stats(c)
     run_fmri_per_subject_stats(c)
     run_cneuromod_tables(c)
+    run_cneuromod_summary(c)
     run_notebooks(c)
 
     record_run(c, tasks="run-statistics,run-fmri-stats,run-fmri-per-subject-stats,"
-                        "run-cneuromod-tables,run-notebooks")
+                        "run-cneuromod-tables,run-cneuromod-summary,run-notebooks")
     print("Pipeline complete.")
 
 
@@ -200,6 +224,7 @@ def run_smoke(c):
     run_statistics(c)
     run_fmri_per_subject_stats(c)
     run_cneuromod_tables(c)
+    run_cneuromod_summary(c)
     run_notebooks(c)
 
 
@@ -233,6 +258,13 @@ def clean_cneuromod_tables(c):
 
 
 @task
+def clean_cneuromod_summary(c):
+    """Remove cneuromod_summary.yaml."""
+    from airoh.utils import clean_folder
+    clean_folder(c, "output_data_dir", "cneuromod_summary.yaml")
+
+
+@task
 def clean_figures(c):
     """Remove generated figures."""
     from airoh.utils import clean_folder
@@ -246,6 +278,7 @@ def clean(c):
     clean_fmri_stats(c)
     clean_fmri_per_subject_stats(c)
     clean_cneuromod_tables(c)
+    clean_cneuromod_summary(c)
     clean_figures(c)
 
 

@@ -1,0 +1,58 @@
+name: CNeuroMod
+neuroimaging:
+  fmri:
+    per_subject_h: 158.9
+    total_h: 953.4
+physiology:
+  ecg:
+    per_subject_h: 97.4
+    total_h: 584.1
+  eda:
+    per_subject_h: 97.4
+    total_h: 584.1
+  eye_tracking:
+    per_subject_h: 22.7
+    total_h: 135.9
+  plethysmograph:
+    per_subject_h: 97.4
+    total_h: 584.1
+  respiration:
+    per_subject_h: 97.4
+    total_h: 584.1
+subjects_n: 6
+tasks:
+  audio:
+    per_subject_unique: 125.3
+    per_subject_with_repetition: 142.9
+    total_unique: 303.6
+    total_with_repetition: 754.5
+  contrasts: 62
+  controlled:
+    per_subject_h: 28.7
+    total_h: 172.17
+  game:
+    per_subject_h: 36.2
+    total_h: 217.4
+  images:
+    per_subject_unique: 4320
+    per_subject_with_repetition: 12960
+    total_unique: 4320
+    total_with_repetition: 50400
+  resting_state:
+    per_subject_h: 1.2
+    total_h: 7.5
+  speech_listening:
+    per_subject_unique: 78.6
+    per_subject_with_repetition: 94.0
+    total_unique: 85.1
+    total_with_repetition: 520.6
+  text_reading:
+    per_subject_unique: 4.0
+    per_subject_with_repetition: 9.2
+    total_unique: 4.0
+    total_with_repetition: 38.2
+  video:
+    per_subject_unique: 125.1
+    per_subject_with_repetition: 131.9
+    total_unique: 296.9
+    total_with_repetition: 699.5

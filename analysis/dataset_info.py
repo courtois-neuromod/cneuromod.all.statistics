@@ -136,6 +136,39 @@ def build_cneuromod_tidy_table(cneuromod_dir: Path, column_groups: list) -> pd.D
     return pd.DataFrame(_build_rows(load_cneuromod_datasets(cneuromod_dir), column_groups))
 
 
+def aggregate_cneuromod_summary(cneuromod_dir: Path, subjects_n: int = 6) -> dict:
+    """Sum every dataset's `stats` block into one schema-compatible CNeuroMod entry.
+
+    This is the single CNeuroMod row consumed by the cross-dataset comparison
+    (`dataset_comparison`). Numeric fields are summed across datasets, except
+    `per_subject_h`, which is recomputed as `total_h / subjects_n` since not
+    every subject took part in every dataset.
+    """
+    def _sum_dicts(dicts):
+        result = {}
+        for key in set(k for d in dicts for k in d):
+            values = [d[key] for d in dicts if key in d]
+            if all(isinstance(v, dict) for v in values):
+                result[key] = _sum_dicts(values)
+            elif all(isinstance(v, (int, float)) for v in values):
+                result[key] = sum(values)
+        return result
+
+    def _fix_per_subject_h(d):
+        if "total_h" in d and "per_subject_h" in d:
+            d["per_subject_h"] = round(d["total_h"] / subjects_n, 1)
+        for v in d.values():
+            if isinstance(v, dict):
+                _fix_per_subject_h(v)
+
+    datasets = load_cneuromod_datasets(cneuromod_dir)
+    combined = _sum_dicts([{k: v for k, v in d.items() if k != "subjects_n"} for d in datasets])
+    combined["subjects_n"] = subjects_n
+    combined["name"] = "CNeuroMod"
+    _fix_per_subject_h(combined)
+    return combined
+
+
 def build_cneuromod_subjects_table(cneuromod_dir: Path) -> pd.DataFrame:
     """Tidy table of per-dataset subject availability from cneuromod.all.
 
