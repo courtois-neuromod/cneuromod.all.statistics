@@ -58,6 +58,29 @@ COLUMN_GROUPS_TOTAL = [
 ]
 
 
+# Cognitive categories used to group and color rows of the bubble charts.
+# Mirrors CATEGORIES in cneuromod.paper .claude/skills/update-data-overview/scripts/build_overview.py
+# (table tab-cognitive-categories in the paper intro); keep in sync.
+# Colors: categorical slots 1-5 of the dataviz reference palette (validated for CVD
+# separation), plus a neutral gray so "Others" recedes.
+CATEGORIES = [
+    ("Movies",                "🍿", "#2a78d6", ["movie10", "friends", "ood"]),
+    ("Stories",               "💬", "#eb6834", ["harrypotter", "petit-prince", "narratives"]),
+    ("Videogames",            "👾", "#1baf7a", ["shinobi", "mario", "mariostars", "mario3", "mario_eeg"]),
+    ("Taskscapes",            "🔬", "#eda100", ["triplets", "things", "emotion-videos", "multfs", "mutemusic"]),
+    ("Functional localizers", "🧭", "#4a3aa7", ["langlocalizer", "floc", "retinotopy", "hcptrt"]),
+    ("Others",                "🧰", "#898781", ["hearing", "anat", "gamepad"]),
+]
+
+
+def check_categories(datasets, categories=CATEGORIES):
+    """Raise ValueError if any dataset is missing from `categories`."""
+    known = {ds for _, _, _, members in categories for ds in members}
+    missing = sorted(set(datasets) - known)
+    if missing:
+        raise ValueError(f"Datasets without a category in CATEGORIES: {', '.join(missing)}")
+
+
 def _get_nested(d, path):
     parts = path.split(".")
     for i, key in enumerate(parts):
