@@ -132,8 +132,16 @@ def load_cneuromod_datasets(cneuromod_dir: Path) -> list:
 
 
 def build_cneuromod_tidy_table(cneuromod_dir: Path, column_groups: list) -> pd.DataFrame:
-    """Load cneuromod datasets and return a tidy long-format DataFrame."""
-    return pd.DataFrame(_build_rows(load_cneuromod_datasets(cneuromod_dir), column_groups))
+    """Load cneuromod datasets and return a tidy long-format DataFrame.
+
+    Each row carries the dataset's cognitive `category` (from CATEGORIES), so that
+    downstream readers can sum values per category without re-deriving the mapping.
+    """
+    df = pd.DataFrame(_build_rows(load_cneuromod_datasets(cneuromod_dir), column_groups))
+    check_categories(df["dataset"].unique())
+    category_of = {ds: name for name, _, _, members in CATEGORIES for ds in members}
+    df.insert(1, "category", df["dataset"].map(category_of))
+    return df
 
 
 def aggregate_cneuromod_summary(cneuromod_dir: Path, subjects_n: int = 6) -> dict:
