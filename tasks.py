@@ -115,6 +115,7 @@ def run_cneuromod_tables(c):
     """Build tidy per-dataset comparison tables from cneuromod.all dataset_info.yaml files."""
     from airoh.utils import ensure_dir_exist
     from analysis.dataset_info import (
+        build_cneuromod_maturity_table,
         build_cneuromod_subjects_table,
         build_cneuromod_tidy_table,
         validate_dataset_info,
@@ -128,6 +129,7 @@ def run_cneuromod_tables(c):
         "per_subject": output_dir / "cneuromod_tidy_per_subject.csv",
         "total": output_dir / "cneuromod_tidy_total.csv",
         "subjects": output_dir / "cneuromod_subjects.csv",
+        "maturity": output_dir / "cneuromod_maturity.csv",
     }
 
     if all(f.exists() for f in out_files.values()):
@@ -148,6 +150,10 @@ def run_cneuromod_tables(c):
     df = build_cneuromod_subjects_table(cneuromod_all_dir)
     df.to_csv(out_files["subjects"], index=False)
     print(f"Saved {len(df)} rows to {out_files['subjects'].name}")
+
+    df = build_cneuromod_maturity_table(cneuromod_all_dir)
+    df.to_csv(out_files["maturity"], index=False)
+    print(f"Saved {len(df)} rows to {out_files['maturity'].name}")
 
 
 @task

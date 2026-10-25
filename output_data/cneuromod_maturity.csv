@@ -1,0 +1,24 @@
+dataset,category,level,validation,reuse,note
+anat,Others,reference,Boudreau2025-ji,,Used implicitly by every derivative
+emotion-videos,Taskscapes,alpha,,,
+floc,Functional localizers,stable,St-Laurent2026-zc,,
+friends,Movies,stable,,,Heavily reused (Algonauts 2025 and follow-ups); validated by the common QC metrics only
+gamepad,Others,stable,Harel2023-gp,,
+harrypotter,Stories,beta,,Toneva2022-bf;Toneva2022-vu,
+hcptrt,Functional localizers,stable,Rastegarnia2023-qz,,
+hearing,Others,stable,Fortier2025-bo,,
+langlocalizer,Functional localizers,beta,,,
+mario,Videogames,stable,,Paugam2025-oq;Harel2025-gl,Reused in several papers beyond its own data paper
+mario3,Videogames,alpha,,,
+mario_eeg,Videogames,alpha,,,
+mariostars,Videogames,alpha,,,
+movie10,Movies,stable,,,Heavily reused (Algonauts 2025 and follow-ups); validated by the common QC metrics only
+multfs,Taskscapes,beta,,,
+mutemusic,Taskscapes,beta,,,
+narratives,Stories,alpha,,,
+ood,Movies,alpha,,,No README yet; used as the Algonauts test set
+petit-prince,Stories,alpha,,,
+retinotopy,Functional localizers,stable,St-Laurent2026-zc,,
+shinobi,Videogames,stable,Harel2026-hr,Kemtur2023-px,
+things,Taskscapes,stable,St-Laurent2026-zc,,
+triplets,Taskscapes,alpha,,,

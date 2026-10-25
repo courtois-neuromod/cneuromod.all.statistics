@@ -198,6 +198,29 @@ def build_cneuromod_subjects_table(cneuromod_dir: Path) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def build_cneuromod_maturity_table(cneuromod_dir: Path) -> pd.DataFrame:
+    """Tidy table of the hand-maintained `maturity:` block of each dataset_info.yaml.
+
+    Columns: dataset, category, level, validation, reuse, note. `validation` and `reuse`
+    are `;`-joined BibTeX keys (empty when none).
+    """
+    category_of = {ds: name for name, _, _, members in CATEGORIES for ds in members}
+    rows = []
+    for info_file in sorted(Path(cneuromod_dir).glob("*/dataset_info.yaml")):
+        with open(info_file) as f:
+            data = yaml.safe_load(f)
+        m = data.get("maturity") or {}
+        rows.append({
+            "dataset": info_file.parent.name,
+            "category": category_of.get(info_file.parent.name, ""),
+            "level": m.get("level", ""),
+            "validation": ";".join(m.get("validation") or []),
+            "reuse": ";".join(m.get("reuse") or []),
+            "note": m.get("note", "") or "",
+        })
+    return pd.DataFrame(rows)
+
+
 def validate_dataset_info(cneuromod_dir: Path, schema_file: Path) -> None:
     """Validate each dataset_info.yaml `stats` block against cneuromod.all's JSON schema.
 
