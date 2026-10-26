@@ -1,5 +1,5 @@
 {
-  "command": "/home/pbellec/git/cneuromod.paper/source_data/statistics/.venv/bin/invoke run",
+  "command": "/home/pbellec/git/cneuromod.paper/source_data/statistics/.venv/bin/invoke run --force",
   "environment": {
     "lockfiles": {
       "requirements.txt": "3a035d48cad92bb70a0d3d4e745eeda166055f065bb59306d9137678d5dfd979",
@@ -22,15 +22,19 @@
   "inputs": {
     "assets": {
       "cneuromod_all": {
-        "commit": "0ca099082f3c3cefa4563df09dcb925272840007",
+        "commit": "1748236b54d6132b378ff93a326060b3ac93f246",
         "resolved_path": "/home/pbellec/git/cneuromod.paper/source_data/cneuromod.all",
         "sha256": null
       }
     },
     "manifest_file": "source_data/MANIFEST.json",
-    "manifest_sha256": "f0dce4c31d16c1ed37bafe9eac54ea07331c0bbd3c5401808afd023da7fab031"
+    "manifest_sha256": "db0bfe1740041ae6dbd2dd18a0733f443302326fb1c07082d7de6467c63e7210"
   },
   "outputs": {
+    "cneuromod_maturity.csv": {
+      "sha256": "b0a1dbe48375df374e05abcd877afe544d0eed60a76517f54954f33a3b5431d2",
+      "size_bytes": 1222
+    },
     "cneuromod_subjects.csv": {
       "sha256": "1754a842f04ee1ddee987c52e8563ceb11b6844696e140f3a01cdcf0cfb2d2b1",
       "size_bytes": 4076
@@ -40,12 +44,12 @@
       "size_bytes": 1257
     },
     "cneuromod_tidy_per_subject.csv": {
-      "sha256": "ed5dfdcd777e56fb15a479a20824de7770fd2424525c99c4ec820b390974dcbc",
-      "size_bytes": 24877
+      "sha256": "4f54120545c5a1d6d372253408531046a2f629144787dddf4b2eddfd3a53ac1c",
+      "size_bytes": 28846
     },
     "cneuromod_tidy_total.csv": {
-      "sha256": "46f330226ee0c6eb7d3712d6aac4552b552767cf7f6541baf9fa0e4fedf55e7d",
-      "size_bytes": 29563
+      "sha256": "4ae1a716d1018226302b1e61cd3b854cb4de182acd0929eedf61624297fd3ee9",
+      "size_bytes": 34588
     },
     "figure_cneuromod_comparison_per_subject.png": {
       "sha256": "0f78f8849cf0d917f5fdd2bcc1e96d1a41d17a60114c9b425148803c30e26818",
@@ -124,10 +128,10 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-10-06T16:57:39+00:00",
+  "recorded_at": "2026-10-26T18:59:05+00:00",
   "repository": {
     "branch": "main",
-    "commit": "09143d7873b70f75b096231f50fc30accea09420",
+    "commit": "eb20346cb144c8b96fa4014233d408ebd11b0c55",
     "dirty": true,
     "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics",
     "toplevel": "/home/pbellec/git/cneuromod.paper/source_data/statistics"
