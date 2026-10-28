@@ -13,10 +13,12 @@ output_data_dir: output_data
 #
 # cneuromod.all is a Datalad superdataset holding one folder per CNeuroMod
 # dataset. Each dataset's `bids/` folder is itself a subdataset, installed
-# (tree only, no annexed content — the analysis only reads directory
-# structure, *_bold.json sidecars, each dataset's dataset_info.yaml and
-# docs/schema.json, which are plain git files) by
-# `fetch-bids`.
+# (tree only, no annexed content — the run-* tasks only read directory
+# structure, *_bold.json sidecars, each dataset's dataset_info.yaml,
+# docs/schema.json and the indexes built at fetch time; the one exception is
+# fetch-timeseries-index, which lists the runs inside each timeseries h5) by
+# `fetch-bids`. Each dataset's `physprep/` subdataset is installed the same
+# way by `fetch-physprep`, for its plain-git *_desc-quality.json files.
 #
 #   - `url`        : remote to clone when no local checkout is available
 #   - `output_dir` : where the superdataset is made available inside source_data/
@@ -56,3 +58,18 @@ verify:
     - analysis/simulation.py
   # Largest file git may track before the check fails (default 10 MB).
   max_tracked_bytes: 10485760
+
+# Release remotes, for the run-wise completeness tables.
+#
+# git-annex lists hundreds of locations per subdataset (mostly temporary job
+# clones), so only these are counted. label -> remote names (fnmatch globs;
+# `sameas` aliases such as conp-ria-storage-http resolve to their target).
+# `invoke fetch-annex-locations` prints the names of the remotes it left out.
+release_remotes:
+  s3unf: ["s3unf.*", "unfs3.*", "s3.cneuromod.*"]
+  conp: ["conp-ria-storage", "conp-ria-storage-http"]
+  narval: ["ria-narval-storage"]
+  sequoia: ["ria-sequoia-storage*"]
+
+# Atlases of the timeseries/ subdatasets, one h5 per subject x atlas.
+timeseries_atlases: [cneuromod2026, schaefer1000, voxel_mni, voxel_native]

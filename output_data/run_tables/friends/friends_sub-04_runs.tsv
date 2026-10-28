@@ -1,0 +1,1585 @@
+session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	bold	True		True	False	False	True
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-04_ses-001_task-s01e02a	s01e02a	0.19949	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	bold	True		True	False	False	True
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-04_ses-001_task-s01e02b	s01e02b	0.19949	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	bold	True		True	False	False	True
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e03a	s01e03a	0.19536	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	bold	True		True	False	False	True
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e03b	s01e03b	0.19536	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	bold	True		True	False	False	True
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e04a	s01e04a	0.20819	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	bold	True		True	False	False	True
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-04_ses-003_task-s01e04b	s01e04b	0.20819	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	bold	True		True	False	False	True
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	ts_cneuromod2026	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	ts_schaefer1000	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e01a	s01e01a	0.24502	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	bold	True		True	False	False	True
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	ts_cneuromod2026	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	ts_schaefer1000	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e01b	s01e01b	0.24502	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	bold	True		True	False	False	True
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e05a	s01e05a	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	bold	True		True	False	False	True
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e05b	s01e05b	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	bold	True		True	False	False	True
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e06a	s01e06a	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	bold	True		True	False	False	True
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-04_ses-004_task-s01e06b	s01e06b	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	bold	True		True	False	False	True
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	ts_cneuromod2026	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	ts_schaefer1000	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e07a	s01e07a	0.20405	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	bold	True		True	False	False	True
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	ts_cneuromod2026	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	ts_schaefer1000	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e07b	s01e07b	0.20405	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	bold	True		True	False	False	True
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	ts_cneuromod2026	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	ts_schaefer1000	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e08a	s01e08a	0.19701	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	bold	True		True	False	False	True
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	ts_cneuromod2026	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	ts_schaefer1000	True		True	False	False	False
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-04_ses-005_task-s01e08b	s01e08b	0.19701	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	bold	True		True	False	False	True
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e09a	s01e09a	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	bold	True		True	False	False	True
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e09b	s01e09b	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	bold	True		True	False	False	True
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	ts_cneuromod2026	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	ts_schaefer1000	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e10a	s01e10a	0.20529	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	bold	True		True	False	False	True
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	ts_cneuromod2026	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	ts_schaefer1000	True		True	False	False	False
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-04_ses-006_task-s01e10b	s01e10b	0.20529	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	bold	True		True	False	False	True
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e11a	s01e11a	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	bold	True		True	False	False	True
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e11b	s01e11b	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	bold	True		True	False	False	True
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	ts_cneuromod2026	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	ts_schaefer1000	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e12a	s01e12a	0.19536	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	bold	True		True	False	False	True
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	ts_cneuromod2026	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	ts_schaefer1000	True		True	False	False	False
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-04_ses-007_task-s01e12b	s01e12b	0.19494	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	bold	True		True	False	False	True
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	ts_cneuromod2026	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	ts_schaefer1000	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e14a	s01e14a	0.20322	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	bold	True		True	False	False	True
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	ts_cneuromod2026	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	ts_schaefer1000	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e14b	s01e14b	0.20322	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	bold	True		True	False	False	True
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e15a	s01e15a	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	bold	True		True	False	False	True
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-04_ses-008_task-s01e15b	s01e15b	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	bold	True		True	False	False	True
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	ts_cneuromod2026	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	ts_schaefer1000	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e16a	s01e16a	0.19991	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	bold	True		True	False	False	True
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	ts_cneuromod2026	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	ts_schaefer1000	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e16b	s01e16b	0.19991	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	bold	True		True	False	False	True
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	ts_cneuromod2026	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	ts_schaefer1000	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e17a	s01e17a	0.19991	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	bold	True		True	False	False	True
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	ts_cneuromod2026	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	ts_schaefer1000	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e17b	s01e17b	0.19991	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	bold	True		True	False	False	True
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	ts_cneuromod2026	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	ts_schaefer1000	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e18a	s01e18a	0.2057	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	bold	True		True	False	False	True
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	ts_cneuromod2026	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	ts_schaefer1000	True		True	False	False	False
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-04_ses-009_task-s01e18b	s01e18b	0.2057	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	bold	True		True	False	False	True
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e19a	s01e19a	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	bold	True		True	False	False	True
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e19b	s01e19b	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	bold	True		True	False	False	True
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e20a	s01e20a	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	bold	True		True	False	False	True
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e20b	s01e20b	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	bold	True		True	False	False	True
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e21a	s01e21a	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	bold	True		True	False	False	True
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-04_ses-010_task-s01e21b	s01e21b	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	bold	True		True	False	False	True
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	ts_cneuromod2026	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	ts_schaefer1000	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e22a	s01e22a	0.19618	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	bold	True		True	False	False	True
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	ts_cneuromod2026	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	ts_schaefer1000	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e22b	s01e22b	0.19618	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	bold	True		True	False	False	True
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	ts_cneuromod2026	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	ts_schaefer1000	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e23a	s01e23a	0.19122	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	bold	True		True	False	False	True
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	ts_cneuromod2026	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	ts_schaefer1000	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e23b	s01e23b	0.19122	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	bold	True		True	False	False	True
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	ts_cneuromod2026	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	ts_schaefer1000	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e24a	s01e24a	0.21315	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	bold	True		True	False	False	True
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	ts_cneuromod2026	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	ts_schaefer1000	True		True	False	False	False
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-04_ses-011_task-s01e24b	s01e24b	0.21315	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	bold	True		True	False	False	True
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-04_ses-012_task-s02e01a	s02e01a	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	bold	True		True	False	False	True
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	ts_cneuromod2026	True		True	False	False	False
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	ts_schaefer1000	True		True	False	False	False
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-04_ses-012_task-s02e01b	s02e01b	0.19743	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	bold	True		True	False	False	True
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	ts_cneuromod2026	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	ts_schaefer1000	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e02a	s02e02a	0.18625	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	bold	True		True	False	False	True
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	ts_cneuromod2026	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	ts_schaefer1000	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e02b	s02e02b	0.18625	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	bold	True		True	False	False	True
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	ts_cneuromod2026	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	ts_schaefer1000	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e03a	s02e03a	0.19204	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	bold	True		True	False	False	True
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	ts_cneuromod2026	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	ts_schaefer1000	True		True	False	False	False
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-04_ses-013_task-s02e03b	s02e03b	0.19204	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e04a	s02e04a	0.18791	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e04b	s02e04b	0.18791	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e05a	s02e05a	0.18832	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e05b	s02e05b	0.18832	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e06a	s02e06a	0.20694	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e06b	s02e06b	0.20694	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e07a	s02e07a	0.20529	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	bold	True		True	False	False	True
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	ts_cneuromod2026	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	ts_schaefer1000	True		True	False	False	False
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-04_ses-014_task-s02e07b	s02e07b	0.20529	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	bold	True		True	False	False	True
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	ts_cneuromod2026	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	ts_schaefer1000	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e08a	s02e08a	0.18956	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	bold	True		True	False	False	True
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	ts_cneuromod2026	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	ts_schaefer1000	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e08b	s02e08b	0.18956	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	bold	True		True	False	False	True
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	ts_cneuromod2026	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	ts_schaefer1000	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e09a	s02e09a	0.18708	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	bold	True		True	False	False	True
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	ts_cneuromod2026	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	ts_schaefer1000	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e09b	s02e09b	0.18708	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	bold	True		True	False	False	True
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	ts_cneuromod2026	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	ts_schaefer1000	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e10a	s02e10a	0.19825	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	bold	True		True	False	False	True
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	ts_cneuromod2026	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	ts_schaefer1000	True		True	False	False	False
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-04_ses-015_task-s02e10b	s02e10b	0.19825	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	bold	True		True	False	False	True
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e11a	s02e11a	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	bold	True		True	False	False	True
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e11b	s02e11b	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	bold	True		True	False	False	True
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e12a	s02e12a	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	bold	True		True	False	False	True
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-04_ses-016_task-s02e12b	s02e12b	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	bold	True		True	False	False	True
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e13a	s02e13a	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	bold	True		True	False	False	True
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	ts_cneuromod2026	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	ts_schaefer1000	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e13b	s02e13b	0.20198	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	bold	True		True	False	False	True
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	ts_cneuromod2026	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	ts_schaefer1000	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e14a	s02e14a	0.19618	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	bold	True		True	False	False	True
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	ts_cneuromod2026	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	ts_schaefer1000	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e14b	s02e14b	0.19618	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	bold	True		True	False	False	True
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	ts_cneuromod2026	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	ts_schaefer1000	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e15a	s02e15a	0.19287	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	bold	True		True	False	False	True
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	ts_cneuromod2026	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	ts_schaefer1000	True		True	False	False	False
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-04_ses-017_task-s02e15b	s02e15b	0.19287	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	bold	True		True	False	False	True
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e16a	s02e16a	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	bold	True		True	False	False	True
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e16b	s02e16b	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	bold	True		True	False	False	True
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	ts_cneuromod2026	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	ts_schaefer1000	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e17a	s02e17a	0.20239	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	bold	True		True	False	False	True
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	ts_cneuromod2026	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	ts_schaefer1000	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e17b	s02e17b	0.20239	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	bold	True		True	False	False	True
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e18a	s02e18a	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	bold	True		True	False	False	True
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-04_ses-018_task-s02e18b	s02e18b	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	bold	True		True	False	False	True
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e19a	s02e19a	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	bold	True		True	False	False	True
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e19b	s02e19b	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	bold	True		True	False	False	True
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	ts_cneuromod2026	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	ts_schaefer1000	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e20a	s02e20a	0.18584	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	bold	True		True	False	False	True
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	ts_cneuromod2026	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	ts_schaefer1000	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e20b	s02e20b	0.18584	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	bold	True		True	False	False	True
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	ts_cneuromod2026	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	ts_schaefer1000	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e21a	s02e21a	0.19453	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	bold	True		True	False	False	True
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	ts_cneuromod2026	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	ts_schaefer1000	True		True	False	False	False
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-04_ses-019_task-s02e21b	s02e21b	0.19453	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	bold	True		True	False	False	True
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	physio	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	physprep	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	ts_cneuromod2026	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	ts_schaefer1000	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e22a	s02e22a	0.18749	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	bold	True		True	False	False	True
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	physio	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	physprep	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	ts_cneuromod2026	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	ts_schaefer1000	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e22b	s02e22b	0.18749	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	bold	True		True	False	False	True
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	physio	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	physprep	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	ts_cneuromod2026	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	ts_schaefer1000	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e23a	s02e23a	0.18873	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	bold	True		True	False	False	True
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	physio	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	physprep	False		False	False	False	False
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	ts_cneuromod2026	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	ts_schaefer1000	True		True	False	False	False
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-04_ses-020_task-s02e23b	s02e23b	0.18873	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	bold	True		True	False	False	True
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	physio	False		False	False	False	False
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	physprep	False		False	False	False	False
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	ts_cneuromod2026	True		True	False	False	False
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	ts_schaefer1000	True		True	False	False	False
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-04_ses-021_task-s02e24a	s02e24a	0.19411	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	bold	True		True	False	False	True
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	physio	False		False	False	False	False
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	physprep	False		False	False	False	False
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	ts_cneuromod2026	True		True	False	False	False
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	ts_schaefer1000	True		True	False	False	False
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-04_ses-021_task-s02e24b	s02e24b	0.19411	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	bold	True		True	False	False	True
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-04_ses-022_task-s01e13a	s01e13a	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	bold	True		True	False	False	True
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-04_ses-022_task-s01e13b	s01e13b	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	bold	True		True	False	False	True
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	ts_cneuromod2026	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	ts_schaefer1000	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e01a	s03e01a	0.20322	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	bold	True		True	False	False	True
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	ts_cneuromod2026	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	ts_schaefer1000	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e01b	s03e01b	0.20322	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	bold	True		True	False	False	True
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	ts_cneuromod2026	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	ts_schaefer1000	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e02a	s03e02a	0.1966	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	bold	True		True	False	False	True
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	ts_cneuromod2026	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	ts_schaefer1000	True		True	False	False	False
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-04_ses-023_task-s03e02b	s03e02b	0.1966	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	bold	True		True	False	False	True
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	ts_cneuromod2026	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	ts_schaefer1000	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e03a	s03e03a	0.18791	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	bold	True		True	False	False	True
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	ts_cneuromod2026	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	ts_schaefer1000	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e03b	s03e03b	0.18791	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	bold	True		True	False	False	True
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	ts_cneuromod2026	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	ts_schaefer1000	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e04a	s03e04a	0.19577	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	bold	True		True	False	False	True
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	ts_cneuromod2026	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	ts_schaefer1000	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e04b	s03e04b	0.19577	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	bold	True		True	False	False	True
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	ts_cneuromod2026	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	ts_schaefer1000	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e05a	s03e05a	0.20032	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	bold	True		True	False	False	True
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	ts_cneuromod2026	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	ts_schaefer1000	True		True	False	False	False
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-04_ses-024_task-s03e05b	s03e05b	0.20032	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	bold	True		True	False	False	True
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	ts_cneuromod2026	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	ts_schaefer1000	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e06a	s03e06a	0.19453	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	bold	True		True	False	False	True
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	ts_cneuromod2026	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	ts_schaefer1000	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e06b	s03e06b	0.19453	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	bold	True		True	False	False	True
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	ts_cneuromod2026	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	ts_schaefer1000	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e07a	s03e07a	0.19329	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	bold	True		True	False	False	True
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	ts_cneuromod2026	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	ts_schaefer1000	True		True	False	False	False
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-04_ses-025_task-s03e07b	s03e07b	0.19329	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	bold	True		True	False	False	True
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e08a	s03e08a	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	bold	True		True	False	False	True
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e08b	s03e08b	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	bold	True		True	False	False	True
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	ts_cneuromod2026	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	ts_schaefer1000	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e09a	s03e09a	0.20405	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	bold	True		True	False	False	True
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	ts_cneuromod2026	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	ts_schaefer1000	True		True	False	False	False
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-04_ses-026_task-s03e09b	s03e09b	0.20405	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	bold	True		True	False	False	True
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	ts_cneuromod2026	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	ts_schaefer1000	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e10a	s03e10a	0.18666	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	bold	True		True	False	False	True
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	ts_cneuromod2026	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	ts_schaefer1000	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e10b	s03e10b	0.18666	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	bold	True		True	False	False	True
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	ts_cneuromod2026	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	ts_schaefer1000	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e11a	s03e11a	0.18915	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	bold	True		True	False	False	True
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	ts_cneuromod2026	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	ts_schaefer1000	True		True	False	False	False
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-04_ses-027_task-s03e11b	s03e11b	0.18873	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	bold	True		True	False	False	True
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	ts_cneuromod2026	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	ts_schaefer1000	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e12a	s03e12a	0.19204	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	bold	True		True	False	False	True
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	ts_cneuromod2026	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	ts_schaefer1000	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e12b	s03e12b	0.19204	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	bold	True		True	False	False	True
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	ts_cneuromod2026	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	ts_schaefer1000	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e13a	s03e13a	0.19618	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	bold	True		True	False	False	True
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	ts_cneuromod2026	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	ts_schaefer1000	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e13b	s03e13b	0.19577	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	bold	True		True	False	False	True
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	ts_cneuromod2026	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	ts_schaefer1000	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e14a	s03e14a	0.18956	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	bold	True		True	False	False	True
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	ts_cneuromod2026	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	ts_schaefer1000	True		True	False	False	False
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-028	sub-04_ses-028_task-s03e14b	s03e14b	0.18956	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	bold	True		True	False	False	True
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	physio	False		False	False	False	False
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	ts_cneuromod2026	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	ts_schaefer1000	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e15a	s03e15a	0.18956	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	bold	True		True	False	False	True
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	physio	False		False	False	False	False
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	ts_cneuromod2026	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	ts_schaefer1000	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e15b	s03e15b	0.18956	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	bold	True		True	False	False	True
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	physio	False		False	False	False	False
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e16a	s03e16a	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	bold	True		True	False	False	True
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	physio	False		False	False	False	False
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-029	sub-04_ses-029_task-s03e16b	s03e16b	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	bold	True		True	False	False	True
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	ts_cneuromod2026	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	ts_schaefer1000	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e17a	s03e17a	0.18791	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	bold	True		True	False	False	True
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	ts_cneuromod2026	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	ts_schaefer1000	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e17b	s03e17b	0.18749	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	bold	True		True	False	False	True
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	ts_cneuromod2026	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	ts_schaefer1000	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e18a	s03e18a	0.19411	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	bold	True		True	False	False	True
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	ts_cneuromod2026	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	ts_schaefer1000	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e18b	s03e18b	0.19411	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	bold	True		True	False	False	True
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e19a	s03e19a	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	bold	True		True	False	False	True
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-030	sub-04_ses-030_task-s03e19b	s03e19b	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	bold	True		True	False	False	True
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	ts_cneuromod2026	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	ts_schaefer1000	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e20a	s03e20a	0.19204	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	bold	True		True	False	False	True
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	ts_cneuromod2026	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	ts_schaefer1000	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e20b	s03e20b	0.19204	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	bold	True		True	False	False	True
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e21a	s03e21a	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	bold	True		True	False	False	True
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	ts_cneuromod2026	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	ts_schaefer1000	True		True	False	False	False
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-031	sub-04_ses-031_task-s03e21b	s03e21b	0.19039	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e22a	s03e22a	0.19163	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e22b	s03e22b	0.19163	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e23a	s03e23a	0.19453	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e23b	s03e23b	0.19453	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e24a	s03e24a	0.18791	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e24b	s03e24b	0.18791	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e25a	s03e25a	0.19825	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s03e25b	s03e25b	0.19825	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s04e01a	s04e01a	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	bold	True		True	False	False	True
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	ts_cneuromod2026	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	ts_schaefer1000	True		True	False	False	False
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-032	sub-04_ses-032_task-s04e01b	s04e01b	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	bold	True		True	False	False	True
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e02a	s04e02a	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	bold	True		True	False	False	True
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e02b	s04e02b	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	bold	True		True	False	False	True
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	ts_cneuromod2026	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	ts_schaefer1000	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e03a	s04e03a	0.18418	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	bold	True		True	False	False	True
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	ts_cneuromod2026	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	ts_schaefer1000	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e03b	s04e03b	0.18418	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	bold	True		True	False	False	True
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	ts_cneuromod2026	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	ts_schaefer1000	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e04a	s04e04a	0.18749	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	bold	True		True	False	False	True
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	ts_cneuromod2026	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	ts_schaefer1000	True		True	False	False	False
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-033	sub-04_ses-033_task-s04e04b	s04e04b	0.18749	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	bold	True		True	False	False	True
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	ts_cneuromod2026	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	ts_schaefer1000	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e05a	s04e05a	0.19494	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	bold	True		True	False	False	True
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	ts_cneuromod2026	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	ts_schaefer1000	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e05b	s04e05b	0.19494	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	bold	True		True	False	False	True
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	ts_cneuromod2026	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	ts_schaefer1000	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e06a	s04e06a	0.19246	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	bold	True		True	False	False	True
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	ts_cneuromod2026	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	ts_schaefer1000	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e06b	s04e06b	0.19246	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	bold	True		True	False	False	True
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	ts_cneuromod2026	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	ts_schaefer1000	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e07a	s04e07a	0.2057	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	bold	True		True	False	False	True
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	ts_cneuromod2026	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	ts_schaefer1000	True		True	False	False	False
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-034	sub-04_ses-034_task-s04e07b	s04e07b	0.2057	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	bold	True		True	False	False	True
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	ts_cneuromod2026	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	ts_schaefer1000	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e08a	s04e08a	0.20819	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	bold	True		True	False	False	True
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	ts_cneuromod2026	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	ts_schaefer1000	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e08b	s04e08b	0.20819	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	bold	True		True	False	False	True
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	ts_cneuromod2026	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	ts_schaefer1000	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e09a	s04e09a	0.18253	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	bold	True		True	False	False	True
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	ts_cneuromod2026	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	ts_schaefer1000	True		True	False	False	False
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-035	sub-04_ses-035_task-s04e09b	s04e09b	0.18253	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	bold	True		True	False	False	True
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	ts_cneuromod2026	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	ts_schaefer1000	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e10a	s04e10a	0.18584	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	bold	True		True	False	False	True
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	ts_cneuromod2026	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	ts_schaefer1000	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e10b	s04e10b	0.18584	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	bold	True		True	False	False	True
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	ts_cneuromod2026	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	ts_schaefer1000	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e11a	s04e11a	0.19991	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	bold	True		True	False	False	True
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	ts_cneuromod2026	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	ts_schaefer1000	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e11b	s04e11b	0.19991	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	bold	True		True	False	False	True
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	ts_cneuromod2026	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	ts_schaefer1000	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e12a	s04e12a	0.19287	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	bold	True		True	False	False	True
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	ts_cneuromod2026	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	ts_schaefer1000	True		True	False	False	False
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-036	sub-04_ses-036_task-s04e12b	s04e12b	0.19287	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	bold	True		True	False	False	True
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	ts_cneuromod2026	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	ts_schaefer1000	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e13a	s04e13a	0.18542	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	bold	True		True	False	False	True
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	ts_cneuromod2026	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	ts_schaefer1000	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e13b	s04e13b	0.18542	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	bold	True		True	False	False	True
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	ts_cneuromod2026	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	ts_schaefer1000	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e14a	s04e14a	0.18501	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	bold	True		True	False	False	True
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	ts_cneuromod2026	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	ts_schaefer1000	True		True	False	False	False
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-037	sub-04_ses-037_task-s04e14b	s04e14b	0.18501	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	bold	True		True	False	False	True
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	ts_cneuromod2026	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	ts_schaefer1000	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e15a	s04e15a	0.18377	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	bold	True		True	False	False	True
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	ts_cneuromod2026	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	ts_schaefer1000	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e15b	s04e15b	0.18377	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	bold	True		True	False	False	True
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	ts_cneuromod2026	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	ts_schaefer1000	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e16a	s04e16a	0.20156	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	bold	True		True	False	False	True
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	ts_cneuromod2026	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	ts_schaefer1000	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e16b	s04e16b	0.20156	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	bold	True		True	False	False	True
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e17a	s04e17a	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	bold	True		True	False	False	True
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	ts_cneuromod2026	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	ts_schaefer1000	True		True	False	False	False
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-038	sub-04_ses-038_task-s04e17b	s04e17b	0.19784	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	bold	True		True	False	False	True
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	ts_cneuromod2026	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	ts_schaefer1000	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e18a	s04e18a	0.18625	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	bold	True		True	False	False	True
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	physio	True	PPG;ECG;EDA;RSP	True	False	False	False
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	ts_cneuromod2026	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	ts_schaefer1000	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e18b	s04e18b	0.18625	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	bold	True		True	False	False	True
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	physprep	True	PPG=Pass;ECG=Pass;EDA=Fail;RSP=Pass	True	False	False	False
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	ts_cneuromod2026	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	ts_schaefer1000	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e19a	s04e19a	0.18087	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	bold	True		True	False	False	True
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	ts_cneuromod2026	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	ts_schaefer1000	True		True	False	False	False
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-039	sub-04_ses-039_task-s04e19b	s04e19b	0.18087	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	bold	True		True	False	False	True
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	ts_cneuromod2026	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	ts_schaefer1000	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e20a	s04e20a	0.18501	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	bold	True		True	False	False	True
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	ts_cneuromod2026	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	ts_schaefer1000	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e20b	s04e20b	0.18501	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	bold	True		True	False	False	True
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	ts_cneuromod2026	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	ts_schaefer1000	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e21a	s04e21a	0.18542	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	bold	True		True	False	False	True
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	ts_cneuromod2026	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	ts_schaefer1000	True		True	False	False	False
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-040	sub-04_ses-040_task-s04e21b	s04e21b	0.18542	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	bold	True		True	False	False	True
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	ts_cneuromod2026	True		True	False	False	False
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	ts_schaefer1000	True		True	False	False	False
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-041	sub-04_ses-041_task-s04e22a	s04e22a	0.18998	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	bold	True		True	False	False	False
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	ts_cneuromod2026	True		True	False	False	False
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	ts_schaefer1000	True		True	False	False	False
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-041	sub-04_ses-041_task-s04e22b	s04e22b	0.18998	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	bold	True		True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	ts_cneuromod2026	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	ts_schaefer1000	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23a	s04e23a	0.20901	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	bold	True		True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	physio	True	PPG;ECG;EDA;RSP	True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	ts_cneuromod2026	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	ts_schaefer1000	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23b	s04e23b	0.2086	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	bold	True		True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	ts_cneuromod2026	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	ts_schaefer1000	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23c	s04e23c	0.2086	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	bold	True		True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	ts_cneuromod2026	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	ts_schaefer1000	True		True	False	False	False
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-042	sub-04_ses-042_task-s04e23d	s04e23d	0.2086	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	bold	True		True	False	False	True
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	ts_cneuromod2026	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	ts_schaefer1000	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e01a	s05e01a	0.1817	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	bold	True		True	False	False	True
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	ts_cneuromod2026	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	ts_schaefer1000	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e01b	s05e01b	0.19618	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	bold	True		True	False	False	True
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	ts_cneuromod2026	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	ts_schaefer1000	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e02a	s05e02a	0.20487	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	bold	True		True	False	False	True
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	physio	True	PPG;ECG;EDA;RSP	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	False	False	False
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	ts_cneuromod2026	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	ts_schaefer1000	True		True	False	False	False
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-043	sub-04_ses-043_task-s05e02b	s05e02b	0.21977	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA

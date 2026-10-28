@@ -1,0 +1,553 @@
+session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-01	mario3	0.12375	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-mario3_run-02	mario3	0.12706	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-01	mario3	0.12996	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-02	mario3	0.1312	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-mario3_run-03	mario3	0.1519	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-01	mario3	0.14528	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-02	mario3	0.1461	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-mario3_run-03	mario3	0.15728	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	bold	True		True	True	False	True
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	physio	NA		NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	physprep	NA		NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-01	mario3	0.13038	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	bold	True		True	True	False	True
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	physio	NA		NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	physprep	NA		NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-02	mario3	0.13369	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	bold	True		True	True	False	True
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	physio	NA		NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	physprep	NA		NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-01_ses-004_task-mario3_run-03	mario3	0.24626	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	bold	True		True	True	False	True
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	physio	NA		NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	physprep	NA		NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-01	mario3	0.13038	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	bold	True		True	True	False	True
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	physio	NA		NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	physprep	NA		NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-01_ses-005_task-mario3_run-02	mario3	0.14486	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	bold	True		True	True	False	True
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	physio	NA		NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	physprep	NA		NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-01	mario3	0.15148	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	bold	True		True	True	False	True
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	physio	NA		NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	physprep	NA		NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-02	mario3	0.15148	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	bold	True		True	True	False	True
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	physio	NA		NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	physprep	NA		NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-01_ses-006_task-mario3_run-03	mario3	0.14403	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	bold	True		True	True	False	True
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	physio	NA		NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	physprep	NA		NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-01	mario3	0.12665	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	bold	True		True	True	False	True
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	physio	NA		NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	physprep	NA		NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-01_ses-007_task-mario3_run-02	mario3	0.13617	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	bold	True		True	True	False	True
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	physio	NA		NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	physprep	NA		NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-01	mario3	0.12748	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	bold	True		True	True	False	True
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	physio	NA		NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	physprep	NA		NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-01_ses-008_task-mario3_run-02	mario3	0.12872	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	bold	True		True	True	False	True
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	physio	NA		NA	NA	NA	NA
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	physprep	NA		NA	NA	NA	NA
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-01_ses-009_task-mario3_run-01	mario3	0.15107	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	bold	True		True	True	False	True
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	physio	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	physprep	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-01	mario3	0.137	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	bold	True		True	True	False	True
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	physio	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	physprep	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-02	mario3	0.14569	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	bold	True		True	True	False	True
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	physio	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	physprep	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-03	mario3	0.13617	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	bold	True		True	True	False	True
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	physio	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	physprep	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-04	mario3	0.13244	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	bold	True		True	True	False	True
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	physio	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	physprep	NA		NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-01_ses-011_task-mario3_run-05	mario3	0.13244	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	bold	True		True	True	False	True
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	physio	NA		NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	physprep	NA		NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-01	mario3	0.13907	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	bold	True		True	True	False	True
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	physio	NA		NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	physprep	NA		NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-02	mario3	0.15355	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	bold	True		True	True	False	True
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	physio	NA		NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	physprep	NA		NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-01_ses-012_task-mario3_run-03	mario3	0.1908	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	bold	True		True	True	False	True
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	physio	NA		NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	physprep	NA		NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-01	mario3	0.15231	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	bold	True		True	True	False	True
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	physio	NA		NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	physprep	NA		NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-01_ses-013_task-mario3_run-02	mario3	0.13038	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	bold	True		True	True	False	True
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	physio	NA		NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	physprep	NA		NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-01	mario3	0.12624	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	bold	True		True	True	False	True
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	physio	NA		NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	physprep	NA		NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-02	mario3	0.15645	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	bold	True		True	True	False	True
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	physio	NA		NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	physprep	NA		NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-01_ses-014_task-mario3_run-03	mario3	0.12831	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	bold	True		True	True	False	True
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	physio	NA		NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	physprep	NA		NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-01	mario3	0.14362	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	bold	True		True	True	False	True
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	physio	NA		NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	physprep	NA		NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-02	mario3	0.15645	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	bold	True		True	True	False	True
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	physio	NA		NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	physprep	NA		NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-01_ses-015_task-mario3_run-03	mario3	0.1341	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	bold	True		True	True	False	True
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	physio	NA		NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	physprep	NA		NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-01	mario3	0.137	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	bold	True		True	True	False	True
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	physio	NA		NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	physprep	NA		NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-02	mario3	0.15438	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	bold	True		True	True	False	True
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	physio	NA		NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	physprep	NA		NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-01_ses-016_task-mario3_run-03	mario3	0.24833	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	bold	True		True	True	False	True
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	physio	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	physprep	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-01	mario3	0.12458	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	bold	True		True	True	False	True
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	physio	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	physprep	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-02	mario3	0.24833	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	bold	True		True	True	False	True
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	physio	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	physprep	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-03	mario3	0.14859	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	bold	True		True	True	False	True
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	physio	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	physprep	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-04	mario3	0.16514	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	bold	True		True	True	False	True
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	physio	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	physprep	NA		NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-01_ses-017_task-mario3_run-05	mario3	0.15355	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	bold	True		True	True	False	True
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	physio	NA		NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	physprep	NA		NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-01	mario3	0.17797	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	bold	True		True	True	False	True
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	physio	NA		NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	physprep	NA		NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-02	mario3	0.16142	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	bold	True		True	True	False	True
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	physio	NA		NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	physprep	NA		NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-01_ses-018_task-mario3_run-03	mario3	0.17673	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	bold	True		True	True	False	True
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	physio	NA		NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	physprep	NA		NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-01	mario3	0.18087	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	bold	True		True	True	False	True
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	physio	NA		NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	physprep	NA		NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-02	mario3	0.16183	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	bold	True		True	True	False	True
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	physio	NA		NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	physprep	NA		NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-01_ses-019_task-mario3_run-03	mario3	0.14403	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	bold	True		True	True	False	True
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	physio	NA		NA	NA	NA	NA
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	physprep	NA		NA	NA	NA	NA
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-01_ses-020_task-mario3_run-01	mario3	0.15024	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	bold	True		True	True	False	True
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	physio	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	physprep	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-01	mario3	0.12582	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	bold	True		True	True	False	True
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	physio	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	physprep	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-02	mario3	0.13534	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	bold	True		True	True	False	True
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	physio	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	physprep	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-03	mario3	0.14859	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	bold	True		True	True	False	True
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	physio	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	physprep	NA		NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-01_ses-021_task-mario3_run-04	mario3	0.16431	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	bold	True		True	True	False	True
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	physio	NA		NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	physprep	NA		NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-01	mario3	0.14114	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	bold	True		True	True	False	True
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	physio	NA		NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	physprep	NA		NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-02	mario3	0.13658	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	bold	True		True	True	False	True
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	physio	NA		NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	physprep	NA		NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-01_ses-022_task-mario3_run-03	mario3	0.14279	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	bold	True		True	True	False	True
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	physio	NA		NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	physprep	NA		NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-01	mario3	0.13907	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	bold	True		True	True	False	True
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	physio	NA		NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	physprep	NA		NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-02	mario3	0.1519	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	bold	True		True	True	False	True
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	physio	NA		NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	physprep	NA		NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-01_ses-023_task-mario3_run-03	mario3	0.13824	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	bold	True		True	True	False	True
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	physio	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	physprep	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-01	mario3	0.12251	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	bold	True		True	True	False	True
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	physio	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	physprep	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-02	mario3	0.15935	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	bold	True		True	True	False	True
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	physio	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	physprep	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-03	mario3	0.16804	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	bold	True		True	True	False	True
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	physio	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	physprep	NA		NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-01_ses-024_task-mario3_run-04	mario3	0.12582	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	bold	True		True	True	False	True
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	physio	NA		NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	physprep	NA		NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-01	mario3	0.14155	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	bold	True		True	True	False	True
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	physio	NA		NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	physprep	NA		NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-02	mario3	0.14569	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	bold	True		True	True	False	True
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	physio	NA		NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	physprep	NA		NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-01_ses-025_task-mario3_run-03	mario3	0.12334	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
