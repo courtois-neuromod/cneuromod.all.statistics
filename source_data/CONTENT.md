@@ -56,7 +56,7 @@ Datasets without a `bids/` folder (metadata accessed differently, TBD):
 ## `annex_locations/`
 
 Written by `invoke fetch-annex-locations`: one `<dataset>_<kind>.tsv` per installed
-`bids`, `fmriprep`, `physprep` and `timeseries` subdataset, with columns `path`,
+`bids`, `fmriprep`, `tsnr`, `physprep` and `timeseries` subdataset, with columns `path`,
 `key` and `remotes` (the `;`-joined labels from `release_remotes` in `invoke.yaml` that
 hold the file). Read from the `git-annex` branch with `git annex whereis`, which merges
 `origin/git-annex` in the source checkout, so it only runs at fetch time.

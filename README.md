@@ -37,13 +37,14 @@ Or in one step: `uv run invoke run --force`.
 
 | Task                           | Description                                                         |
 |--------------------------------|---------------------------------------------------------------------|
-| `fetch`                        | Retrieve all source data: `cneuromod.all`, every dataset's `bids`, `physprep`, `fmriprep` and `timeseries` trees, and the annex-location and timeseries indexes |
+| `fetch`                        | Retrieve all source data: `cneuromod.all`, every dataset's `bids`, `physprep`, `fmriprep`, `tsnr` and `timeseries` trees, and the annex-location and timeseries indexes |
 | `fetch-cneuromod`              | Make the `cneuromod.all` superdataset available under `source_data/` |
 | `fetch-bids`                   | Install each dataset's `bids/` subdataset (tree only, no annexed content) |
 | `fetch-physprep`               | Install each dataset's `physprep/` subdataset (tree only, for the QC JSONs) |
 | `fetch-fmriprep`               | Install each dataset's `fmriprep/` subdataset (tree only) |
+| `fetch-tsnr`                   | Install each dataset's `tsnr/` subdataset (tree only) |
 | `fetch-timeseries`             | Install each dataset's `timeseries/` subdataset (tree only) |
-| `fetch-annex-locations`        | Index which release remotes hold each bold/physio/fmriprep/physprep/timeseries file → `source_data/annex_locations/` |
+| `fetch-annex-locations`        | Index which release remotes hold each bold/physio/fmriprep/tsnr/physprep/timeseries file → `source_data/annex_locations/` |
 | `fetch-timeseries-index`       | List the runs inside each timeseries h5 (local content, else ranged S3 reads; needs `AWS_*` credentials) → `source_data/timeseries_index.tsv` |
 | `run-statistics`               | Count sessions per subject per dataset; write `output_data/session_counts.tsv` |
 | `run-fmri-stats`               | Compute per-dataset fMRI aggregate stats; write `output_data/fmri_stats.tsv` |

@@ -65,7 +65,7 @@ td.k { font-family: var(--mono); font-size: 12px; }
 <div class="wrap">
   <header>
     <h1>CNeuroMod Release Check</h1>
-    <p class="sub">For every fMRI run: are the raw BOLD, raw physio, fmriprep, physprep and timeseries files present, and held on each release remote?</p>
+    <p class="sub">For every fMRI run: are the raw BOLD, raw physio, fmriprep, tSNR maps, physprep and timeseries files present, and held on each release remote?</p>
   </header>
 
   <div class="bar">
@@ -95,13 +95,13 @@ td.k { font-family: var(--mono); font-size: 12px; }
 const STATE = __DASHBOARD_STATE__;
 const LABELS = STATE.labels, S = STATE.summary;
 const $ = id => document.getElementById(id);
-const ASSET_ORDER = ["complete", "bold", "physio", "fmriprep", "physprep"];
+const ASSET_ORDER = ["complete", "bold", "physio", "fmriprep", "tsnr", "physprep"];
 const assets = [...new Set(S.map(r => r.asset))].sort((a, b) => {
   const ia = ASSET_ORDER.indexOf(a), ib = ASSET_ORDER.indexOf(b);
   return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b); });
 const datasets = [...new Set(S.map(r => r.dataset))].sort();
 const subjects = [...new Set(S.map(r => r.subject))].sort();
-const ASSET_NAME = {complete: "all assets (complete run)", bold: "raw BOLD", physio: "raw physio", fmriprep: "fmriprep", physprep: "physprep"};
+const ASSET_NAME = {complete: "all assets (complete run)", bold: "raw BOLD", physio: "raw physio", fmriprep: "fmriprep", tsnr: "tSNR maps", physprep: "physprep"};
 const assetName = a => ASSET_NAME[a] || (a.startsWith("ts_") ? "timeseries " + a.slice(3).replace("_", " ") : a);
 
 function fill(sel, opts) { sel.innerHTML = opts.map(([v, t]) => `<option value="${v}">${t}</option>`).join(""); }

@@ -2,6 +2,7 @@ session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
 ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	bold	True		True	True	False	True
 ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	physio	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -10,6 +11,7 @@ ses-001	sub-03_ses-001_task-mutemusic_run-01	mutemusic	0.18253	ts_voxel_native	N
 ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	bold	True		True	True	False	True
 ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	physio	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -18,6 +20,7 @@ ses-001	sub-03_ses-001_task-mutemusic_run-02	mutemusic	0.18832	ts_voxel_native	N
 ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	bold	True		True	True	False	True
 ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	physio	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -26,6 +29,7 @@ ses-001	sub-03_ses-001_task-mutemusic_run-03	mutemusic	0.17921	ts_voxel_native	N
 ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	bold	True		True	True	False	True
 ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	physio	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -34,6 +38,7 @@ ses-001	sub-03_ses-001_task-mutemusic_run-04	mutemusic	0.18666	ts_voxel_native	N
 ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	bold	True		True	True	False	True
 ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	physio	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	ts_cneuromod2026	False		False	False	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -42,6 +47,7 @@ ses-001	sub-03_ses-001_task-mutemusic_run-05	mutemusic	0.16804	ts_voxel_native	N
 ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	bold	True		True	True	False	True
 ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	physio	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -50,6 +56,7 @@ ses-001	sub-03_ses-001_task-mutemusic_run-06	mutemusic	0.18294	ts_voxel_native	N
 ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	bold	True		True	True	False	True
 ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	physio	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -58,6 +65,7 @@ ses-002	sub-03_ses-002_task-mutemusic_run-01	mutemusic	0.1817	ts_voxel_native	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	bold	True		True	True	False	True
 ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	physio	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -66,6 +74,7 @@ ses-002	sub-03_ses-002_task-mutemusic_run-02	mutemusic	0.18873	ts_voxel_native	N
 ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	bold	True		True	True	False	True
 ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	physio	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -74,6 +83,7 @@ ses-002	sub-03_ses-002_task-mutemusic_run-03	mutemusic	0.17756	ts_voxel_native	N
 ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	bold	True		True	True	False	True
 ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	physio	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -82,6 +92,7 @@ ses-002	sub-03_ses-002_task-mutemusic_run-04	mutemusic	0.18791	ts_voxel_native	N
 ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	bold	True		True	True	False	True
 ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	physio	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -90,6 +101,7 @@ ses-002	sub-03_ses-002_task-mutemusic_run-05	mutemusic	0.16845	ts_voxel_native	N
 ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	bold	True		True	True	False	True
 ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	physio	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -98,6 +110,7 @@ ses-002	sub-03_ses-002_task-mutemusic_run-06	mutemusic	0.18459	ts_voxel_native	N
 ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	bold	True		True	True	False	True
 ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	physio	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -106,6 +119,7 @@ ses-003	sub-03_ses-003_task-mutemusic_run-01	mutemusic	0.1817	ts_voxel_native	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	bold	True		True	True	False	True
 ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	physio	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -114,6 +128,7 @@ ses-003	sub-03_ses-003_task-mutemusic_run-02	mutemusic	0.18832	ts_voxel_native	N
 ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	bold	True		True	True	False	True
 ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	physio	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -122,6 +137,7 @@ ses-003	sub-03_ses-003_task-mutemusic_run-03	mutemusic	0.17839	ts_voxel_native	N
 ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	bold	True		True	True	False	True
 ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	physio	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -130,6 +146,7 @@ ses-003	sub-03_ses-003_task-mutemusic_run-04	mutemusic	0.18666	ts_voxel_native	N
 ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	bold	True		True	True	False	True
 ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	physio	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -138,6 +155,7 @@ ses-003	sub-03_ses-003_task-mutemusic_run-05	mutemusic	0.16804	ts_voxel_native	N
 ses-003	sub-03_ses-003_task-mutemusic_run-06	mutemusic	0.18418	bold	True		True	True	False	True
 ses-003	sub-03_ses-003_task-mutemusic_run-06	mutemusic	0.18418	physio	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-06	mutemusic	0.18418	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-03_ses-003_task-mutemusic_run-06	mutemusic	0.18418	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-06	mutemusic	0.18418	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-mutemusic_run-06	mutemusic	0.18418	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-03_ses-003_task-mutemusic_run-06	mutemusic	0.18418	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
