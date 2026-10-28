@@ -2,6 +2,7 @@ session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
 ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	bold	True		True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	ts_schaefer1000	True		True	False	False	False
@@ -10,6 +11,7 @@ ses-002	sub-02_ses-002_task-shinobi_run-01	shinobi	0.17011	ts_voxel_native	NA	h5
 ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	bold	True		True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	ts_schaefer1000	True		True	False	False	False
@@ -18,6 +20,7 @@ ses-002	sub-02_ses-002_task-shinobi_run-02	shinobi	0.2086	ts_voxel_native	NA	h5 
 ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	bold	True		True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	ts_schaefer1000	True		True	False	False	False
@@ -26,6 +29,7 @@ ses-002	sub-02_ses-002_task-shinobi_run-03	shinobi	0.19991	ts_voxel_native	NA	h5
 ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	bold	True		True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	ts_schaefer1000	True		True	False	False	False
@@ -34,6 +38,7 @@ ses-002	sub-02_ses-002_task-shinobi_run-04	shinobi	0.18956	ts_voxel_native	NA	h5
 ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	bold	True		True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	ts_schaefer1000	True		True	False	False	False
@@ -42,6 +47,7 @@ ses-002	sub-02_ses-002_task-shinobi_run-05	shinobi	0.18335	ts_voxel_native	NA	h5
 ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	bold	True		True	True	False	True
 ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	ts_schaefer1000	True		True	False	False	False
@@ -50,6 +56,7 @@ ses-005	sub-02_ses-005_task-shinobi_run-01	shinobi	0.1908	ts_voxel_native	NA	h5 
 ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	bold	True		True	True	False	True
 ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	ts_schaefer1000	True		True	False	False	False
@@ -58,6 +65,7 @@ ses-005	sub-02_ses-005_task-shinobi_run-02	shinobi	0.16845	ts_voxel_native	NA	h5
 ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	bold	True		True	True	False	True
 ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	ts_schaefer1000	True		True	False	False	False
@@ -66,6 +74,7 @@ ses-006	sub-02_ses-006_task-shinobi_run-01	shinobi	0.20819	ts_voxel_native	NA	h5
 ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	bold	True		True	True	False	True
 ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	ts_schaefer1000	True		True	False	False	False
@@ -74,6 +83,7 @@ ses-006	sub-02_ses-006_task-shinobi_run-02	shinobi	0.20777	ts_voxel_native	NA	h5
 ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	bold	True		True	True	False	True
 ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	physprep	True	PPG=Fail;ECG=Pass;EDA=Pass;RSP=Pass	True	True	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	ts_schaefer1000	True		True	False	False	False
@@ -82,6 +92,7 @@ ses-006	sub-02_ses-006_task-shinobi_run-03	shinobi	0.19411	ts_voxel_native	NA	h5
 ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	bold	True		True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Fail	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	ts_schaefer1000	True		True	False	False	False
@@ -90,6 +101,7 @@ ses-007	sub-02_ses-007_task-shinobi_run-01	shinobi	0.18418	ts_voxel_native	NA	h5
 ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	bold	True		True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	ts_schaefer1000	True		True	False	False	False
@@ -98,6 +110,7 @@ ses-007	sub-02_ses-007_task-shinobi_run-02	shinobi	0.19991	ts_voxel_native	NA	h5
 ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	bold	True		True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	ts_schaefer1000	True		True	False	False	False
@@ -106,6 +119,7 @@ ses-007	sub-02_ses-007_task-shinobi_run-03	shinobi	0.1908	ts_voxel_native	NA	h5 
 ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	bold	True		True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Fail	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	ts_schaefer1000	True		True	False	False	False
@@ -114,6 +128,7 @@ ses-007	sub-02_ses-007_task-shinobi_run-04	shinobi	0.20281	ts_voxel_native	NA	h5
 ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	bold	True		True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	ts_schaefer1000	True		True	False	False	False
@@ -122,6 +137,7 @@ ses-007	sub-02_ses-007_task-shinobi_run-05	shinobi	0.20032	ts_voxel_native	NA	h5
 ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	bold	True		True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	ts_schaefer1000	True		True	False	False	False
@@ -130,6 +146,7 @@ ses-008	sub-02_ses-008_task-shinobi_run-01	shinobi	0.17259	ts_voxel_native	NA	h5
 ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	bold	True		True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	ts_schaefer1000	True		True	False	False	False
@@ -138,6 +155,7 @@ ses-008	sub-02_ses-008_task-shinobi_run-02	shinobi	0.18791	ts_voxel_native	NA	h5
 ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	bold	True		True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	ts_schaefer1000	True		True	False	False	False
@@ -146,6 +164,7 @@ ses-008	sub-02_ses-008_task-shinobi_run-03	shinobi	0.18128	ts_voxel_native	NA	h5
 ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	bold	True		True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	ts_schaefer1000	True		True	False	False	False
@@ -154,6 +173,7 @@ ses-008	sub-02_ses-008_task-shinobi_run-04	shinobi	0.20198	ts_voxel_native	NA	h5
 ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	bold	True		True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	ts_schaefer1000	True		True	False	False	False
@@ -162,6 +182,7 @@ ses-008	sub-02_ses-008_task-shinobi_run-05	shinobi	0.17756	ts_voxel_native	NA	h5
 ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	bold	True		True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	ts_schaefer1000	True		True	False	False	False
@@ -170,6 +191,7 @@ ses-009	sub-02_ses-009_task-shinobi_run-01	shinobi	0.18542	ts_voxel_native	NA	h5
 ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	bold	True		True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	ts_schaefer1000	True		True	False	False	False
@@ -178,6 +200,7 @@ ses-009	sub-02_ses-009_task-shinobi_run-02	shinobi	0.20115	ts_voxel_native	NA	h5
 ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	bold	True		True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	ts_schaefer1000	True		True	False	False	False
@@ -186,6 +209,7 @@ ses-009	sub-02_ses-009_task-shinobi_run-03	shinobi	0.21605	ts_voxel_native	NA	h5
 ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	bold	True		True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	True	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	ts_schaefer1000	True		True	False	False	False
@@ -194,6 +218,7 @@ ses-009	sub-02_ses-009_task-shinobi_run-04	shinobi	0.19908	ts_voxel_native	NA	h5
 ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	bold	True		True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	ts_schaefer1000	True		True	False	False	False
@@ -202,6 +227,7 @@ ses-010	sub-02_ses-010_task-shinobi_run-01	shinobi	0.20736	ts_voxel_native	NA	h5
 ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	bold	True		True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	ts_schaefer1000	True		True	False	False	False
@@ -210,6 +236,7 @@ ses-010	sub-02_ses-010_task-shinobi_run-02	shinobi	0.18294	ts_voxel_native	NA	h5
 ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	bold	True		True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	ts_schaefer1000	True		True	False	False	False
@@ -218,6 +245,7 @@ ses-010	sub-02_ses-010_task-shinobi_run-03	shinobi	0.19204	ts_voxel_native	NA	h5
 ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	bold	True		True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	ts_schaefer1000	True		True	False	False	False
@@ -226,6 +254,7 @@ ses-010	sub-02_ses-010_task-shinobi_run-04	shinobi	0.18832	ts_voxel_native	NA	h5
 ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	bold	True		True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	ts_schaefer1000	True		True	False	False	False
@@ -234,6 +263,7 @@ ses-010	sub-02_ses-010_task-shinobi_run-05	shinobi	0.1937	ts_voxel_native	NA	h5 
 ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	bold	True		True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Fail	True	True	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	ts_schaefer1000	True		True	False	False	False
@@ -242,6 +272,7 @@ ses-010	sub-02_ses-010_task-shinobi_run-06	shinobi	0.19163	ts_voxel_native	NA	h5
 ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	bold	True		True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	ts_schaefer1000	True		True	False	False	False
@@ -250,6 +281,7 @@ ses-011	sub-02_ses-011_task-shinobi_run-01	shinobi	0.20405	ts_voxel_native	NA	h5
 ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	bold	True		True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	ts_schaefer1000	True		True	False	False	False
@@ -258,6 +290,7 @@ ses-011	sub-02_ses-011_task-shinobi_run-02	shinobi	0.18625	ts_voxel_native	NA	h5
 ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	bold	True		True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	ts_schaefer1000	True		True	False	False	False
@@ -266,6 +299,7 @@ ses-011	sub-02_ses-011_task-shinobi_run-03	shinobi	0.18501	ts_voxel_native	NA	h5
 ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	bold	True		True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	ts_schaefer1000	True		True	False	False	False
@@ -274,6 +308,7 @@ ses-011	sub-02_ses-011_task-shinobi_run-04	shinobi	0.19991	ts_voxel_native	NA	h5
 ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	bold	True		True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	ts_schaefer1000	True		True	False	False	False
@@ -282,6 +317,7 @@ ses-011	sub-02_ses-011_task-shinobi_run-05	shinobi	0.18915	ts_voxel_native	NA	h5
 ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	bold	True		True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	ts_schaefer1000	True		True	False	False	False
@@ -290,6 +326,7 @@ ses-011	sub-02_ses-011_task-shinobi_run-06	shinobi	0.18128	ts_voxel_native	NA	h5
 ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	bold	True		True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	ts_schaefer1000	True		True	False	False	False
@@ -298,6 +335,7 @@ ses-012	sub-02_ses-012_task-shinobi_run-01	shinobi	0.19991	ts_voxel_native	NA	h5
 ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	bold	True		True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	ts_schaefer1000	True		True	False	False	False
@@ -306,6 +344,7 @@ ses-012	sub-02_ses-012_task-shinobi_run-02	shinobi	0.1908	ts_voxel_native	NA	h5 
 ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	bold	True		True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	ts_schaefer1000	True		True	False	False	False
@@ -314,6 +353,7 @@ ses-012	sub-02_ses-012_task-shinobi_run-03	shinobi	0.18542	ts_voxel_native	NA	h5
 ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	bold	True		True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	ts_schaefer1000	True		True	False	False	False
@@ -322,6 +362,7 @@ ses-012	sub-02_ses-012_task-shinobi_run-04	shinobi	0.17963	ts_voxel_native	NA	h5
 ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	bold	True		True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	ts_schaefer1000	True		True	False	False	False
@@ -330,6 +371,7 @@ ses-012	sub-02_ses-012_task-shinobi_run-05	shinobi	0.1788	ts_voxel_native	NA	h5 
 ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	bold	True		True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	ts_cneuromod2026	True		True	False	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	ts_schaefer1000	True		True	False	False	False
@@ -338,6 +380,7 @@ ses-013	sub-02_ses-013_task-shinobi_run-01	shinobi	0.18418	ts_voxel_native	NA	h5
 ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	bold	True		True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	ts_cneuromod2026	True		True	False	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	ts_schaefer1000	True		True	False	False	False
@@ -346,6 +389,7 @@ ses-013	sub-02_ses-013_task-shinobi_run-02	shinobi	0.18211	ts_voxel_native	NA	h5
 ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	bold	True		True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	ts_cneuromod2026	True		True	False	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	ts_schaefer1000	True		True	False	False	False
@@ -354,6 +398,7 @@ ses-013	sub-02_ses-013_task-shinobi_run-03	shinobi	0.21067	ts_voxel_native	NA	h5
 ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	bold	True		True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	ts_cneuromod2026	True		True	False	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	ts_schaefer1000	True		True	False	False	False
@@ -362,6 +407,7 @@ ses-013	sub-02_ses-013_task-shinobi_run-04	shinobi	0.1817	ts_voxel_native	NA	h5 
 ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	bold	True		True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	ts_cneuromod2026	True		True	False	False	False
 ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	ts_schaefer1000	True		True	False	False	False
@@ -370,6 +416,7 @@ ses-013	sub-02_ses-013_task-shinobi_run-05	shinobi	0.20446	ts_voxel_native	NA	h5
 ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	bold	True		True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	ts_cneuromod2026	True		True	False	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	ts_schaefer1000	True		True	False	False	False
@@ -378,6 +425,7 @@ ses-014	sub-02_ses-014_task-shinobi_run-01	shinobi	0.19287	ts_voxel_native	NA	h5
 ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	bold	True		True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	ts_cneuromod2026	True		True	False	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	ts_schaefer1000	True		True	False	False	False
@@ -386,6 +434,7 @@ ses-014	sub-02_ses-014_task-shinobi_run-02	shinobi	0.1937	ts_voxel_native	NA	h5 
 ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	bold	True		True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	physprep	True	PPG=Pass;ECG=Pass;EDA=Pass;RSP=Pass	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	ts_cneuromod2026	True		True	False	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	ts_schaefer1000	True		True	False	False	False
@@ -394,6 +443,7 @@ ses-014	sub-02_ses-014_task-shinobi_run-03	shinobi	0.18915	ts_voxel_native	NA	h5
 ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	bold	True		True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	physprep	True	PPG=Pass;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	ts_cneuromod2026	True		True	False	False	False
 ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	ts_schaefer1000	True		True	False	False	False
@@ -402,6 +452,7 @@ ses-014	sub-02_ses-014_task-shinobi_run-04	shinobi	0.16845	ts_voxel_native	NA	h5
 ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	bold	True		True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	ts_cneuromod2026	True		True	False	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	ts_schaefer1000	True		True	False	False	False
@@ -410,6 +461,7 @@ ses-015	sub-02_ses-015_task-shinobi_run-01	shinobi	0.17673	ts_voxel_native	NA	h5
 ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	bold	True		True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	ts_cneuromod2026	True		True	False	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	ts_schaefer1000	True		True	False	False	False
@@ -418,6 +470,7 @@ ses-015	sub-02_ses-015_task-shinobi_run-02	shinobi	0.17673	ts_voxel_native	NA	h5
 ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	bold	True		True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	ts_cneuromod2026	True		True	False	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	ts_schaefer1000	True		True	False	False	False
@@ -426,6 +479,7 @@ ses-015	sub-02_ses-015_task-shinobi_run-03	shinobi	0.2057	ts_voxel_native	NA	h5 
 ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	bold	True		True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	ts_cneuromod2026	True		True	False	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	ts_schaefer1000	True		True	False	False	False
@@ -434,6 +488,7 @@ ses-015	sub-02_ses-015_task-shinobi_run-04	shinobi	0.17632	ts_voxel_native	NA	h5
 ses-015	sub-02_ses-015_task-shinobi_run-05	shinobi	0.18335	bold	True		True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-05	shinobi	0.18335	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
 ses-015	sub-02_ses-015_task-shinobi_run-05	shinobi	0.18335	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+ses-015	sub-02_ses-015_task-shinobi_run-05	shinobi	0.18335	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-05	shinobi	0.18335	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	True	True	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-05	shinobi	0.18335	ts_cneuromod2026	True		True	False	False	False
 ses-015	sub-02_ses-015_task-shinobi_run-05	shinobi	0.18335	ts_schaefer1000	True		True	False	False	False

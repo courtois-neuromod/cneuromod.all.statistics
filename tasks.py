@@ -68,6 +68,16 @@ def fetch_fmriprep(c, dataset=None, strict=False):
 
 @task(help={
     "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
+              "(default: every dataset with a `tsnr/` subfolder).",
+    "strict": "Raise if a tsnr subdataset fails to install.",
+})
+def fetch_tsnr(c, dataset=None, strict=False):
+    """Install each dataset's `tsnr/` subdataset (tree only, for run-level completeness)."""
+    _install_subdatasets(c, "tsnr", dataset, strict)
+
+
+@task(help={
+    "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
               "(default: every dataset with a `timeseries/` subfolder).",
     "strict": "Raise if a timeseries subdataset fails to install.",
 })
@@ -80,7 +90,7 @@ def fetch_timeseries(c, dataset=None, strict=False):
     "dataset": "Comma-separated dataset names to restrict the index to.",
 })
 def fetch_annex_locations(c, dataset=None):
-    """Index which release remotes hold each bold/physio/fmriprep/physprep/timeseries file.
+    """Index which release remotes hold each bold/physio/fmriprep/tsnr/physprep/timeseries file.
 
     Runs `git annex whereis`, which merges origin/git-annex in the source
     checkout — so it belongs here and never in `run`.
@@ -140,13 +150,14 @@ def fetch_timeseries_index(c, dataset=None, atlas=None):
     "strict": "Raise if a bids or physprep subdataset fails to install.",
 })
 def fetch(c, source=None, dataset=None, strict=False):
-    """Retrieve all source data: cneuromod.all, every dataset's bids, physprep, fmriprep and timeseries trees, and the annex-location and timeseries indexes."""
+    """Retrieve all source data: cneuromod.all, every dataset's bids, physprep, fmriprep, tsnr and timeseries trees, and the annex-location and timeseries indexes."""
     from airoh.provenance import record_sources
 
     fetch_cneuromod(c, source=source)
     fetch_bids(c, dataset=dataset, strict=strict)
     fetch_physprep(c, dataset=dataset, strict=strict)
     fetch_fmriprep(c, dataset=dataset, strict=strict)
+    fetch_tsnr(c, dataset=dataset, strict=strict)
     fetch_timeseries(c, dataset=dataset, strict=strict)
     fetch_annex_locations(c, dataset=dataset)
     fetch_timeseries_index(c, dataset=dataset)

@@ -2,6 +2,7 @@ session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
 ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -10,6 +11,7 @@ ses-01	sub-01_ses-01_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -18,6 +20,7 @@ ses-01	sub-01_ses-01_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -26,6 +29,7 @@ ses-01	sub-01_ses-01_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -34,6 +38,7 @@ ses-02	sub-01_ses-02_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -42,6 +47,7 @@ ses-02	sub-01_ses-02_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -50,6 +56,7 @@ ses-02	sub-01_ses-02_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -58,6 +65,7 @@ ses-02	sub-01_ses-02_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -66,6 +74,7 @@ ses-02	sub-01_ses-02_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -74,6 +83,7 @@ ses-02	sub-01_ses-02_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -82,6 +92,7 @@ ses-03	sub-01_ses-03_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -90,6 +101,7 @@ ses-03	sub-01_ses-03_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -98,6 +110,7 @@ ses-03	sub-01_ses-03_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -106,6 +119,7 @@ ses-03	sub-01_ses-03_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -114,6 +128,7 @@ ses-03	sub-01_ses-03_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -122,6 +137,7 @@ ses-03	sub-01_ses-03_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -130,6 +146,7 @@ ses-04	sub-01_ses-04_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -138,6 +155,7 @@ ses-04	sub-01_ses-04_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -146,6 +164,7 @@ ses-04	sub-01_ses-04_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -154,6 +173,7 @@ ses-04	sub-01_ses-04_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -162,6 +182,7 @@ ses-04	sub-01_ses-04_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -170,6 +191,7 @@ ses-04	sub-01_ses-04_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -178,6 +200,7 @@ ses-05	sub-01_ses-05_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -186,6 +209,7 @@ ses-05	sub-01_ses-05_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -194,6 +218,7 @@ ses-05	sub-01_ses-05_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -202,6 +227,7 @@ ses-05	sub-01_ses-05_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -210,6 +236,7 @@ ses-05	sub-01_ses-05_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -218,6 +245,7 @@ ses-05	sub-01_ses-05_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -226,6 +254,7 @@ ses-06	sub-01_ses-06_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -234,6 +263,7 @@ ses-06	sub-01_ses-06_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -242,6 +272,7 @@ ses-06	sub-01_ses-06_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -250,6 +281,7 @@ ses-06	sub-01_ses-06_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -258,6 +290,7 @@ ses-06	sub-01_ses-06_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -266,6 +299,7 @@ ses-06	sub-01_ses-06_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -274,6 +308,7 @@ ses-07	sub-01_ses-07_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -282,6 +317,7 @@ ses-07	sub-01_ses-07_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -290,6 +326,7 @@ ses-07	sub-01_ses-07_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -298,6 +335,7 @@ ses-07	sub-01_ses-07_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -306,6 +344,7 @@ ses-07	sub-01_ses-07_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -314,6 +353,7 @@ ses-07	sub-01_ses-07_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -322,6 +362,7 @@ ses-08	sub-01_ses-08_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -330,6 +371,7 @@ ses-08	sub-01_ses-08_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -338,6 +380,7 @@ ses-08	sub-01_ses-08_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -346,6 +389,7 @@ ses-08	sub-01_ses-08_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -354,6 +398,7 @@ ses-08	sub-01_ses-08_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -362,6 +407,7 @@ ses-08	sub-01_ses-08_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -370,6 +416,7 @@ ses-09	sub-01_ses-09_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -378,6 +425,7 @@ ses-09	sub-01_ses-09_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -386,6 +434,7 @@ ses-09	sub-01_ses-09_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -394,6 +443,7 @@ ses-09	sub-01_ses-09_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -402,6 +452,7 @@ ses-09	sub-01_ses-09_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -410,6 +461,7 @@ ses-09	sub-01_ses-09_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -418,6 +470,7 @@ ses-10	sub-01_ses-10_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -426,6 +479,7 @@ ses-10	sub-01_ses-10_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -434,6 +488,7 @@ ses-10	sub-01_ses-10_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -442,6 +497,7 @@ ses-10	sub-01_ses-10_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -450,6 +506,7 @@ ses-10	sub-01_ses-10_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -458,6 +515,7 @@ ses-10	sub-01_ses-10_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -466,6 +524,7 @@ ses-11	sub-01_ses-11_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -474,6 +533,7 @@ ses-11	sub-01_ses-11_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -482,6 +542,7 @@ ses-11	sub-01_ses-11_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -490,6 +551,7 @@ ses-11	sub-01_ses-11_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -498,6 +560,7 @@ ses-11	sub-01_ses-11_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -506,6 +569,7 @@ ses-11	sub-01_ses-11_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -514,6 +578,7 @@ ses-12	sub-01_ses-12_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -522,6 +587,7 @@ ses-12	sub-01_ses-12_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -530,6 +596,7 @@ ses-12	sub-01_ses-12_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -538,6 +605,7 @@ ses-12	sub-01_ses-12_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -546,6 +614,7 @@ ses-12	sub-01_ses-12_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -554,6 +623,7 @@ ses-12	sub-01_ses-12_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -562,6 +632,7 @@ ses-13	sub-01_ses-13_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -570,6 +641,7 @@ ses-13	sub-01_ses-13_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -578,6 +650,7 @@ ses-13	sub-01_ses-13_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -586,6 +659,7 @@ ses-13	sub-01_ses-13_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -594,6 +668,7 @@ ses-13	sub-01_ses-13_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -602,6 +677,7 @@ ses-13	sub-01_ses-13_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -610,6 +686,7 @@ ses-14	sub-01_ses-14_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -618,6 +695,7 @@ ses-14	sub-01_ses-14_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -626,6 +704,7 @@ ses-14	sub-01_ses-14_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -634,6 +713,7 @@ ses-14	sub-01_ses-14_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -642,6 +722,7 @@ ses-14	sub-01_ses-14_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -650,6 +731,7 @@ ses-14	sub-01_ses-14_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -658,6 +740,7 @@ ses-15	sub-01_ses-15_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -666,6 +749,7 @@ ses-15	sub-01_ses-15_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -674,6 +758,7 @@ ses-15	sub-01_ses-15_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -682,6 +767,7 @@ ses-15	sub-01_ses-15_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -690,6 +776,7 @@ ses-15	sub-01_ses-15_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -698,6 +785,7 @@ ses-15	sub-01_ses-15_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -706,6 +794,7 @@ ses-16	sub-01_ses-16_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -714,6 +803,7 @@ ses-16	sub-01_ses-16_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -722,6 +812,7 @@ ses-16	sub-01_ses-16_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -730,6 +821,7 @@ ses-16	sub-01_ses-16_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -738,6 +830,7 @@ ses-16	sub-01_ses-16_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -746,6 +839,7 @@ ses-16	sub-01_ses-16_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -754,6 +848,7 @@ ses-17	sub-01_ses-17_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -762,6 +857,7 @@ ses-17	sub-01_ses-17_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -770,6 +866,7 @@ ses-17	sub-01_ses-17_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -778,6 +875,7 @@ ses-17	sub-01_ses-17_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -786,6 +884,7 @@ ses-17	sub-01_ses-17_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -794,6 +893,7 @@ ses-17	sub-01_ses-17_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -802,6 +902,7 @@ ses-18	sub-01_ses-18_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -810,6 +911,7 @@ ses-18	sub-01_ses-18_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -818,6 +920,7 @@ ses-18	sub-01_ses-18_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -826,6 +929,7 @@ ses-18	sub-01_ses-18_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -834,6 +938,7 @@ ses-18	sub-01_ses-18_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -842,6 +947,7 @@ ses-18	sub-01_ses-18_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -850,6 +956,7 @@ ses-19	sub-01_ses-19_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -858,6 +965,7 @@ ses-19	sub-01_ses-19_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -866,6 +974,7 @@ ses-19	sub-01_ses-19_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -874,6 +983,7 @@ ses-19	sub-01_ses-19_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -882,6 +992,7 @@ ses-19	sub-01_ses-19_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -890,6 +1001,7 @@ ses-19	sub-01_ses-19_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -898,6 +1010,7 @@ ses-20	sub-01_ses-20_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -906,6 +1019,7 @@ ses-20	sub-01_ses-20_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -914,6 +1028,7 @@ ses-20	sub-01_ses-20_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -922,6 +1037,7 @@ ses-20	sub-01_ses-20_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -930,6 +1046,7 @@ ses-20	sub-01_ses-20_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -938,6 +1055,7 @@ ses-20	sub-01_ses-20_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -946,6 +1064,7 @@ ses-21	sub-01_ses-21_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -954,6 +1073,7 @@ ses-21	sub-01_ses-21_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -962,6 +1082,7 @@ ses-21	sub-01_ses-21_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -970,6 +1091,7 @@ ses-21	sub-01_ses-21_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -978,6 +1100,7 @@ ses-21	sub-01_ses-21_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -986,6 +1109,7 @@ ses-21	sub-01_ses-21_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -994,6 +1118,7 @@ ses-22	sub-01_ses-22_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1002,6 +1127,7 @@ ses-22	sub-01_ses-22_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1010,6 +1136,7 @@ ses-22	sub-01_ses-22_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1018,6 +1145,7 @@ ses-22	sub-01_ses-22_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1026,6 +1154,7 @@ ses-22	sub-01_ses-22_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1034,6 +1163,7 @@ ses-22	sub-01_ses-22_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1042,6 +1172,7 @@ ses-23	sub-01_ses-23_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1050,6 +1181,7 @@ ses-23	sub-01_ses-23_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1058,6 +1190,7 @@ ses-23	sub-01_ses-23_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1066,6 +1199,7 @@ ses-23	sub-01_ses-23_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1074,6 +1208,7 @@ ses-23	sub-01_ses-23_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1082,6 +1217,7 @@ ses-23	sub-01_ses-23_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1090,6 +1226,7 @@ ses-24	sub-01_ses-24_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1098,6 +1235,7 @@ ses-24	sub-01_ses-24_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1106,6 +1244,7 @@ ses-24	sub-01_ses-24_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1114,6 +1253,7 @@ ses-24	sub-01_ses-24_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1122,6 +1262,7 @@ ses-24	sub-01_ses-24_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1130,6 +1271,7 @@ ses-24	sub-01_ses-24_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1138,6 +1280,7 @@ ses-25	sub-01_ses-25_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1146,6 +1289,7 @@ ses-25	sub-01_ses-25_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1154,6 +1298,7 @@ ses-25	sub-01_ses-25_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1162,6 +1307,7 @@ ses-25	sub-01_ses-25_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1170,6 +1316,7 @@ ses-25	sub-01_ses-25_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1178,6 +1325,7 @@ ses-25	sub-01_ses-25_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1186,6 +1334,7 @@ ses-26	sub-01_ses-26_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1194,6 +1343,7 @@ ses-26	sub-01_ses-26_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1202,6 +1352,7 @@ ses-26	sub-01_ses-26_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1210,6 +1361,7 @@ ses-26	sub-01_ses-26_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1218,6 +1370,7 @@ ses-26	sub-01_ses-26_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1226,6 +1379,7 @@ ses-26	sub-01_ses-26_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1234,6 +1388,7 @@ ses-27	sub-01_ses-27_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1242,6 +1397,7 @@ ses-27	sub-01_ses-27_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1250,6 +1406,7 @@ ses-27	sub-01_ses-27_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1258,6 +1415,7 @@ ses-27	sub-01_ses-27_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1266,6 +1424,7 @@ ses-27	sub-01_ses-27_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1274,6 +1433,7 @@ ses-27	sub-01_ses-27_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1282,6 +1442,7 @@ ses-28	sub-01_ses-28_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1290,6 +1451,7 @@ ses-28	sub-01_ses-28_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1298,6 +1460,7 @@ ses-28	sub-01_ses-28_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1306,6 +1469,7 @@ ses-28	sub-01_ses-28_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1314,6 +1478,7 @@ ses-28	sub-01_ses-28_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1322,6 +1487,7 @@ ses-28	sub-01_ses-28_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1330,6 +1496,7 @@ ses-29	sub-01_ses-29_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1338,6 +1505,7 @@ ses-29	sub-01_ses-29_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1346,6 +1514,7 @@ ses-29	sub-01_ses-29_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1354,6 +1523,7 @@ ses-29	sub-01_ses-29_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1362,6 +1532,7 @@ ses-29	sub-01_ses-29_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1370,6 +1541,7 @@ ses-29	sub-01_ses-29_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1378,6 +1550,7 @@ ses-30	sub-01_ses-30_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1386,6 +1559,7 @@ ses-30	sub-01_ses-30_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1394,6 +1568,7 @@ ses-30	sub-01_ses-30_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1402,6 +1577,7 @@ ses-30	sub-01_ses-30_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1410,6 +1586,7 @@ ses-30	sub-01_ses-30_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1418,6 +1595,7 @@ ses-30	sub-01_ses-30_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1426,6 +1604,7 @@ ses-31	sub-01_ses-31_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1434,6 +1613,7 @@ ses-31	sub-01_ses-31_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1442,6 +1622,7 @@ ses-31	sub-01_ses-31_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1450,6 +1631,7 @@ ses-31	sub-01_ses-31_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1458,6 +1640,7 @@ ses-31	sub-01_ses-31_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1466,6 +1649,7 @@ ses-31	sub-01_ses-31_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1474,6 +1658,7 @@ ses-32	sub-01_ses-32_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1482,6 +1667,7 @@ ses-32	sub-01_ses-32_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1490,6 +1676,7 @@ ses-32	sub-01_ses-32_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1498,6 +1685,7 @@ ses-32	sub-01_ses-32_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1506,6 +1694,7 @@ ses-32	sub-01_ses-32_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1514,6 +1703,7 @@ ses-32	sub-01_ses-32_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1522,6 +1712,7 @@ ses-33	sub-01_ses-33_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1530,6 +1721,7 @@ ses-33	sub-01_ses-33_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1538,6 +1730,7 @@ ses-33	sub-01_ses-33_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1546,6 +1739,7 @@ ses-33	sub-01_ses-33_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1554,6 +1748,7 @@ ses-33	sub-01_ses-33_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1562,6 +1757,7 @@ ses-33	sub-01_ses-33_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1570,6 +1766,7 @@ ses-34	sub-01_ses-34_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1578,6 +1775,7 @@ ses-34	sub-01_ses-34_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1586,6 +1784,7 @@ ses-34	sub-01_ses-34_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1594,6 +1793,7 @@ ses-34	sub-01_ses-34_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1602,6 +1802,7 @@ ses-34	sub-01_ses-34_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1610,6 +1811,7 @@ ses-34	sub-01_ses-34_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1618,6 +1820,7 @@ ses-35	sub-01_ses-35_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1626,6 +1829,7 @@ ses-35	sub-01_ses-35_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1634,6 +1838,7 @@ ses-35	sub-01_ses-35_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1642,6 +1847,7 @@ ses-35	sub-01_ses-35_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1650,6 +1856,7 @@ ses-35	sub-01_ses-35_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1658,6 +1865,7 @@ ses-35	sub-01_ses-35_task-things_run-06	things	0.07864	ts_voxel_native	NA	h5 not
 ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	bold	True		True	True	False	True
 ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1666,6 +1874,7 @@ ses-36	sub-01_ses-36_task-things_run-01	things	0.07864	ts_voxel_native	NA	h5 not
 ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	bold	True		True	True	False	True
 ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1674,6 +1883,7 @@ ses-36	sub-01_ses-36_task-things_run-02	things	0.07864	ts_voxel_native	NA	h5 not
 ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	bold	True		True	True	False	True
 ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1682,6 +1892,7 @@ ses-36	sub-01_ses-36_task-things_run-03	things	0.07864	ts_voxel_native	NA	h5 not
 ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	bold	True		True	True	False	True
 ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1690,6 +1901,7 @@ ses-36	sub-01_ses-36_task-things_run-04	things	0.07864	ts_voxel_native	NA	h5 not
 ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	bold	True		True	True	False	True
 ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	ts_schaefer1000	True		True	False	False	False
@@ -1698,6 +1910,7 @@ ses-36	sub-01_ses-36_task-things_run-05	things	0.07864	ts_voxel_native	NA	h5 not
 ses-36	sub-01_ses-36_task-things_run-06	things	0.07864	bold	True		True	True	False	True
 ses-36	sub-01_ses-36_task-things_run-06	things	0.07864	physio	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-06	things	0.07864	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-36	sub-01_ses-36_task-things_run-06	things	0.07864	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-36	sub-01_ses-36_task-things_run-06	things	0.07864	physprep	NA		NA	NA	NA	NA
 ses-36	sub-01_ses-36_task-things_run-06	things	0.07864	ts_cneuromod2026	True		True	False	False	False
 ses-36	sub-01_ses-36_task-things_run-06	things	0.07864	ts_schaefer1000	True		True	False	False	False

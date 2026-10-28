@@ -2,6 +2,7 @@ session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
 ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	bold	True		True	True	False	False
 ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -10,6 +11,7 @@ ses-002	sub-02_ses-002_task-gamepad_run-01	gamepad	0.08568	ts_voxel_native	NA	h5
 ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	bold	True		True	True	False	False
 ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -18,6 +20,7 @@ ses-002	sub-02_ses-002_task-gamepad_run-02	gamepad	0.08568	ts_voxel_native	NA	h5
 ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	bold	True		True	True	False	False
 ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -26,6 +29,7 @@ ses-003	sub-02_ses-003_task-gamepad_run-01	gamepad	0.08568	ts_voxel_native	NA	h5
 ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	bold	True		True	True	False	False
 ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -34,6 +38,7 @@ ses-003	sub-02_ses-003_task-gamepad_run-02	gamepad	0.08568	ts_voxel_native	NA	h5
 ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	bold	True		True	True	False	False
 ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -42,6 +47,7 @@ ses-005	sub-02_ses-005_task-gamepad_run-01	gamepad	0.08568	ts_voxel_native	NA	h5
 ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	bold	True		True	True	False	False
 ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -50,6 +56,7 @@ ses-005	sub-02_ses-005_task-gamepad_run-02	gamepad	0.08568	ts_voxel_native	NA	h5
 ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	bold	True		True	True	False	False
 ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -58,6 +65,7 @@ ses-008	sub-02_ses-008_task-gamepad_run-01	gamepad	0.08568	ts_voxel_native	NA	h5
 ses-008	sub-02_ses-008_task-gamepad_run-02	gamepad	0.08568	bold	True		True	True	False	False
 ses-008	sub-02_ses-008_task-gamepad_run-02	gamepad	0.08568	physio	NA		NA	NA	NA	NA
 ses-008	sub-02_ses-008_task-gamepad_run-02	gamepad	0.08568	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
+ses-008	sub-02_ses-008_task-gamepad_run-02	gamepad	0.08568	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-02_ses-008_task-gamepad_run-02	gamepad	0.08568	physprep	NA		NA	NA	NA	NA
 ses-008	sub-02_ses-008_task-gamepad_run-02	gamepad	0.08568	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-02_ses-008_task-gamepad_run-02	gamepad	0.08568	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA

@@ -1,7 +1,7 @@
 """Run-wise completeness: for every fMRI run, which assets exist and where they are stored.
 
 The spine is the BIDS `*_bold.nii*` runs of each dataset. Each run gets one row per
-asset (long format): raw `bold`, raw `physio`, `fmriprep`, `physprep` and one
+asset (long format): raw `bold`, raw `physio`, `fmriprep`, `tsnr`, `physprep` and one
 `ts_<atlas>` per timeseries atlas. `present` is True / False, or NA when the
 asset cannot be judged for that run (the dataset has no such derivative, or the
 timeseries h5 is missing or was not indexed). One boolean column per release
@@ -23,7 +23,7 @@ from analysis.statistics import _collect_run_map, _load_run_data, _run_key
 from analysis.timeseries_index import h5_files
 
 NA = "NA"
-ASSETS_FIXED = ["bold", "physio", "fmriprep", "physprep"]
+ASSETS_FIXED = ["bold", "physio", "fmriprep", "tsnr", "physprep"]
 INDEX_COLUMNS = ["dataset", "subject", "file", "n_rows"]
 
 
@@ -78,6 +78,15 @@ def _fmriprep_runs(fmriprep_dir: Path) -> dict[str, list[str]]:
     """{run base: [spaces]} from the fmriprep `desc-preproc_bold.nii.gz` tree."""
     runs: dict[str, list[str]] = {}
     for p in _glob_func(fmriprep_dir, "*_desc-preproc*_bold.nii.gz"):
+        m = re.search(r"_space-([^_]+)", p.name)
+        runs.setdefault(_canon(_fmriprep_base(p.name)), []).append(m.group(1) if m else "native")
+    return runs
+
+
+def _tsnr_runs(tsnr_dir: Path) -> dict[str, list[str]]:
+    """{run base: [spaces]} from the tsnr `stat-tsnr_statmap.nii.gz` tree."""
+    runs: dict[str, list[str]] = {}
+    for p in _glob_func(tsnr_dir, "*_stat-tsnr_statmap.nii.gz"):
         m = re.search(r"_space-([^_]+)", p.name)
         runs.setdefault(_canon(_fmriprep_base(p.name)), []).append(m.group(1) if m else "native")
     return runs
@@ -139,6 +148,11 @@ class DatasetAssets:
         self.fmriprep = _fmriprep_runs(root / "fmriprep") if (root / "fmriprep").is_dir() else {}
         self.fmriprep_rem = _remote_sets(_read_locations(annex_dir, dataset, "fmriprep"), _fmriprep_base)
 
+        # tsnr
+        self.tsnr_has_repo = (root / "tsnr").is_dir()
+        self.tsnr = _tsnr_runs(root / "tsnr") if self.tsnr_has_repo else {}
+        self.tsnr_rem = _remote_sets(_read_locations(annex_dir, dataset, "tsnr"), _fmriprep_base)
+
         # timeseries: per atlas, subject -> (h5 path or None, indexed run keys or None, remotes)
         ts_repo = root / "timeseries"
         ts_loc = _read_locations(annex_dir, dataset, "timeseries")
@@ -186,6 +200,13 @@ class DatasetAssets:
         else:
             spaces = sorted(self.fmriprep.get(canon, []))
             add("fmriprep", bool(spaces), ";".join(spaces), self.fmriprep_rem.get(canon))
+
+        # tsnr (judged on repo existence, so an empty repo reads as missing)
+        if not self.tsnr_has_repo:
+            add("tsnr", NA, "", None)
+        else:
+            spaces = sorted(self.tsnr.get(canon, []))
+            add("tsnr", bool(spaces), ";".join(spaces), self.tsnr_rem.get(canon))
 
         # physprep
         if not self.qmap:

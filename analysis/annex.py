@@ -19,6 +19,7 @@ import pandas as pd
 INCLUDE_GLOBS = {
     "bids": ["*_bold.nii.gz", "*_bold.nii", "*_physio.tsv.gz"],
     "fmriprep": ["*desc-preproc*_bold.nii.gz"],
+    "tsnr": ["*stat-tsnr_statmap.nii.gz"],
     "physprep": ["*desc-preproc_physio.tsv.gz"],
     "timeseries": ["*_timeseries.h5"],
 }

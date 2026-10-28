@@ -2,6 +2,7 @@ session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
 ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	bold	True		False	False	False	True
 ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	physio	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	physprep	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -10,6 +11,7 @@ ses-001	sub-06_ses-001_task-ForgotRecall	ForgotRecall	0.09437	ts_voxel_native	NA
 ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	bold	True		False	False	False	True
 ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	physio	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	physprep	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -18,6 +20,7 @@ ses-001	sub-06_ses-001_task-ForgotRecency	ForgotRecency	0.07698	ts_voxel_native	
 ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	bold	True		False	False	False	True
 ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	physio	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	physprep	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -26,6 +29,7 @@ ses-001	sub-06_ses-001_task-ForgotStory	ForgotStory	0.23592	ts_voxel_native	NA	h
 ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	bold	True		False	False	False	True
 ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	physio	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	physprep	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -34,6 +38,7 @@ ses-001	sub-06_ses-001_task-LucyRecall	LucyRecall	0.07947	ts_voxel_native	NA	h5 
 ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	bold	True		False	False	False	True
 ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	physio	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	physprep	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -42,6 +47,7 @@ ses-001	sub-06_ses-001_task-LucyRecency	LucyRecency	0.0894	ts_voxel_native	NA	h5
 ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	bold	True		False	False	False	True
 ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	physio	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	physprep	NA		NA	NA	NA	NA
 ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	ts_cneuromod2026	True		True	False	False	False
 ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -50,6 +56,7 @@ ses-001	sub-06_ses-001_task-LucyStory	LucyStory	0.15438	ts_voxel_native	NA	h5 no
 ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	bold	True		False	False	False	True
 ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	physio	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	physprep	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -58,6 +65,7 @@ ses-002	sub-06_ses-002_task-BlackRecall	BlackRecall	0.20446	ts_voxel_native	NA	h
 ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	bold	True		False	False	False	True
 ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	physio	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	physprep	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -66,6 +74,7 @@ ses-002	sub-06_ses-002_task-BlackRecency	BlackRecency	0.06829	ts_voxel_native	NA
 ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	bold	True		False	False	False	True
 ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	physio	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	physprep	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -74,6 +83,7 @@ ses-002	sub-06_ses-002_task-BlackStory	BlackStory	0.22598	ts_voxel_native	NA	h5 
 ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.15479	bold	True		False	False	False	True
 ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.15479	physio	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.15479	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.15479	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.15479	physprep	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.15479	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.15479	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -82,6 +92,7 @@ ses-002	sub-06_ses-002_task-NotthefallintactRecall	NotthefallintactRecall	0.1547
 ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07409	bold	True		False	False	False	True
 ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07409	physio	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07409	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07409	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07409	physprep	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07409	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07409	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -90,6 +101,7 @@ ses-002	sub-06_ses-002_task-NotthefallintactRecency	NotthefallintactRecency	0.07
 ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	bold	True		False	False	False	True
 ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	physio	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	physprep	NA		NA	NA	NA	NA
 ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	ts_cneuromod2026	True		True	False	False	False
 ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -98,6 +110,7 @@ ses-002	sub-06_ses-002_task-NotthefallintactStory	NotthefallintactStory	0.16514	
 ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	bold	True		False	False	False	True
 ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	physio	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	physprep	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -106,6 +119,7 @@ ses-003	sub-06_ses-003_task-ForgotRecall	ForgotRecall	0.10885	ts_voxel_native	NA
 ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	bold	True		False	False	False	True
 ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	physio	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	physprep	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -114,6 +128,7 @@ ses-003	sub-06_ses-003_task-ForgotRecency	ForgotRecency	0.07036	ts_voxel_native	
 ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	bold	True		False	False	False	True
 ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	physio	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	physprep	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -122,6 +137,7 @@ ses-003	sub-06_ses-003_task-ForgotStory	ForgotStory	0.23592	ts_voxel_native	NA	h
 ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	bold	True		False	False	False	True
 ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	physio	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	physprep	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -130,6 +146,7 @@ ses-003	sub-06_ses-003_task-LucyRecall	LucyRecall	0.15066	ts_voxel_native	NA	h5 
 ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	bold	True		False	False	False	True
 ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	physio	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	physprep	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -138,6 +155,7 @@ ses-003	sub-06_ses-003_task-LucyRecency	LucyRecency	0.06664	ts_voxel_native	NA	h
 ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	bold	True		False	False	False	True
 ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	physio	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	physprep	NA		NA	NA	NA	NA
 ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -146,6 +164,7 @@ ses-003	sub-06_ses-003_task-LucyStory	LucyStory	0.15438	ts_voxel_native	NA	h5 no
 ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	bold	True		False	False	False	True
 ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	physio	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	physprep	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -154,6 +173,7 @@ ses-004	sub-06_ses-004_task-BlackRecall	BlackRecall	0.15231	ts_voxel_native	NA	h
 ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	bold	True		False	False	False	True
 ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	physio	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	physprep	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -162,6 +182,7 @@ ses-004	sub-06_ses-004_task-BlackRecency	BlackRecency	0.07036	ts_voxel_native	NA
 ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	bold	True		False	False	False	True
 ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	physio	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	physprep	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -170,6 +191,7 @@ ses-004	sub-06_ses-004_task-BlackStory	BlackStory	0.22598	ts_voxel_native	NA	h5 
 ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.14652	bold	True		False	False	False	True
 ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.14652	physio	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.14652	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.14652	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.14652	physprep	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.14652	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.14652	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -178,6 +200,7 @@ ses-004	sub-06_ses-004_task-NotthefallintactRecall	NotthefallintactRecall	0.1465
 ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07119	bold	True		False	False	False	True
 ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07119	physio	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07119	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07119	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07119	physprep	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07119	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07119	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -186,6 +209,7 @@ ses-004	sub-06_ses-004_task-NotthefallintactRecency	NotthefallintactRecency	0.07
 ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	bold	True		False	False	False	True
 ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	physio	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	physprep	NA		NA	NA	NA	NA
 ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -194,6 +218,7 @@ ses-004	sub-06_ses-004_task-NotthefallintactStory	NotthefallintactStory	0.16514	
 ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	bold	True		False	False	False	True
 ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	physio	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	physprep	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -202,6 +227,7 @@ ses-005	sub-06_ses-005_task-ForgotRecall	ForgotRecall	0.09561	ts_voxel_native	NA
 ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	bold	True		False	False	False	True
 ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	physio	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	physprep	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -210,6 +236,7 @@ ses-005	sub-06_ses-005_task-ForgotRecency	ForgotRecency	0.07243	ts_voxel_native	
 ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	bold	True		False	False	False	True
 ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	physio	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	physprep	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -218,6 +245,7 @@ ses-005	sub-06_ses-005_task-ForgotStory	ForgotStory	0.23592	ts_voxel_native	NA	h
 ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	bold	True		False	False	False	True
 ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	physio	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	physprep	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -226,6 +254,7 @@ ses-005	sub-06_ses-005_task-LucyRecall	LucyRecall	0.14693	ts_voxel_native	NA	h5 
 ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	bold	True		False	False	False	True
 ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	physio	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	physprep	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -234,6 +263,7 @@ ses-005	sub-06_ses-005_task-LucyRecency	LucyRecency	0.07657	ts_voxel_native	NA	h
 ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	bold	True		False	False	False	True
 ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	physio	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	physprep	NA		NA	NA	NA	NA
 ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -242,6 +272,7 @@ ses-005	sub-06_ses-005_task-LucyStory	LucyStory	0.15438	ts_voxel_native	NA	h5 no
 ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	bold	True		False	False	False	True
 ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	physio	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	physprep	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -250,6 +281,7 @@ ses-006	sub-06_ses-006_task-BlackRecall	BlackRecall	0.12996	ts_voxel_native	NA	h
 ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	bold	True		False	False	False	True
 ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	physio	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	physprep	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -258,6 +290,7 @@ ses-006	sub-06_ses-006_task-BlackRecency	BlackRecency	0.06622	ts_voxel_native	NA
 ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	bold	True		False	False	False	True
 ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	physio	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	physprep	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -266,6 +299,7 @@ ses-006	sub-06_ses-006_task-BlackStory	BlackStory	0.22598	ts_voxel_native	NA	h5 
 ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.13369	bold	True		False	False	False	True
 ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.13369	physio	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.13369	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.13369	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.13369	physprep	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.13369	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.13369	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -274,6 +308,7 @@ ses-006	sub-06_ses-006_task-NotthefallintactRecall	NotthefallintactRecall	0.1336
 ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.0745	bold	True		False	False	False	True
 ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.0745	physio	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.0745	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.0745	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.0745	physprep	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.0745	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.0745	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -282,6 +317,7 @@ ses-006	sub-06_ses-006_task-NotthefallintactRecency	NotthefallintactRecency	0.07
 ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	bold	True		False	False	False	True
 ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	physio	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	physprep	NA		NA	NA	NA	NA
 ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -290,6 +326,7 @@ ses-006	sub-06_ses-006_task-NotthefallintactStory	NotthefallintactStory	0.16514	
 ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	bold	True		False	False	False	True
 ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	physio	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	physprep	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -298,6 +335,7 @@ ses-007	sub-06_ses-007_task-PiemanRecall	PiemanRecall	0.08443	ts_voxel_native	NA
 ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	bold	True		False	False	False	True
 ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	physio	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	physprep	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -306,6 +344,7 @@ ses-007	sub-06_ses-007_task-PiemanRecency	PiemanRecency	0.07119	ts_voxel_native	
 ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	bold	True		False	False	False	True
 ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	physio	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	physprep	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -314,6 +353,7 @@ ses-007	sub-06_ses-007_task-PiemanStory	PiemanStory	0.12872	ts_voxel_native	NA	h
 ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	bold	True		False	False	False	True
 ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	physio	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	physprep	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -322,6 +362,7 @@ ses-007	sub-06_ses-007_task-SlumlordRecall	SlumlordRecall	0.18791	ts_voxel_nativ
 ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	bold	True		False	False	False	True
 ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	physio	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	physprep	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -330,6 +371,7 @@ ses-007	sub-06_ses-007_task-SlumlordRecency	SlumlordRecency	0.20694	ts_voxel_nat
 ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	bold	True		False	False	False	True
 ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	physio	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	physprep	NA		NA	NA	NA	NA
 ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -338,6 +380,7 @@ ses-007	sub-06_ses-007_task-SlumlordStory	SlumlordStory	0.26199	ts_voxel_native	
 ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -346,6 +389,7 @@ ses-008	sub-06_ses-008_task-PrettymouthRecall	PrettymouthRecall	0.0894	ts_voxel_
 ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -354,6 +398,7 @@ ses-008	sub-06_ses-008_task-PrettymouthRecency	PrettymouthRecency	0.07947	ts_vox
 ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -362,6 +407,7 @@ ses-008	sub-06_ses-008_task-PrettymouthStory	PrettymouthStory	0.20156	ts_voxel_n
 ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -370,6 +416,7 @@ ses-008	sub-06_ses-008_task-TunnelRecency	TunnelRecency	0.0865	ts_voxel_native	N
 ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -378,6 +425,7 @@ ses-008	sub-06_ses-008_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1461	ts_voxel_
 ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -386,6 +434,7 @@ ses-008	sub-06_ses-008_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_voxel_na
 ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -394,6 +443,7 @@ ses-008	sub-06_ses-008_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07823	ts_voxel
 ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	bold	True		False	False	False	True
 ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	physio	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	physprep	NA		NA	NA	NA	NA
 ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_cneuromod2026	True		True	False	False	False
 ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -402,6 +452,7 @@ ses-008	sub-06_ses-008_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_voxel_n
 ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	bold	True		False	False	False	True
 ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	physio	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	physprep	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -410,6 +461,7 @@ ses-009	sub-06_ses-009_task-PiemanRecall	PiemanRecall	0.08112	ts_voxel_native	NA
 ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	bold	True		False	False	False	True
 ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	physio	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	physprep	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -418,6 +470,7 @@ ses-009	sub-06_ses-009_task-PiemanRecency	PiemanRecency	0.0625	ts_voxel_native	N
 ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	bold	True		False	False	False	True
 ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	physio	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	physprep	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -426,6 +479,7 @@ ses-009	sub-06_ses-009_task-PiemanStory	PiemanStory	0.12872	ts_voxel_native	NA	h
 ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	bold	True		False	False	False	True
 ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	physio	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	physprep	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -434,6 +488,7 @@ ses-009	sub-06_ses-009_task-SlumlordRecall	SlumlordRecall	0.20694	ts_voxel_nativ
 ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	bold	True		False	False	False	True
 ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	physio	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	physprep	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -442,6 +497,7 @@ ses-009	sub-06_ses-009_task-SlumlordRecency	SlumlordRecency	0.07781	ts_voxel_nat
 ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	bold	True		False	False	False	True
 ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	physio	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	physprep	NA		NA	NA	NA	NA
 ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	ts_cneuromod2026	True		True	False	False	False
 ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -450,6 +506,7 @@ ses-009	sub-06_ses-009_task-SlumlordStory	SlumlordStory	0.26199	ts_voxel_native	
 ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -458,6 +515,7 @@ ses-010	sub-06_ses-010_task-PrettymouthRecall	PrettymouthRecall	0.07781	ts_voxel
 ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -466,6 +524,7 @@ ses-010	sub-06_ses-010_task-PrettymouthRecency	PrettymouthRecency	0.07657	ts_vox
 ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -474,6 +533,7 @@ ses-010	sub-06_ses-010_task-PrettymouthStory	PrettymouthStory	0.20156	ts_voxel_n
 ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -482,6 +542,7 @@ ses-010	sub-06_ses-010_task-TunnelRecency	TunnelRecency	0.07574	ts_voxel_native	
 ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -490,6 +551,7 @@ ses-010	sub-06_ses-010_task-Tunnelpart1Recall	Tunnelpart1Recall	0.11506	ts_voxel
 ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -498,6 +560,7 @@ ses-010	sub-06_ses-010_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_voxel_na
 ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -506,6 +569,7 @@ ses-010	sub-06_ses-010_task-Tunnelpart2Recall	Tunnelpart2Recall	0.07326	ts_voxel
 ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	bold	True		False	False	False	True
 ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	physio	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	physprep	NA		NA	NA	NA	NA
 ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_cneuromod2026	True		True	False	False	False
 ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -514,6 +578,7 @@ ses-010	sub-06_ses-010_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_voxel_n
 ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	bold	True		False	False	False	True
 ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	physio	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	physprep	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -522,6 +587,7 @@ ses-011	sub-06_ses-011_task-PiemanRecall	PiemanRecall	0.10306	ts_voxel_native	NA
 ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	bold	True		False	False	False	True
 ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	physio	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	physprep	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -530,6 +596,7 @@ ses-011	sub-06_ses-011_task-PiemanRecency	PiemanRecency	0.05919	ts_voxel_native	
 ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	bold	True		False	False	False	True
 ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	physio	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	physprep	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -538,6 +605,7 @@ ses-011	sub-06_ses-011_task-PiemanStory	PiemanStory	0.12872	ts_voxel_native	NA	h
 ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	bold	True		False	False	False	True
 ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	physio	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	physprep	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -546,6 +614,7 @@ ses-011	sub-06_ses-011_task-SlumlordRecall	SlumlordRecall	0.20694	ts_voxel_nativ
 ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	bold	True		False	False	False	True
 ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	physio	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	physprep	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -554,6 +623,7 @@ ses-011	sub-06_ses-011_task-SlumlordRecency	SlumlordRecency	0.07326	ts_voxel_nat
 ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	bold	True		False	False	False	True
 ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	physio	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	physprep	NA		NA	NA	NA	NA
 ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	ts_cneuromod2026	True		True	False	False	False
 ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -562,6 +632,7 @@ ses-011	sub-06_ses-011_task-SlumlordStory	SlumlordStory	0.26199	ts_voxel_native	
 ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -570,6 +641,7 @@ ses-012	sub-06_ses-012_task-PrettymouthRecall	PrettymouthRecall	0.07781	ts_voxel
 ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -578,6 +650,7 @@ ses-012	sub-06_ses-012_task-PrettymouthRecency	PrettymouthRecency	0.06829	ts_vox
 ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -586,6 +659,7 @@ ses-012	sub-06_ses-012_task-PrettymouthStory	PrettymouthStory	0.20156	ts_voxel_n
 ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -594,6 +668,7 @@ ses-012	sub-06_ses-012_task-TunnelRecency	TunnelRecency	0.07947	ts_voxel_native	
 ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -602,6 +677,7 @@ ses-012	sub-06_ses-012_task-Tunnelpart1Recall	Tunnelpart1Recall	0.1163	ts_voxel_
 ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -610,6 +686,7 @@ ses-012	sub-06_ses-012_task-Tunnelpart1Story	Tunnelpart1Story	0.2115	ts_voxel_na
 ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
@@ -618,6 +695,7 @@ ses-012	sub-06_ses-012_task-Tunnelpart2Recall	Tunnelpart2Recall	0.0865	ts_voxel_
 ses-012	sub-06_ses-012_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	bold	True		False	False	False	True
 ses-012	sub-06_ses-012_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	physio	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-012	sub-06_ses-012_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	physprep	NA		NA	NA	NA	NA
 ses-012	sub-06_ses-012_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_cneuromod2026	True		True	False	False	False
 ses-012	sub-06_ses-012_task-Tunnelpart2Story	Tunnelpart2Story	0.22184	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
