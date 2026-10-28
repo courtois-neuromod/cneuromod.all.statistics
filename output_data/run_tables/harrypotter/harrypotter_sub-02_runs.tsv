@@ -1,0 +1,57 @@
+session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	bold	True		True	True	False	True
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	False	False	False	False
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	ts_cneuromod2026	True		True	False	False	False
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	ts_schaefer1000	True		True	False	False	False
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-01	harrypotter	0.18832	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	bold	True		True	True	False	True
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	False	False	False	False
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	ts_cneuromod2026	True		True	False	False	False
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	ts_schaefer1000	True		True	False	False	False
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-02	harrypotter	0.19494	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	bold	True		True	True	False	True
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	False	False	False	False
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	ts_cneuromod2026	True		True	False	False	False
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	ts_schaefer1000	True		True	False	False	False
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-03	harrypotter	0.15438	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	bold	True		True	True	False	True
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	physprep	True	PPG=Fail;ECG=Pass;EDA=Pass;RSP=Pass	False	False	False	False
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	ts_cneuromod2026	True		True	False	False	False
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	ts_schaefer1000	True		True	False	False	False
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-04	harrypotter	0.21067	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	bold	True		True	True	False	True
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	False	False	False	False
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	ts_cneuromod2026	True		True	False	False	False
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	ts_schaefer1000	True		True	False	False	False
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-05	harrypotter	0.23426	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	bold	True		True	True	False	True
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	physprep	True	PPG=Fail;ECG=Fail;EDA=Pass;RSP=Pass	False	False	False	False
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	ts_cneuromod2026	True		True	False	False	False
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	ts_schaefer1000	True		True	False	False	False
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-06	harrypotter	0.18749	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	bold	True		True	True	False	True
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	physio	True	PPG;ECG;EDA;RSP	True	True	False	True
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	True	True
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	physprep	True	PPG=Fail;ECG=Pass;EDA=Pass;RSP=Pass	False	False	False	False
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	ts_cneuromod2026	True		True	False	False	False
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	ts_schaefer1000	True		True	False	False	False
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+	sub-02_task-harrypotter_run-07	harrypotter	0.22184	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA

@@ -18,13 +18,8 @@ def fetch_cneuromod(c, source=None):
     install_dataset(c, "cneuromod_all", source=source)
 
 
-@task(help={
-    "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
-              "(default: every dataset with a `bids/` subfolder).",
-    "strict": "Raise if a bids subdataset fails to install.",
-})
-def fetch_bids(c, dataset=None, strict=False):
-    """Install each dataset's `bids/` subdataset (tree only, no annexed content)."""
+def _install_subdatasets(c, kind, dataset, strict):
+    """Install every dataset's `<kind>/` subdataset (tree only), optionally for a subset of datasets."""
     from airoh.datalad import install_subdataset
 
     root = _cneuromod_dir(c)
@@ -33,12 +28,22 @@ def fetch_bids(c, dataset=None, strict=False):
         return
 
     names = {n.strip() for n in dataset.split(",")} if dataset else None
-    for bids_dir in sorted(root.glob("*/bids")):
-        name = bids_dir.parent.name
+    for sub_dir in sorted(root.glob(f"*/{kind}")):
+        name = sub_dir.parent.name
         if names is not None and name not in names:
             continue
-        print(f"Installing {name}/bids...")
-        install_subdataset(f"{name}/bids", root, strict=strict)
+        print(f"Installing {name}/{kind}...")
+        install_subdataset(f"{name}/{kind}", root, strict=strict)
+
+
+@task(help={
+    "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
+              "(default: every dataset with a `bids/` subfolder).",
+    "strict": "Raise if a bids subdataset fails to install.",
+})
+def fetch_bids(c, dataset=None, strict=False):
+    """Install each dataset's `bids/` subdataset (tree only, no annexed content)."""
+    _install_subdatasets(c, "bids", dataset, strict)
 
 
 @task(help={
@@ -48,20 +53,85 @@ def fetch_bids(c, dataset=None, strict=False):
 })
 def fetch_physprep(c, dataset=None, strict=False):
     """Install each dataset's `physprep/` subdataset (tree only, for the plain-git QC JSONs)."""
-    from airoh.datalad import install_subdataset
+    _install_subdatasets(c, "physprep", dataset, strict)
+
+
+@task(help={
+    "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
+              "(default: every dataset with a `fmriprep/` subfolder).",
+    "strict": "Raise if a fmriprep subdataset fails to install.",
+})
+def fetch_fmriprep(c, dataset=None, strict=False):
+    """Install each dataset's `fmriprep/` subdataset (tree only, for run-level completeness)."""
+    _install_subdatasets(c, "fmriprep", dataset, strict)
+
+
+@task(help={
+    "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
+              "(default: every dataset with a `timeseries/` subfolder).",
+    "strict": "Raise if a timeseries subdataset fails to install.",
+})
+def fetch_timeseries(c, dataset=None, strict=False):
+    """Install each dataset's `timeseries/` subdataset (tree only, for run-level completeness)."""
+    _install_subdatasets(c, "timeseries", dataset, strict)
+
+
+@task(help={
+    "dataset": "Comma-separated dataset names to restrict the index to.",
+})
+def fetch_annex_locations(c, dataset=None):
+    """Index which release remotes hold each bold/physio/fmriprep/physprep/timeseries file.
+
+    Runs `git annex whereis`, which merges origin/git-annex in the source
+    checkout — so it belongs here and never in `run`.
+    """
+    from analysis.annex import INCLUDE_GLOBS, annex_locations
 
     root = _cneuromod_dir(c)
-    if not root.is_dir():
-        print(f"⚠️  {root} not found — run `invoke fetch-cneuromod` first.")
-        return
-
+    out_dir = Path(c.config.get("source_data_dir")) / "annex_locations"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    release_remotes = dict(c.config.get("release_remotes", {}))
     names = {n.strip() for n in dataset.split(",")} if dataset else None
-    for physprep_dir in sorted(root.glob("*/physprep")):
-        name = physprep_dir.parent.name
-        if names is not None and name not in names:
-            continue
-        print(f"Installing {name}/physprep...")
-        install_subdataset(f"{name}/physprep", root, strict=strict)
+
+    unmatched = {}
+    for kind in INCLUDE_GLOBS:
+        for repo in sorted(root.glob(f"*/{kind}")):
+            name = repo.parent.name
+            if names is not None and name not in names:
+                continue
+            if not (repo / ".git").exists():
+                print(f"  {name}/{kind}: not installed, skipped")
+                continue
+            df, left_out = annex_locations(repo, kind, release_remotes)
+            df.to_csv(out_dir / f"{name}_{kind}.tsv", sep="\t", index=False)
+            unmatched.setdefault(name, set()).update(left_out)
+            print(f"  {name}/{kind}: {len(df)} files")
+    for name, left_out in sorted(unmatched.items()):
+        if left_out:
+            print(f"  [{name}] remotes not counted as release remotes: {', '.join(sorted(left_out))}")
+
+
+@task(help={
+    "dataset": "Comma-separated dataset names to restrict the index to.",
+    "atlas": "Comma-separated atlases (default: `timeseries_atlases` in invoke.yaml).",
+})
+def fetch_timeseries_index(c, dataset=None, atlas=None):
+    """List the runs held by each timeseries h5 (local content, else ranged reads from S3).
+
+    S3 access needs AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY in the environment.
+    Files whose annex key is unchanged since the last index are skipped.
+    """
+    import pandas as pd
+    from analysis.timeseries_index import COLUMNS, build_index
+
+    out_file = Path(c.config.get("source_data_dir")) / "timeseries_index.tsv"
+    atlases = [a.strip() for a in atlas.split(",")] if atlas else list(c.config.get("timeseries_atlases", []))
+    names = {n.strip() for n in dataset.split(",")} if dataset else None
+    previous = (pd.read_csv(out_file, sep="\t", keep_default_na=False, dtype={"session": str})
+                if out_file.exists() else pd.DataFrame(columns=COLUMNS))
+    index = build_index(_cneuromod_dir(c), atlases, names, previous)
+    index.to_csv(out_file, sep="\t", index=False)
+    print(f"Saved {len(index)} timeseries runs to {out_file.name}")
 
 
 @task(help={
@@ -70,12 +140,16 @@ def fetch_physprep(c, dataset=None, strict=False):
     "strict": "Raise if a bids or physprep subdataset fails to install.",
 })
 def fetch(c, source=None, dataset=None, strict=False):
-    """Retrieve all source data: the cneuromod.all superdataset and every dataset's bids and physprep trees."""
+    """Retrieve all source data: cneuromod.all, every dataset's bids, physprep, fmriprep and timeseries trees, and the annex-location and timeseries indexes."""
     from airoh.provenance import record_sources
 
     fetch_cneuromod(c, source=source)
     fetch_bids(c, dataset=dataset, strict=strict)
     fetch_physprep(c, dataset=dataset, strict=strict)
+    fetch_fmriprep(c, dataset=dataset, strict=strict)
+    fetch_timeseries(c, dataset=dataset, strict=strict)
+    fetch_annex_locations(c, dataset=dataset)
+    fetch_timeseries_index(c, dataset=dataset)
     record_sources(c)
     print("✅ fetch complete.")
 
@@ -173,6 +247,96 @@ def run_physio_stats(c):
     print(crosscheck.to_string(index=False))
 
 
+def _run_table_datasets(c, dataset):
+    """Datasets (with a bids/ tree) selected by --dataset, as a sorted list of names."""
+    names = {n.strip() for n in dataset.split(",")} if dataset else None
+    return [p.parent.name for p in sorted(_cneuromod_dir(c).glob("*/bids"))
+            if names is None or p.parent.name in names]
+
+
+@task(help={
+    "dataset": "Comma-separated dataset names to build tables for (default: all).",
+    "subject": "Comma-separated subjects, e.g. sub-01 (default: all with bold runs).",
+    "smoke": "Fast minimal run: first dataset (or --dataset), first subject only.",
+})
+def run_run_tables(c, dataset=None, subject=None, smoke=False):
+    """Build run-wise completeness tables, one per dataset x subject (output_data/run_tables/)."""
+    import pandas as pd
+    from airoh.utils import ensure_dir_exist
+    from analysis.run_table import DatasetAssets, build_run_table, run_subjects, table_path
+    from analysis.timeseries_index import COLUMNS
+
+    cneuromod_all_dir = _cneuromod_dir(c)
+    output_dir = Path(c.config.get("output_data_dir"))
+    source_dir = Path(c.config.get("source_data_dir"))
+    labels = list(c.config.get("release_remotes", {}))
+    atlases = list(c.config.get("timeseries_atlases", []))
+    wanted_subjects = {s.strip() for s in subject.split(",")} if subject else None
+
+    datasets = _run_table_datasets(c, dataset)
+    if smoke:
+        datasets = datasets[:1]
+    ts_file = source_dir / "timeseries_index.tsv"
+    ts_index = (pd.read_csv(ts_file, sep="\t", keep_default_na=False, dtype={"session": str})
+                if ts_file.exists() else pd.DataFrame(columns=COLUMNS))
+
+    ensure_dir_exist(c, "output_data_dir")
+    for name in datasets:
+        subjects = [s for s in run_subjects(cneuromod_all_dir / name / "bids")
+                    if wanted_subjects is None or s in wanted_subjects]
+        if smoke:
+            subjects = subjects[:1]
+        todo = [s for s in subjects if not table_path(output_dir, name, s).exists()]
+        if not todo:
+            print(f"Skipping run-run-tables for {name} (no tables to build)")
+            continue
+        assets = DatasetAssets(cneuromod_all_dir, name, source_dir / "annex_locations",
+                               ts_index, atlases, labels)
+        for sub in todo:
+            df = build_run_table(assets, sub)
+            out = table_path(output_dir, name, sub)
+            out.parent.mkdir(parents=True, exist_ok=True)
+            df.to_csv(out, sep="\t", index=False)
+            print(f"Saved {len(df)} rows to {out.relative_to(output_dir)}")
+
+
+@task
+def run_completeness_summary(c):
+    """Summarise the run tables per dataset x subject x asset (completeness_summary.tsv, run_tables/index.tsv)."""
+    from analysis.run_table import summarize_tables
+
+    output_dir = Path(c.config.get("output_data_dir"))
+    out_file = output_dir / "completeness_summary.tsv"
+    index_file = output_dir / "run_tables" / "index.tsv"
+    if out_file.exists() and index_file.exists():
+        print(f"Skipping run-completeness-summary (output exists: {out_file})")
+        return
+
+    summary, index = summarize_tables(output_dir, list(c.config.get("release_remotes", {})))
+    summary.to_csv(out_file, sep="\t", index=False)
+    index.to_csv(index_file, sep="\t", index=False)
+    print(f"Saved {len(summary)} rows to {out_file.name} and {len(index)} tables to {index_file.name}")
+
+
+@task
+def run_dashboard(c):
+    """Render output_data/release_dashboard.html (+ release_dashboard_data/) from the run tables."""
+    from analysis.dashboard import render_dashboard
+
+    output_dir = Path(c.config.get("output_data_dir"))
+    out_html = output_dir / "release_dashboard.html"
+    if out_html.exists():
+        print(f"Skipping run-dashboard (output exists: {out_html})")
+        return
+    if not (output_dir / "completeness_summary.tsv").exists():
+        print("⚠️  completeness_summary.tsv not found — run `invoke run-completeness-summary` first.")
+        return
+
+    render_dashboard(output_dir, Path("dashboard") / "template.html",
+                     list(c.config.get("release_remotes", {})), out_html)
+    print(f"Saved {out_html.name} (publish it as an Artifact by hand: see README)")
+
+
 @task
 def run_cneuromod_tables(c):
     """Build tidy per-dataset comparison tables from cneuromod.all dataset_info.yaml files."""
@@ -266,12 +430,15 @@ def run(c, force=False):
     run_fmri_stats(c)
     run_fmri_per_subject_stats(c)
     run_physio_stats(c)
+    run_run_tables(c)
+    run_completeness_summary(c)
+    run_dashboard(c)
     run_cneuromod_tables(c)
     run_cneuromod_summary(c)
     run_notebooks(c)
 
     record_run(c, tasks="run-statistics,run-fmri-stats,run-fmri-per-subject-stats,"
-                        "run-physio-stats,run-cneuromod-tables,run-cneuromod-summary,run-notebooks")
+                        "run-physio-stats,run-run-tables,run-completeness-summary,run-dashboard,run-cneuromod-tables,run-cneuromod-summary,run-notebooks")
     print("Pipeline complete.")
 
 
@@ -295,6 +462,8 @@ def run_smoke(c):
     run_statistics(c)
     run_fmri_per_subject_stats(c)
     run_physio_stats(c)
+    run_run_tables(c, smoke=True)
+    run_completeness_summary(c)
     run_cneuromod_tables(c)
     run_cneuromod_summary(c)
     run_notebooks(c)
@@ -320,6 +489,32 @@ def clean_physio_stats(c):
     """Remove the physio_*.tsv tables."""
     from airoh.utils import clean_folder
     clean_folder(c, "output_data_dir", "physio_*.tsv")
+
+
+@task(help={"dataset": "Remove only this dataset's tables (and the summaries derived from them)."})
+def clean_run_tables(c, dataset=None):
+    """Remove the run-wise completeness tables."""
+    import shutil
+    root = Path(c.config.get("output_data_dir")) / "run_tables"
+    shutil.rmtree(root / dataset if dataset else root, ignore_errors=True)
+    clean_completeness_summary(c)
+
+
+@task
+def clean_completeness_summary(c):
+    """Remove completeness_summary.tsv and the run_tables/index.tsv list."""
+    from airoh.utils import clean_folder
+    clean_folder(c, "output_data_dir", "completeness_summary.tsv")
+    clean_folder(c, "output_data_dir", "run_tables/index.tsv")
+
+
+@task
+def clean_dashboard(c):
+    """Remove release_dashboard.html and its data folder."""
+    import shutil
+    from airoh.utils import clean_folder
+    clean_folder(c, "output_data_dir", "release_dashboard.html")
+    shutil.rmtree(Path(c.config.get("output_data_dir")) / "release_dashboard_data", ignore_errors=True)
 
 
 @task
@@ -357,6 +552,8 @@ def clean(c):
     clean_fmri_stats(c)
     clean_fmri_per_subject_stats(c)
     clean_physio_stats(c)
+    clean_run_tables(c)
+    clean_dashboard(c)
     clean_cneuromod_tables(c)
     clean_cneuromod_summary(c)
     clean_figures(c)

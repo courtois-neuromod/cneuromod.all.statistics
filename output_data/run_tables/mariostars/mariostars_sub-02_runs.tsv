@@ -1,0 +1,257 @@
+session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	bold	True		True	False	False	True
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	physio	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	physprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-01	mariostars	0.19287	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	bold	True		True	False	False	True
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	physio	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	physprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-02	mariostars	0.20694	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	bold	True		True	False	False	True
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	physio	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	physprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mariostars_run-03	mariostars	0.19411	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	bold	True		True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	physio	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	physprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-01	mariostars	0.18501	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	bold	True		True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	physio	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	physprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-02	mariostars	0.20115	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	bold	True		True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	physio	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	physprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-03	mariostars	0.18004	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	bold	True		True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	physio	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	physprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-mariostars_run-04	mariostars	0.18584	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	bold	True		True	False	False	True
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	physio	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	physprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-01	mariostars	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	bold	True		True	False	False	True
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	physio	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	physprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-02	mariostars	0.18459	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	bold	True		True	False	False	True
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	physio	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	physprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-mariostars_run-03	mariostars	0.18708	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	bold	True		True	False	False	True
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	physio	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	physprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-01	mariostars	0.19908	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	bold	True		True	False	False	True
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	physio	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	physprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-02	mariostars	0.18956	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	bold	True		True	False	False	True
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	physio	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	physprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-mariostars_run-03	mariostars	0.18004	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	bold	True		True	False	False	True
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	physio	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	physprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-01	mariostars	0.19287	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	bold	True		True	False	False	True
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	physio	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	physprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-mariostars_run-02	mariostars	0.18046	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	bold	True		True	False	False	True
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	physio	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	physprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-01	mariostars	0.18253	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	bold	True		True	False	False	True
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	physio	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	physprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-mariostars_run-02	mariostars	0.18749	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	bold	True		True	False	False	True
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	physio	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	physprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-01	mariostars	0.20322	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	bold	True		True	False	False	True
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	physio	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	physprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-02	mariostars	0.18211	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	bold	True		True	False	False	True
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	physio	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	physprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-mariostars_run-03	mariostars	0.18004	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	bold	True		True	False	False	True
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	physio	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	physprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-01	mariostars	0.17383	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	bold	True		True	False	False	True
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	physio	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	physprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-02	mariostars	0.18708	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	bold	True		True	False	False	True
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	physio	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	physprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-mariostars_run-03	mariostars	0.17425	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	bold	True		True	False	False	True
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	physio	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	physprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-01	mariostars	0.19453	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	bold	True		True	False	False	True
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	physio	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	physprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-mariostars_run-02	mariostars	0.17466	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	bold	True		True	False	False	True
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	physio	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	physprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-01	mariostars	0.17797	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	bold	True		True	False	False	True
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	physio	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	physprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-mariostars_run-02	mariostars	0.20115	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	bold	True		True	False	False	True
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	physio	NA		NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	physprep	NA		NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-01	mariostars	0.18211	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	bold	True		True	False	False	True
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	physio	NA		NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	physprep	NA		NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-02	mariostars	0.17383	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	bold	True		True	False	False	True
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	physio	NA		NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	physprep	NA		NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-02_ses-011_task-mariostars_run-03	mariostars	0.18377	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	bold	True		True	False	False	True
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	physio	NA		NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	physprep	NA		NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-01	mariostars	0.19163	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	bold	True		True	False	False	True
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	physio	NA		NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	True
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	physprep	NA		NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-02_ses-012_task-mariostars_run-02	mariostars	0.18418	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA

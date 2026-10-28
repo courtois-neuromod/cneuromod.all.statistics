@@ -1,0 +1,145 @@
+session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-01	lppFR	0.17383	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-02	lppFR	0.18335	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-03	lppFR	0.19867	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-04	lppFR	0.17714	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-05	lppFR	0.16514	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	bold	True		True	True	False	True
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	physio	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	physprep	NA		NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	ts_cneuromod2026	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	ts_schaefer1000	True		True	False	False	False
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-lppFR_run-06	lppFR	0.21191	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	ts_cneuromod2026	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	ts_schaefer1000	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-01	lppEN	0.15769	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	ts_cneuromod2026	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	ts_schaefer1000	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-02	lppEN	0.1668	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	ts_cneuromod2026	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	ts_schaefer1000	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppEN_run-03	lppEN	0.18998	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	ts_cneuromod2026	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	ts_schaefer1000	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-07	lppFR	0.18666	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	ts_cneuromod2026	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	ts_schaefer1000	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-08	lppFR	0.16556	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	bold	True		True	True	False	True
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	physio	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	physprep	NA		NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	ts_cneuromod2026	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	ts_schaefer1000	True		True	False	False	False
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-lppFR_run-09	lppFR	0.18915	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-04	lppEN	0.16969	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-05	lppEN	0.14859	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-06	lppEN	0.19204	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-07	lppEN	0.18211	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-08	lppEN	0.16349	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	bold	True		True	True	False	True
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	physio	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	physprep	NA		NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	ts_cneuromod2026	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	ts_schaefer1000	True		True	False	False	False
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-lppEN_run-09	lppEN	0.2057	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA

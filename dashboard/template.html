@@ -1,0 +1,224 @@
+<meta charset="utf-8">
+<title>CNeuroMod Release Check</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: filter bar on top, KPI strip, dataset x subject heatmap beside the asset x remote matrix, gap list below. */
+:root {
+  --bg: #f6f7f6; --panel: #ffffff; --ink: #1d2a2a; --ink2: #4b5c5b; --muted: #7d8c8b;
+  --line: #dbe2e0; --accent: #0f6b66; --bad: #b4412f;
+  --r0: #e8f1ef; --r1: #bfdcd8; --r2: #84bbb5; --r3: #3f8f88; --r4: #0f6b66; --r5: #0a4743;
+  --on-low: #1d2a2a; --on-high: #ffffff; --na: #e7eaea;
+  --font: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f1717; --panel: #172221; --ink: #e6efee; --ink2: #aebfbd; --muted: #7f918f;
+  --line: #2a3a39; --accent: #5fc2b9; --bad: #f08a76;
+  --r0: #1c2f2d; --r1: #24504c; --r2: #2f726c; --r3: #3f9a92; --r4: #62c0b6; --r5: #94dcd3;
+  --on-low: #e6efee; --on-high: #0f1717; --na: #223130; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0f1717; --panel: #172221; --ink: #e6efee; --ink2: #aebfbd; --muted: #7f918f;
+  --line: #2a3a39; --accent: #5fc2b9; --bad: #f08a76;
+  --r0: #1c2f2d; --r1: #24504c; --r2: #2f726c; --r3: #3f9a92; --r4: #62c0b6; --r5: #94dcd3;
+  --on-low: #e6efee; --on-high: #0f1717; --na: #223130; color-scheme: dark; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 14px; line-height: 1.45;
+  padding-block: 20px 40px; padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.wrap { max-width: 1180px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px; }
+h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+h2 { font-size: 12px; margin: 0 0 10px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink2); font-weight: 600; }
+.sub { color: var(--ink2); margin: 2px 0 0; max-width: 70ch; }
+.bar { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; }
+.bar label { display: flex; flex-direction: column; gap: 3px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink2); }
+select, button { font: inherit; font-size: 13px; color: var(--ink); background: var(--panel); border: 1px solid var(--line);
+  border-radius: 4px; padding: 6px 8px; min-width: 130px; }
+button { cursor: pointer; min-width: 0; }
+select:focus-visible, button:focus-visible, th:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+.kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; }
+.kpi b { display: block; font-size: 26px; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; }
+.kpi span { color: var(--ink2); font-size: 12px; }
+.two { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 18px; }
+@media (max-width: 860px) { .two { grid-template-columns: minmax(0, 1fr); } }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 14px; min-width: 0; }
+.scroll { overflow-x: auto; }
+.grid { display: grid; gap: 2px; font-variant-numeric: tabular-nums; font-size: 12px; }
+.grid > div { padding: 5px 6px; text-align: center; border-radius: 2px; min-width: 0; }
+.grid .h { color: var(--ink2); font-size: 11px; background: none; padding-bottom: 2px; }
+.grid .row { text-align: left; font-family: var(--mono); font-size: 12px; background: none; white-space: normal; overflow-wrap: anywhere; align-self: center; }
+.grid .row.click { cursor: pointer; } .grid .row.click:hover { color: var(--accent); }
+.grid .row.sel { color: var(--accent); font-weight: 600; }
+.cell { color: var(--on-high); } .cell.l { color: var(--on-low); }
+.cell.na { background: var(--na); color: var(--muted); }
+.legend { display: flex; align-items: center; gap: 8px; margin-top: 10px; font-size: 11px; color: var(--ink2); }
+.legend i { width: 28px; height: 10px; border-radius: 1px; display: inline-block; }
+table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+th { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink2); cursor: pointer; user-select: none; }
+td.k { font-family: var(--mono); font-size: 12px; }
+.pill { font-size: 11px; padding: 1px 7px; border-radius: 9px; border: 1px solid var(--line); color: var(--ink2); margin-right: 3px; }
+.pill.miss { border-color: var(--bad); color: var(--bad); }
+.note { color: var(--ink2); font-size: 12px; }
+.head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>CNeuroMod Release Check</h1>
+    <p class="sub">For every fMRI run: are the raw BOLD, raw physio, fmriprep, physprep and timeseries files present, and held on each release remote?</p>
+  </header>
+
+  <div class="bar">
+    <label>Asset<select id="f-asset"></select></label>
+    <label>Remote<select id="f-remote"></select></label>
+    <label>Dataset<select id="f-dataset"></select></label>
+    <label>Subject<select id="f-subject"></select></label>
+  </div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="two">
+    <section class="panel"><h2 id="heat-title">Share of runs</h2><div class="scroll"><div id="heat"></div></div>
+      <div class="legend"><span>0%</span><i style="background:var(--r0)"></i><i style="background:var(--r1)"></i><i style="background:var(--r2)"></i><i style="background:var(--r3)"></i><i style="background:var(--r4)"></i><i style="background:var(--r5)"></i><span>100%</span><span>· grey = not applicable</span></div>
+    </section>
+    <section class="panel"><h2>Assets × remotes <span id="mx-scope" style="text-transform:none;letter-spacing:0"></span></h2><div class="scroll"><div id="matrix"></div></div></section>
+  </div>
+
+  <section class="panel">
+    <div class="head"><h2 style="margin:0" id="gap-title">Gaps</h2><button id="copy" type="button">Copy CSV</button></div>
+    <div class="scroll"><table id="gaps"></table></div>
+    <p class="note" id="gap-note"></p>
+  </section>
+</div>
+
+<script>
+const STATE = __DASHBOARD_STATE__;
+const LABELS = STATE.labels, S = STATE.summary;
+const $ = id => document.getElementById(id);
+const ASSET_ORDER = ["complete", "bold", "physio", "fmriprep", "physprep"];
+const assets = [...new Set(S.map(r => r.asset))].sort((a, b) => {
+  const ia = ASSET_ORDER.indexOf(a), ib = ASSET_ORDER.indexOf(b);
+  return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b); });
+const datasets = [...new Set(S.map(r => r.dataset))].sort();
+const subjects = [...new Set(S.map(r => r.subject))].sort();
+const ASSET_NAME = {complete: "all assets (complete run)", bold: "raw BOLD", physio: "raw physio", fmriprep: "fmriprep", physprep: "physprep"};
+const assetName = a => ASSET_NAME[a] || (a.startsWith("ts_") ? "timeseries " + a.slice(3).replace("_", " ") : a);
+
+function fill(sel, opts) { sel.innerHTML = opts.map(([v, t]) => `<option value="${v}">${t}</option>`).join(""); }
+fill($("f-asset"), assets.map(a => [a, assetName(a)]));
+fill($("f-remote"), [["", "Present anywhere"], ...LABELS.map(l => [l, "On " + l])]);
+fill($("f-dataset"), [["", "All datasets"], ...datasets.map(d => [d, d])]);
+fill($("f-subject"), [["", "All subjects"], ...subjects.map(s => [s, s])]);
+$("f-asset").value = "complete";
+
+// Aggregate summary rows: share of judged runs that are present (or held by a remote)
+function agg(rows, remote) {
+  let judged = 0, ok = 0, runs = 0, hoursMissing = 0;
+  for (const r of rows) {
+    judged += r.n_judged; runs += r.n_runs;
+    ok += remote ? r["n_on_" + remote] : r.n_present;
+    hoursMissing += r.hours_missing || 0;
+  }
+  return {judged, ok, runs, hoursMissing, pct: judged ? 100 * ok / judged : null};
+}
+const sel = () => ({asset: $("f-asset").value, remote: $("f-remote").value, dataset: $("f-dataset").value, subject: $("f-subject").value});
+const fmt = v => v == null ? "–" : (v >= 99.95 ? "100" : v.toFixed(v < 10 ? 1 : 0)) + "%";
+const fmtN = v => Math.round(v).toLocaleString("en");
+function shade(p) { return p == null ? ["na", ""] : (i => ["r" + i, i < 3 ? "l" : ""])(Math.min(5, Math.floor(p / 100 * 5.999))); }
+
+function renderKpis(f) {
+  const rows = S.filter(r => r.asset === f.asset && (!f.dataset || r.dataset === f.dataset) && (!f.subject || r.subject === f.subject));
+  const a = agg(rows, f.remote);
+  const all = agg(S.filter(r => r.asset === "complete" && (!f.dataset || r.dataset === f.dataset) && (!f.subject || r.subject === f.subject)), "");
+  const where = f.remote ? "on " + f.remote : "present";
+  $("kpis").innerHTML = [
+    [fmtN(a.runs), "runs in scope"],
+    [fmt(a.pct), `of ${assetName(f.asset)} ${where}`],
+    [fmtN(a.judged - a.ok), "runs missing " + (f.remote ? "from " + f.remote : "this asset")],
+    [fmt(all.pct), "runs fully complete"],
+    [fmtN(all.hoursMissing) + " h", "acquisition in incomplete runs"],
+  ].map(([b, s]) => `<div class="kpi"><b>${b}</b><span>${s}</span></div>`).join("");
+}
+
+function renderHeat(f) {
+  const ds = f.dataset ? [f.dataset] : datasets, subs = f.subject ? [f.subject] : subjects;
+  $("heat-title").textContent = `${assetName(f.asset)} · ${f.remote ? "held on " + f.remote : "present"} · % of runs`;
+  const grid = document.createElement("div");
+  grid.className = "grid"; grid.style.gridTemplateColumns = `minmax(110px,1.4fr) repeat(${subs.length}, minmax(48px,1fr))`;
+  let h = `<div class="h"></div>` + subs.map(s => `<div class="h">${s}</div>`).join("");
+  for (const d of ds) {
+    h += `<div class="row click ${d === f.dataset ? "sel" : ""}" data-d="${d}" title="Show gaps for ${d}">${d}</div>`;
+    for (const s of subs) {
+      const r = S.find(x => x.dataset === d && x.subject === s && x.asset === f.asset);
+      const p = r && r.n_judged ? agg([r], f.remote).pct : null, [cls, light] = shade(p);
+      h += `<div class="cell ${cls === "na" ? "na" : ""} ${light}" style="${cls === "na" ? "" : "background:var(--" + cls + ")"}" title="${d} ${s}: ${fmt(p)}">${fmt(p)}</div>`;
+    }
+  }
+  grid.innerHTML = h; $("heat").replaceChildren(grid);
+  grid.querySelectorAll(".row.click").forEach(el => el.onclick = () => { $("f-dataset").value = el.dataset.d === $("f-dataset").value ? "" : el.dataset.d; update(); });
+}
+
+function renderMatrix(f) {
+  $("mx-scope").textContent = "· " + (f.dataset || "all datasets") + ", " + (f.subject || "all subjects");
+  const cols = ["present", ...LABELS];
+  const grid = document.createElement("div");
+  grid.className = "grid"; grid.style.gridTemplateColumns = `minmax(130px,1.6fr) repeat(${cols.length}, minmax(52px,1fr))`;
+  let h = `<div class="h"></div>` + cols.map(c => `<div class="h">${c === "present" ? "present" : c}</div>`).join("");
+  for (const a of assets) {
+    const rows = S.filter(r => r.asset === a && (!f.dataset || r.dataset === f.dataset) && (!f.subject || r.subject === f.subject));
+    h += `<div class="row" title="${assetName(a)}">${assetName(a).replace(" (complete run)", "")}</div>`;
+    for (const c of cols) {
+      const p = rows.some(r => r.n_judged) ? agg(rows, c === "present" ? "" : c).pct : null, [cls, light] = shade(p);
+      h += `<div class="cell ${cls === "na" ? "na" : ""} ${light}" style="${cls === "na" ? "" : "background:var(--" + cls + ")"}">${fmt(p)}</div>`;
+    }
+  }
+  grid.innerHTML = h; $("matrix").replaceChildren(grid);
+}
+
+// Gap list: fetched on demand, one dataset at a time
+const cache = {};
+let gapRows = [], sortKey = 6, sortDir = -1;
+const GAP_HEAD = ["Subject", "Session", "Run", "Task", "Hours", "Asset", "Status", "Detail"];
+async function loadGaps(dataset) {
+  if (!cache[dataset]) {
+    const resp = await fetch(`${STATE.dataDir}/${dataset}.json`);
+    if (!resp.ok) throw new Error(resp.status);
+    cache[dataset] = await resp.json();
+  }
+  return cache[dataset].rows;
+}
+async function renderGaps(f) {
+  const note = $("gap-note"), table = $("gaps");
+  if (!f.dataset) { table.innerHTML = ""; gapRows = []; $("gap-title").textContent = "Gaps"; note.textContent = "Pick a dataset (or click one in the heatmap) to list its missing runs."; return; }
+  let rows;
+  try { rows = await loadGaps(f.dataset); }
+  catch (e) { table.innerHTML = ""; gapRows = []; note.textContent = `Could not load ${f.dataset} gaps (${e.message}). Serve this folder over http (python -m http.server) or publish it with its data files.`; return; }
+  if (f.dataset !== $("f-dataset").value) return; // a newer selection superseded this one
+  const keep = rows.filter(r => (!f.subject || r[0] === f.subject) && (f.asset === "complete" || r[5] === f.asset) &&
+    (f.remote ? r[8].indexOf(f.remote) < 0 : !r[6]));
+  gapRows = keep.map(r => [r[0], r[1], r[2], r[3], r[4], r[5], r[6] ? (f.remote ? "not on " + f.remote : "missing") : "missing", r[7]]);
+  $("gap-title").textContent = `Gaps · ${f.dataset} · ${gapRows.length.toLocaleString("en")} ${assetName(f.asset)} ${f.remote ? "not on " + f.remote : "missing"}`;
+  note.textContent = gapRows.length > 800 ? "Showing the first 800 rows; copy CSV for all of them." : "";
+  drawGaps();
+}
+function drawGaps() {
+  gapRows.sort((a, b) => (a[sortKey] > b[sortKey] ? 1 : a[sortKey] < b[sortKey] ? -1 : 0) * sortDir);
+  const head = GAP_HEAD.map((t, i) => `<th tabindex="0" data-i="${i}">${t}${i === sortKey ? (sortDir > 0 ? " ▲" : " ▼") : ""}</th>`).join("");
+  const body = gapRows.slice(0, 800).map(r => `<tr><td>${r[0]}</td><td>${r[1]}</td><td class="k">${r[2]}</td><td>${r[3]}</td><td>${r[4] == null ? "" : r[4].toFixed(2)}</td><td>${r[5]}</td><td><span class="pill miss">${r[6]}</span></td><td>${r[7]}</td></tr>`).join("");
+  $("gaps").innerHTML = `<thead><tr>${head}</tr></thead><tbody>${body}</tbody>`;
+  $("gaps").querySelectorAll("th").forEach(th => {
+    const go = () => { const i = +th.dataset.i; sortDir = i === sortKey ? -sortDir : 1; sortKey = i; drawGaps(); };
+    th.onclick = go; th.onkeydown = e => { if (e.key === "Enter") go(); };
+  });
+}
+$("copy").onclick = async () => {
+  const csv = [GAP_HEAD.join(","), ...gapRows.map(r => r.map(v => `"${String(v ?? "").replace(/"/g, '""')}"`).join(","))].join("\n");
+  try { await navigator.clipboard.writeText(csv); $("copy").textContent = "Copied"; }
+  catch (e) { $("gap-note").textContent = "Clipboard unavailable here."; }
+  setTimeout(() => $("copy").textContent = "Copy CSV", 1500);
+};
+
+function update() { const f = sel(); renderKpis(f); renderHeat(f); renderMatrix(f); renderGaps(f); }
+["f-asset", "f-remote", "f-dataset", "f-subject"].forEach(id => $(id).onchange = update);
+update();
+</script>
