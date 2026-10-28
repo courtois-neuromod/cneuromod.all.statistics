@@ -105,7 +105,9 @@ uv run invoke fetch --source ../..
 
 `invoke run-dashboard` writes `output_data/release_dashboard.html` plus a
 `release_dashboard_data/` folder of per-dataset gap lists. To look at it locally,
-serve the folder (`python -m http.server -d output_data`); to share it with the team,
-publish the page and the data folder together as a private Artifact (a manual step,
-not part of `run`). Reading timeseries runs from the private S3 bucket needs
+serve the folder (`python -m http.server -d output_data`). The committed dashboard is
+published to GitHub Pages by `.github/workflows/pages.yml` whenever it changes on
+`main`, so after refreshing it locally just commit and merge the new
+`release_dashboard.html` and `release_dashboard_data/`. (CI only publishes; it cannot
+rebuild the dashboard, which needs the datalad source data.) Reading timeseries runs from the private S3 bucket needs
 `AWS_ACCESS_KEY_ID` / `AWS_SECRET_ACCESS_KEY` when running `fetch-timeseries-index`.
