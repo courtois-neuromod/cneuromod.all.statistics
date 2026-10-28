@@ -17,7 +17,7 @@ uv sync
 ## Running the pipeline
 
 ```bash
-uv run invoke fetch           # Make cneuromod.all and each dataset's bids tree available
+uv run invoke fetch           # Make cneuromod.all and each dataset's bids and physprep trees available
 uv run invoke run             # Full pipeline (statistics + figures)
 uv run invoke run-smoke       # Fast end-to-end check
 ```
@@ -37,12 +37,14 @@ Or in one step: `uv run invoke run --force`.
 
 | Task                           | Description                                                         |
 |--------------------------------|---------------------------------------------------------------------|
-| `fetch`                        | Retrieve all source data: `cneuromod.all` and every dataset's `bids` tree |
+| `fetch`                        | Retrieve all source data: `cneuromod.all` and every dataset's `bids` and `physprep` trees |
 | `fetch-cneuromod`              | Make the `cneuromod.all` superdataset available under `source_data/` |
 | `fetch-bids`                   | Install each dataset's `bids/` subdataset (tree only, no annexed content) |
+| `fetch-physprep`               | Install each dataset's `physprep/` subdataset (tree only, for the QC JSONs) |
 | `run-statistics`               | Count sessions per subject per dataset; write `output_data/session_counts.tsv` |
 | `run-fmri-stats`               | Compute per-dataset fMRI aggregate stats; write `output_data/fmri_stats.tsv` |
 | `run-fmri-per-subject-stats`   | Compute per-subject fMRI stats per dataset; write `output_data/fmri_stats_per_subject.tsv` |
+| `run-physio-stats`             | Compute physio recording hours and physprep QC (usable / passing hours per modality); write `output_data/physio_*.tsv` |
 | `run-cneuromod-tables`         | Validate each `dataset_info.yaml` and build the per-dataset comparison tables `output_data/cneuromod_*.csv` |
 | `run-cneuromod-summary`        | Sum every `dataset_info.yaml` into one CNeuroMod entry, `output_data/cneuromod_summary.yaml` |
 | `run-notebooks`                | Execute notebooks and save figures to `output_data/`               |
@@ -52,6 +54,7 @@ Or in one step: `uv run invoke run --force`.
 | `clean-statistics`             | Remove `session_counts.tsv`                                         |
 | `clean-fmri-stats`             | Remove `fmri_stats.tsv` and its JSON sidecar                       |
 | `clean-fmri-per-subject-stats` | Remove `fmri_stats_per_subject.tsv`                                |
+| `clean-physio-stats`           | Remove the `physio_*.tsv` tables                                    |
 | `clean-cneuromod-tables`       | Remove the `cneuromod_*.csv` comparison tables                     |
 | `clean-cneuromod-summary`      | Remove `cneuromod_summary.yaml`                                     |
 | `clean-figures`                | Remove generated figures                                            |
@@ -71,8 +74,8 @@ Use `uv run invoke --list` for the full task list.
 `invoke fetch` symlinks an existing local checkout of `cneuromod.all` (the
 `source:` key in `invoke.yaml`, default `../cneuromod.all`), or clones it from
 GitHub when none is found — the dataset *tree* only, no annexed content, since
-this project only reads directory structure, `*_bold.json` sidecars, each
-dataset's `dataset_info.yaml` and the cneuromod.all JSON schema. What
+this project only reads directory structure, `*_bold.json` sidecars, physprep
+`*_desc-quality.json` files, each dataset's `dataset_info.yaml` and the cneuromod.all JSON schema. What
 was actually consumed is recorded in `source_data/MANIFEST.json` (by `fetch`)
 and `output_data/PROVENANCE.json` (by `run`).
 

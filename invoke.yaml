@@ -16,7 +16,8 @@ output_data_dir: output_data
 # (tree only, no annexed content — the analysis only reads directory
 # structure, *_bold.json sidecars, each dataset's dataset_info.yaml and
 # docs/schema.json, which are plain git files) by
-# `fetch-bids`.
+# `fetch-bids`. Each dataset's `physprep/` subdataset is installed the same
+# way by `fetch-physprep`, for its plain-git *_desc-quality.json files.
 #
 #   - `url`        : remote to clone when no local checkout is available
 #   - `output_dir` : where the superdataset is made available inside source_data/

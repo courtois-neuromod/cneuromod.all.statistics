@@ -7,7 +7,8 @@ checkout (default `../cneuromod.all`, overridable with `--source`), or a
 `datalad clone` of [courtois-neuromod/cneuromod.all](https://github.com/courtois-neuromod/cneuromod.all)
 when none is found. Either way only the dataset *tree* is retrieved, never
 annexed content — this project only reads directory structure,
-`*_bold.json` sidecars, each dataset's `dataset_info.yaml` and
+`*_bold.json` sidecars, physprep `*_desc-quality.json` files, each
+dataset's `dataset_info.yaml` and
 `docs/schema.json`, all plain git files.
 
 Contains one folder per CNeuroMod dataset. Each dataset with a `bids/`
@@ -36,6 +37,13 @@ Datasets with a `bids/` subdataset (installed by `fetch-bids`):
 - `ood/bids`
 - `petit-prince/bids`
 - `retinotopy/bids`
+
+Datasets with a `physprep/` subdataset (installed, tree only, by
+`invoke fetch-physprep`): `emotion-videos` (empty for now), `friends`,
+`harrypotter`, `mario`, `movie10`, `shinobi`. Only their per-run
+`*_desc-quality.json` QC files (plain git) are read. Physprep naming drifts
+from raw BIDS: movie10 drops the `run-` entity, and harrypotter keeps a stray
+`_physio` (`*_physio_desc-quality.json`).
 
 Datasets without a `bids/` folder (metadata accessed differently, TBD):
 

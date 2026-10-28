@@ -42,16 +42,40 @@ def fetch_bids(c, dataset=None, strict=False):
 
 
 @task(help={
+    "dataset": "Comma-separated cneuromod.all dataset names to restrict the fetch to "
+              "(default: every dataset with a `physprep/` subfolder).",
+    "strict": "Raise if a physprep subdataset fails to install.",
+})
+def fetch_physprep(c, dataset=None, strict=False):
+    """Install each dataset's `physprep/` subdataset (tree only, for the plain-git QC JSONs)."""
+    from airoh.datalad import install_subdataset
+
+    root = _cneuromod_dir(c)
+    if not root.is_dir():
+        print(f"⚠️  {root} not found — run `invoke fetch-cneuromod` first.")
+        return
+
+    names = {n.strip() for n in dataset.split(",")} if dataset else None
+    for physprep_dir in sorted(root.glob("*/physprep")):
+        name = physprep_dir.parent.name
+        if names is not None and name not in names:
+            continue
+        print(f"Installing {name}/physprep...")
+        install_subdataset(f"{name}/physprep", root, strict=strict)
+
+
+@task(help={
     "source": "Path to an existing local cneuromod.all checkout to symlink instead of cloning.",
     "dataset": "Comma-separated dataset names to restrict the bids fetch to.",
-    "strict": "Raise if a bids subdataset fails to install.",
+    "strict": "Raise if a bids or physprep subdataset fails to install.",
 })
 def fetch(c, source=None, dataset=None, strict=False):
-    """Retrieve all source data: the cneuromod.all superdataset and every dataset's bids tree."""
+    """Retrieve all source data: the cneuromod.all superdataset and every dataset's bids and physprep trees."""
     from airoh.provenance import record_sources
 
     fetch_cneuromod(c, source=source)
     fetch_bids(c, dataset=dataset, strict=strict)
+    fetch_physprep(c, dataset=dataset, strict=strict)
     record_sources(c)
     print("✅ fetch complete.")
 
@@ -108,6 +132,45 @@ def run_fmri_per_subject_stats(c):
 
     ensure_dir_exist(c, "output_data_dir")
     compute_fmri_stats_per_subject(cneuromod_all_dir, out_file)
+
+
+@task
+def run_physio_stats(c):
+    """Compute physio recording hours and physprep QC per dataset/subject; save physio_*.tsv."""
+    from airoh.utils import ensure_dir_exist
+    from analysis.physio import (
+        build_physio_run_table,
+        compute_physio_stats,
+        compute_physio_stats_per_subject,
+        crosscheck_declared,
+    )
+
+    cneuromod_all_dir = _cneuromod_dir(c)
+    output_dir = Path(c.config.get("output_data_dir"))
+    out_files = {
+        "runs": output_dir / "physio_runs.tsv",
+        "stats": output_dir / "physio_stats.tsv",
+        "per_subject": output_dir / "physio_stats_per_subject.tsv",
+        "crosscheck": output_dir / "physio_crosscheck.tsv",
+    }
+
+    if all(f.exists() for f in out_files.values()):
+        print(f"Skipping run-physio-stats (outputs exist in {output_dir})")
+        return
+
+    ensure_dir_exist(c, "output_data_dir")
+    run_df = build_physio_run_table(cneuromod_all_dir)
+    stats = compute_physio_stats(run_df)
+    crosscheck = crosscheck_declared(stats, cneuromod_all_dir)
+    for scope, df in [
+        ("runs", run_df),
+        ("stats", stats),
+        ("per_subject", compute_physio_stats_per_subject(run_df)),
+        ("crosscheck", crosscheck),
+    ]:
+        df.to_csv(out_files[scope], sep="\t", index=False)
+        print(f"Saved {len(df)} rows to {out_files[scope].name}")
+    print(crosscheck.to_string(index=False))
 
 
 @task
@@ -202,12 +265,13 @@ def run(c, force=False):
     run_statistics(c)
     run_fmri_stats(c)
     run_fmri_per_subject_stats(c)
+    run_physio_stats(c)
     run_cneuromod_tables(c)
     run_cneuromod_summary(c)
     run_notebooks(c)
 
     record_run(c, tasks="run-statistics,run-fmri-stats,run-fmri-per-subject-stats,"
-                        "run-cneuromod-tables,run-cneuromod-summary,run-notebooks")
+                        "run-physio-stats,run-cneuromod-tables,run-cneuromod-summary,run-notebooks")
     print("Pipeline complete.")
 
 
@@ -227,8 +291,10 @@ def run_smoke(c):
     """Smoke test: minimal end-to-end pass."""
     fetch_cneuromod(c)
     fetch_bids(c, strict=True)
+    fetch_physprep(c, strict=True)
     run_statistics(c)
     run_fmri_per_subject_stats(c)
+    run_physio_stats(c)
     run_cneuromod_tables(c)
     run_cneuromod_summary(c)
     run_notebooks(c)
@@ -247,6 +313,13 @@ def clean_fmri_per_subject_stats(c):
     """Remove fmri_stats_per_subject.tsv."""
     from airoh.utils import clean_folder
     clean_folder(c, "output_data_dir", "fmri_stats_per_subject.tsv")
+
+
+@task
+def clean_physio_stats(c):
+    """Remove the physio_*.tsv tables."""
+    from airoh.utils import clean_folder
+    clean_folder(c, "output_data_dir", "physio_*.tsv")
 
 
 @task
@@ -283,6 +356,7 @@ def clean(c):
     clean_statistics(c)
     clean_fmri_stats(c)
     clean_fmri_per_subject_stats(c)
+    clean_physio_stats(c)
     clean_cneuromod_tables(c)
     clean_cneuromod_summary(c)
     clean_figures(c)
