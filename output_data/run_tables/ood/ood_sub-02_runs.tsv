@@ -1,109 +1,109 @@
 session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
-ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	bold	True		False	False	False	False
+ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	bold	True		False	False	False	True
 ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	fmriprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	tsnr	False		False	False	False	False
+ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_voxel_native	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	bold	True		False	False	False	False
+ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-chaplin1	chaplin1	0.1788	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	bold	True		False	False	False	True
 ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	fmriprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	tsnr	False		False	False	False	False
+ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_voxel_native	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	bold	True		False	False	False	False
+ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-chaplin2	chaplin2	0.16763	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	bold	True		False	False	False	True
 ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	fmriprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	tsnr	False		False	False	False	False
+ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_voxel_native	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	bold	True		False	False	False	False
+ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke1	mononoke1	0.17508	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	bold	True		False	False	False	True
 ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	fmriprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	tsnr	False		False	False	False	False
+ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_voxel_native	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	bold	True		False	False	False	False
+ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-mononoke2	mononoke2	0.17632	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	bold	True		False	False	False	True
 ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	fmriprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	tsnr	False		False	False	False	False
+ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_voxel_native	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	bold	True		False	False	False	False
+ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout1	passepartout1	0.17466	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	bold	True		False	False	False	True
 ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	fmriprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	tsnr	False		False	False	False	False
+ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_voxel_native	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	bold	True		False	False	False	False
+ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-passepartout2	passepartout2	0.18046	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	bold	True		False	False	False	True
 ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	fmriprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	tsnr	False		False	False	False	False
+ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_voxel_native	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	bold	True		False	False	False	False
+ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth1	planetearth1	0.17921	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	bold	True		False	False	False	True
 ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	fmriprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	tsnr	False		False	False	False	False
+ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_voxel_native	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	bold	True		False	False	False	False
+ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-planetearth2	planetearth2	0.17301	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	bold	True		False	False	False	True
 ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	fmriprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	tsnr	False		False	False	False	False
+ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_voxel_native	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	bold	True		False	False	False	False
+ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction1	pulpfiction1	0.1937	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	bold	True		False	False	False	True
 ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	fmriprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	tsnr	False		False	False	False	False
+ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_voxel_native	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	bold	True		False	False	False	False
+ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-pulpfiction2	pulpfiction2	0.15645	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	bold	True		False	False	False	True
 ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	fmriprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	tsnr	False		False	False	False	False
+ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_voxel_native	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	bold	True		False	False	False	False
+ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot1	wot1	0.1461	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	bold	True		False	False	False	True
 ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	fmriprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	tsnr	False		False	False	False	False
+ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	fmriprep	True	MNI152NLin2009cAsym;T1w	True	False	False	False
+ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	tsnr	True	MNI152NLin2009cAsym;T1w	True	False	False	False
 ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_cneuromod2026	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_schaefer1000	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_voxel_mni	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_cneuromod2026	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wot2	wot2	0.1341	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
