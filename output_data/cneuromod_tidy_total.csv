@@ -70,10 +70,10 @@ friends,Movies,Task content,#538135,Rest,tasks.resting_state.total_h,h,
 friends,Movies,Task content,#538135,Controlled,tasks.controlled.total_h,h,
 friends,Movies,Task content,#538135,Games,tasks.game.total_h,h,
 friends,Movies,Task content,#538135,Contrasts,tasks.contrasts.total,#,
-friends,Movies,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,368.0
-friends,Movies,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,368.0
-friends,Movies,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,368.0
-friends,Movies,Physiology,#7030A0,EDA,physiology.eda.total_h,h,368.0
+friends,Movies,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,312.6
+friends,Movies,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,313.7
+friends,Movies,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,310.6
+friends,Movies,Physiology,#7030A0,EDA,physiology.eda.total_h,h,286.6
 friends,Movies,Physiology,#7030A0,Eye,physiology.eye_tracking.total_h,h,110.0
 gamepad,Others,Brain recordings,#4472C4,fMRI,neuroimaging.fmri.total_h,h,2.9
 gamepad,Others,Brain recordings,#4472C4,EEG,neuroimaging.eeg.total_h,h,
@@ -108,9 +108,9 @@ harrypotter,Stories,Task content,#538135,Rest,tasks.resting_state.total_h,h,
 harrypotter,Stories,Task content,#538135,Controlled,tasks.controlled.total_h,h,
 harrypotter,Stories,Task content,#538135,Games,tasks.game.total_h,h,
 harrypotter,Stories,Task content,#538135,Contrasts,tasks.contrasts.total,#,
-harrypotter,Stories,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,7.0
+harrypotter,Stories,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,6.3
 harrypotter,Stories,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,7.0
-harrypotter,Stories,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,7.0
+harrypotter,Stories,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,5.6
 harrypotter,Stories,Physiology,#7030A0,EDA,physiology.eda.total_h,h,7.0
 harrypotter,Stories,Physiology,#7030A0,Eye,physiology.eye_tracking.total_h,h,
 hcptrt,Functional localizers,Brain recordings,#4472C4,fMRI,neuroimaging.fmri.total_h,h,44.0
@@ -184,10 +184,10 @@ mario,Videogames,Task content,#538135,Rest,tasks.resting_state.total_h,h,
 mario,Videogames,Task content,#538135,Controlled,tasks.controlled.total_h,h,
 mario,Videogames,Task content,#538135,Games,tasks.game.total_h,h,92.2
 mario,Videogames,Task content,#538135,Contrasts,tasks.contrasts.total,#,
-mario,Videogames,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,92.2
-mario,Videogames,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,92.2
-mario,Videogames,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,92.2
-mario,Videogames,Physiology,#7030A0,EDA,physiology.eda.total_h,h,92.2
+mario,Videogames,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,45.4
+mario,Videogames,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,91.2
+mario,Videogames,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,68.0
+mario,Videogames,Physiology,#7030A0,EDA,physiology.eda.total_h,h,87.2
 mario,Videogames,Physiology,#7030A0,Eye,physiology.eye_tracking.total_h,h,
 mario3,Videogames,Brain recordings,#4472C4,fMRI,neuroimaging.fmri.total_h,h,49.3
 mario3,Videogames,Brain recordings,#4472C4,EEG,neuroimaging.eeg.total_h,h,
@@ -260,10 +260,10 @@ movie10,Movies,Task content,#538135,Rest,tasks.resting_state.total_h,h,
 movie10,Movies,Task content,#538135,Controlled,tasks.controlled.total_h,h,
 movie10,Movies,Task content,#538135,Games,tasks.game.total_h,h,
 movie10,Movies,Task content,#538135,Contrasts,tasks.contrasts.total,#,
-movie10,Movies,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,60.0
-movie10,Movies,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,60.0
-movie10,Movies,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,60.0
-movie10,Movies,Physiology,#7030A0,EDA,physiology.eda.total_h,h,60.0
+movie10,Movies,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,56.2
+movie10,Movies,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,58.0
+movie10,Movies,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,46.0
+movie10,Movies,Physiology,#7030A0,EDA,physiology.eda.total_h,h,56.9
 movie10,Movies,Physiology,#7030A0,Eye,physiology.eye_tracking.total_h,h,
 multfs,Taskscapes,Brain recordings,#4472C4,fMRI,neuroimaging.fmri.total_h,h,24.9
 multfs,Taskscapes,Brain recordings,#4472C4,EEG,neuroimaging.eeg.total_h,h,
@@ -393,10 +393,10 @@ shinobi,Videogames,Task content,#538135,Rest,tasks.resting_state.total_h,h,
 shinobi,Videogames,Task content,#538135,Controlled,tasks.controlled.total_h,h,
 shinobi,Videogames,Task content,#538135,Games,tasks.game.total_h,h,41.5
 shinobi,Videogames,Task content,#538135,Contrasts,tasks.contrasts.total,#,
-shinobi,Videogames,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,31.0
-shinobi,Videogames,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,31.0
-shinobi,Videogames,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,31.0
-shinobi,Videogames,Physiology,#7030A0,EDA,physiology.eda.total_h,h,31.0
+shinobi,Videogames,Physiology,#7030A0,ECG,physiology.ecg.total_h,h,23.5
+shinobi,Videogames,Physiology,#7030A0,Resp.,physiology.respiration.total_h,h,39.1
+shinobi,Videogames,Physiology,#7030A0,PPG,physiology.plethysmograph.total_h,h,34.5
+shinobi,Videogames,Physiology,#7030A0,EDA,physiology.eda.total_h,h,40.2
 shinobi,Videogames,Physiology,#7030A0,Eye,physiology.eye_tracking.total_h,h,
 things,Taskscapes,Brain recordings,#4472C4,fMRI,neuroimaging.fmri.total_h,h,65.6
 things,Taskscapes,Brain recordings,#4472C4,EEG,neuroimaging.eeg.total_h,h,

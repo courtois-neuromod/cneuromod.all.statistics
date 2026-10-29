@@ -5,105 +5,105 @@ ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	fmriprep	True	MNI152NLin2009
 ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	physprep	NA		NA	NA	NA	NA
 ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-aliceEn	aliceEn	0.07533	ts_voxel_native	True		True	False	False	False
 ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	bold	True		True	True	False	True
 ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	physio	NA		NA	NA	NA	NA
 ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	physprep	NA		NA	NA	NA	NA
 ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-aliceFr	aliceFr	0.07533	ts_voxel_native	True		True	False	False	False
 ses-001	sub-01_ses-001_task-listening	listening	0.09933	bold	True		True	True	False	True
 ses-001	sub-01_ses-001_task-listening	listening	0.09933	physio	NA		NA	NA	NA	NA
 ses-001	sub-01_ses-001_task-listening	listening	0.09933	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-001	sub-01_ses-001_task-listening	listening	0.09933	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-01_ses-001_task-listening	listening	0.09933	physprep	NA		NA	NA	NA	NA
 ses-001	sub-01_ses-001_task-listening	listening	0.09933	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-01_ses-001_task-listening	listening	0.09933	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-listening	listening	0.09933	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-01_ses-001_task-listening	listening	0.09933	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-01_ses-001_task-listening	listening	0.09933	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-listening	listening	0.09933	ts_voxel_native	True		True	False	False	False
 ses-001	sub-01_ses-001_task-reading	reading	0.09933	bold	True		True	True	False	True
 ses-001	sub-01_ses-001_task-reading	reading	0.09933	physio	NA		NA	NA	NA	NA
 ses-001	sub-01_ses-001_task-reading	reading	0.09933	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-001	sub-01_ses-001_task-reading	reading	0.09933	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-01_ses-001_task-reading	reading	0.09933	physprep	NA		NA	NA	NA	NA
 ses-001	sub-01_ses-001_task-reading	reading	0.09933	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-01_ses-001_task-reading	reading	0.09933	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-reading	reading	0.09933	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-01_ses-001_task-reading	reading	0.09933	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-01_ses-001_task-reading	reading	0.09933	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-01_ses-001_task-reading	reading	0.09933	ts_voxel_native	True		True	False	False	False
 ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	bold	True		True	True	False	True
 ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	physio	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	physprep	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-aliceEn	aliceEn	0.07533	ts_voxel_native	True		True	False	False	False
 ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	bold	True		True	True	False	True
 ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	physio	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	physprep	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-aliceFr	aliceFr	0.07533	ts_voxel_native	True		True	False	False	False
 ses-002	sub-01_ses-002_task-listening	listening	0.09933	bold	True		True	True	False	True
 ses-002	sub-01_ses-002_task-listening	listening	0.09933	physio	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-listening	listening	0.09933	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-002	sub-01_ses-002_task-listening	listening	0.09933	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-01_ses-002_task-listening	listening	0.09933	physprep	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-listening	listening	0.09933	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-01_ses-002_task-listening	listening	0.09933	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-listening	listening	0.09933	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-01_ses-002_task-listening	listening	0.09933	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-01_ses-002_task-listening	listening	0.09933	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-listening	listening	0.09933	ts_voxel_native	True		True	False	False	False
 ses-002	sub-01_ses-002_task-reading	reading	0.09933	bold	True		True	True	False	True
 ses-002	sub-01_ses-002_task-reading	reading	0.09933	physio	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-reading	reading	0.09933	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-002	sub-01_ses-002_task-reading	reading	0.09933	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-002	sub-01_ses-002_task-reading	reading	0.09933	physprep	NA		NA	NA	NA	NA
 ses-002	sub-01_ses-002_task-reading	reading	0.09933	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-01_ses-002_task-reading	reading	0.09933	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-reading	reading	0.09933	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-01_ses-002_task-reading	reading	0.09933	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-01_ses-002_task-reading	reading	0.09933	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-01_ses-002_task-reading	reading	0.09933	ts_voxel_native	True		True	False	False	False
 ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	bold	True		True	True	False	True
 ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	physio	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	physprep	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-aliceEn	aliceEn	0.07533	ts_voxel_native	True		True	False	False	False
 ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	bold	True		True	True	False	True
 ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	physio	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	physprep	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-aliceFr	aliceFr	0.07533	ts_voxel_native	True		True	False	False	False
 ses-003	sub-01_ses-003_task-listening	listening	0.09933	bold	True		True	True	False	True
 ses-003	sub-01_ses-003_task-listening	listening	0.09933	physio	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-listening	listening	0.09933	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-003	sub-01_ses-003_task-listening	listening	0.09933	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-01_ses-003_task-listening	listening	0.09933	physprep	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-listening	listening	0.09933	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-01_ses-003_task-listening	listening	0.09933	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-listening	listening	0.09933	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-01_ses-003_task-listening	listening	0.09933	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-01_ses-003_task-listening	listening	0.09933	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-listening	listening	0.09933	ts_voxel_native	True		True	False	False	False
 ses-003	sub-01_ses-003_task-reading	reading	0.09933	bold	True		True	True	False	True
 ses-003	sub-01_ses-003_task-reading	reading	0.09933	physio	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-reading	reading	0.09933	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
 ses-003	sub-01_ses-003_task-reading	reading	0.09933	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-01_ses-003_task-reading	reading	0.09933	physprep	NA		NA	NA	NA	NA
 ses-003	sub-01_ses-003_task-reading	reading	0.09933	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-01_ses-003_task-reading	reading	0.09933	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-reading	reading	0.09933	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-01_ses-003_task-reading	reading	0.09933	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-01_ses-003_task-reading	reading	0.09933	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-01_ses-003_task-reading	reading	0.09933	ts_voxel_native	True		True	False	False	False

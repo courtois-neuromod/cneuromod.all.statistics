@@ -5,7 +5,7 @@ ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	fmr
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-01	wordsfamiliarity	0.08899	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	bold	True		True	True	False	True
@@ -14,7 +14,7 @@ ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	fmr
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-02	wordsfamiliarity	0.08899	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	bold	True		True	True	False	True
@@ -23,7 +23,7 @@ ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	fmr
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	physprep	NA		NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-03_ses-001_task-wordsfamiliarity_run-03	wordsfamiliarity	0.08899	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -32,7 +32,7 @@ ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	False		False	False	False	False
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	False		False	False	False	False
-ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	False		False	False	False	False
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	bold	True		True	True	False	True
@@ -41,7 +41,7 @@ ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	fmr
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	tsnr	False		False	False	False	False
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	ts_cneuromod2026	False		False	False	False	False
-ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	ts_schaefer1000	False		False	False	False	False
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09354	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -50,7 +50,7 @@ ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	False		False	False	False	False
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	False		False	False	False	False
-ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	False		False	False	False	False
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-03_ses-002_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -59,7 +59,7 @@ ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -68,7 +68,7 @@ ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -77,7 +77,7 @@ ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-003	sub-03_ses-003_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -86,7 +86,7 @@ ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -95,7 +95,7 @@ ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -104,7 +104,7 @@ ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-004	sub-03_ses-004_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -113,7 +113,7 @@ ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -122,7 +122,7 @@ ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -131,7 +131,7 @@ ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-005	sub-03_ses-005_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -140,7 +140,7 @@ ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -149,7 +149,7 @@ ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -158,7 +158,7 @@ ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-006	sub-03_ses-006_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -167,7 +167,7 @@ ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -176,7 +176,7 @@ ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -185,7 +185,7 @@ ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-007	sub-03_ses-007_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -194,7 +194,7 @@ ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -203,7 +203,7 @@ ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -212,7 +212,7 @@ ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-008	sub-03_ses-008_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -221,7 +221,7 @@ ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -230,7 +230,7 @@ ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -239,7 +239,7 @@ ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-009	sub-03_ses-009_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -248,7 +248,7 @@ ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -257,7 +257,7 @@ ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -266,7 +266,7 @@ ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-010	sub-03_ses-010_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -275,7 +275,7 @@ ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -284,7 +284,7 @@ ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -293,7 +293,7 @@ ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-011	sub-03_ses-011_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -302,7 +302,7 @@ ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -311,7 +311,7 @@ ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -320,7 +320,7 @@ ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-012	sub-03_ses-012_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	bold	True		True	True	False	True
@@ -329,7 +329,7 @@ ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	fmr
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	tsnr	False		False	False	False	False
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	physprep	NA		NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	ts_cneuromod2026	True		True	False	False	False
-ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	ts_schaefer1000	True		True	False	False	False
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09437	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -338,7 +338,7 @@ ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -347,7 +347,7 @@ ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-013	sub-03_ses-013_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -356,7 +356,7 @@ ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -365,7 +365,7 @@ ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -374,7 +374,7 @@ ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-014	sub-03_ses-014_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -383,7 +383,7 @@ ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -392,7 +392,7 @@ ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -401,7 +401,7 @@ ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-015	sub-03_ses-015_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -410,7 +410,7 @@ ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -419,7 +419,7 @@ ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -428,7 +428,7 @@ ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-016	sub-03_ses-016_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -437,7 +437,7 @@ ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -446,7 +446,7 @@ ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -455,7 +455,7 @@ ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-017	sub-03_ses-017_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -464,7 +464,7 @@ ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -473,7 +473,7 @@ ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -482,7 +482,7 @@ ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-018	sub-03_ses-018_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -491,7 +491,7 @@ ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -500,7 +500,7 @@ ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -509,7 +509,7 @@ ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-019	sub-03_ses-019_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -518,7 +518,7 @@ ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -527,7 +527,7 @@ ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -536,7 +536,7 @@ ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-020	sub-03_ses-020_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -545,7 +545,7 @@ ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -554,7 +554,7 @@ ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -563,7 +563,7 @@ ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-021	sub-03_ses-021_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -572,7 +572,7 @@ ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -581,7 +581,7 @@ ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -590,7 +590,7 @@ ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-022	sub-03_ses-022_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -599,7 +599,7 @@ ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	fmr
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-01	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -608,7 +608,7 @@ ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	fmr
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-02	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	bold	True		True	True	False	True
@@ -617,7 +617,7 @@ ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	fmr
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	physprep	NA		NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_cneuromod2026	True		True	False	False	False
-ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_schaefer1000	True		True	False	False	False
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-023	sub-03_ses-023_task-wordsfamiliarity_run-03	wordsfamiliarity	0.09147	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -626,7 +626,7 @@ ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -635,7 +635,7 @@ ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -644,7 +644,7 @@ ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-024	sub-03_ses-024_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -653,7 +653,7 @@ ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -662,7 +662,7 @@ ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -671,7 +671,7 @@ ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-025	sub-03_ses-025_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -680,7 +680,7 @@ ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -689,7 +689,7 @@ ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -698,7 +698,7 @@ ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-026	sub-03_ses-026_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	bold	True		True	True	False	True
@@ -707,7 +707,7 @@ ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	fmriprep	True	MNI15
 ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-01	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	bold	True		True	True	False	True
@@ -716,7 +716,7 @@ ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	fmriprep	True	MNI15
 ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-02	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	bold	True		True	True	False	True
@@ -725,6 +725,6 @@ ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	fmriprep	True	MNI15
 ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
 ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	physprep	NA		NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	ts_cneuromod2026	True		True	False	False	False
-ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	ts_schaefer1000	True		True	False	False	False
 ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-027	sub-03_ses-027_task-triplets_run-03	triplets	0.10264	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA

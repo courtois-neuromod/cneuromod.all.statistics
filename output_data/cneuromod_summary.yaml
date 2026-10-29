@@ -5,20 +5,20 @@ neuroimaging:
     total_h: 953.4
 physiology:
   ecg:
-    per_subject_h: 97.4
-    total_h: 584.1
+    per_subject_h: 78.3
+    total_h: 469.90000000000003
   eda:
-    per_subject_h: 97.4
-    total_h: 584.1
+    per_subject_h: 84.0
+    total_h: 503.8
   eye_tracking:
     per_subject_h: 22.7
     total_h: 135.9
   plethysmograph:
-    per_subject_h: 97.4
-    total_h: 584.1
+    per_subject_h: 81.8
+    total_h: 490.6
   respiration:
-    per_subject_h: 97.4
-    total_h: 584.1
+    per_subject_h: 89.1
+    total_h: 534.9
 subjects_n: 6
 tasks:
   audio:

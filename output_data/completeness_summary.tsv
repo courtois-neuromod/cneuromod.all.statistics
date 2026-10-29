@@ -55,9 +55,9 @@ floc	sub-01	fmriprep	12	12	0.7698	12	100.0	0.0	12	100.0	12	100.0	0	0.0	0	0.0
 floc	sub-01	tsnr	12	12	0.7698	12	100.0	0.0	12	100.0	12	100.0	0	0.0	0	0.0
 floc	sub-01	physprep	12	0	0.7698	0			0		0		0		0	
 floc	sub-01	ts_cneuromod2026	12	12	0.7698	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
-floc	sub-01	ts_schaefer1000	12	0	0.7698	0			0		0		0		0	
+floc	sub-01	ts_schaefer1000	12	12	0.7698	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 floc	sub-01	ts_voxel_mni	12	0	0.7698	0			0		0		0		0	
-floc	sub-01	ts_voxel_native	12	0	0.7698	0			0		0		0		0	
+floc	sub-01	ts_voxel_native	12	12	0.7698	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 floc	sub-01	complete	12	12	0.7698	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 floc	sub-02	bold	12	12	0.7698	12	100.0	0.0	12	100.0	12	100.0	0	0.0	12	100.0
 floc	sub-02	physio	12	0	0.7698	0			0		0		0		0	
@@ -67,7 +67,7 @@ floc	sub-02	physprep	12	0	0.7698	0			0		0		0		0
 floc	sub-02	ts_cneuromod2026	12	12	0.7698	10	83.33	0.1283	10	83.33	0	0.0	0	0.0	0	0.0
 floc	sub-02	ts_schaefer1000	12	12	0.7698	10	83.33	0.1283	10	83.33	0	0.0	0	0.0	0	0.0
 floc	sub-02	ts_voxel_mni	12	0	0.7698	0			0		0		0		0	
-floc	sub-02	ts_voxel_native	12	0	0.7698	0			0		0		0		0	
+floc	sub-02	ts_voxel_native	12	12	0.7698	10	83.33	0.1283	10	83.33	0	0.0	0	0.0	0	0.0
 floc	sub-02	complete	12	12	0.7698	10	83.33	0.1283	10	83.33	0	0.0	0	0.0	0	0.0
 floc	sub-03	bold	12	12	0.7748	12	100.0	0.0	12	100.0	12	100.0	0	0.0	12	100.0
 floc	sub-03	physio	12	0	0.7748	0			0		0		0		0	
@@ -77,7 +77,7 @@ floc	sub-03	physprep	12	0	0.7748	0			0		0		0		0
 floc	sub-03	ts_cneuromod2026	12	12	0.7748	10	83.33	0.1333	10	83.33	0	0.0	0	0.0	0	0.0
 floc	sub-03	ts_schaefer1000	12	12	0.7748	10	83.33	0.1333	10	83.33	0	0.0	0	0.0	0	0.0
 floc	sub-03	ts_voxel_mni	12	0	0.7748	0			0		0		0		0	
-floc	sub-03	ts_voxel_native	12	0	0.7748	0			0		0		0		0	
+floc	sub-03	ts_voxel_native	12	12	0.7748	10	83.33	0.1333	10	83.33	0	0.0	0	0.0	0	0.0
 floc	sub-03	complete	12	12	0.7748	10	83.33	0.1333	10	83.33	0	0.0	0	0.0	0	0.0
 friends	sub-01	bold	341	341	66.8067	341	100.0	0.0	341	100.0	341	100.0	0	0.0	341	100.0
 friends	sub-01	physio	341	341	66.8067	285	83.58	11.0687	285	83.58	285	83.58	0	0.0	285	83.58
@@ -145,9 +145,9 @@ gamepad	sub-01	fmriprep	10	10	0.8568	10	100.0	0.0	10	100.0	10	100.0	0	0.0	8	80.0
 gamepad	sub-01	tsnr	10	10	0.8568	10	100.0	0.0	10	100.0	10	100.0	0	0.0	0	0.0
 gamepad	sub-01	physprep	10	0	0.8568	0			0		0		0		0	
 gamepad	sub-01	ts_cneuromod2026	10	10	0.8568	10	100.0	0.0	10	100.0	0	0.0	0	0.0	0	0.0
-gamepad	sub-01	ts_schaefer1000	10	0	0.8568	0			0		0		0		0	
+gamepad	sub-01	ts_schaefer1000	10	10	0.8568	10	100.0	0.0	10	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-01	ts_voxel_mni	10	0	0.8568	0			0		0		0		0	
-gamepad	sub-01	ts_voxel_native	10	0	0.8568	0			0		0		0		0	
+gamepad	sub-01	ts_voxel_native	10	10	0.8568	10	100.0	0.0	10	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-01	complete	10	10	0.8568	10	100.0	0.0	10	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-02	bold	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	0	0.0
 gamepad	sub-02	physio	8	0	0.6854	0			0		0		0		0	
@@ -155,9 +155,9 @@ gamepad	sub-02	fmriprep	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	8	100.0
 gamepad	sub-02	tsnr	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	0	0.0
 gamepad	sub-02	physprep	8	0	0.6854	0			0		0		0		0	
 gamepad	sub-02	ts_cneuromod2026	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
-gamepad	sub-02	ts_schaefer1000	8	0	0.6854	0			0		0		0		0	
+gamepad	sub-02	ts_schaefer1000	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-02	ts_voxel_mni	8	0	0.6854	0			0		0		0		0	
-gamepad	sub-02	ts_voxel_native	8	0	0.6854	0			0		0		0		0	
+gamepad	sub-02	ts_voxel_native	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-02	complete	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-03	bold	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	0	0.0
 gamepad	sub-03	physio	8	0	0.6854	0			0		0		0		0	
@@ -165,9 +165,9 @@ gamepad	sub-03	fmriprep	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	8	100.0
 gamepad	sub-03	tsnr	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	0	0.0
 gamepad	sub-03	physprep	8	0	0.6854	0			0		0		0		0	
 gamepad	sub-03	ts_cneuromod2026	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
-gamepad	sub-03	ts_schaefer1000	8	0	0.6854	0			0		0		0		0	
+gamepad	sub-03	ts_schaefer1000	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-03	ts_voxel_mni	8	0	0.6854	0			0		0		0		0	
-gamepad	sub-03	ts_voxel_native	8	0	0.6854	0			0		0		0		0	
+gamepad	sub-03	ts_voxel_native	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-03	complete	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-06	bold	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	0	0.0
 gamepad	sub-06	physio	8	0	0.6854	0			0		0		0		0	
@@ -175,9 +175,9 @@ gamepad	sub-06	fmriprep	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	8	100.0
 gamepad	sub-06	tsnr	8	8	0.6854	8	100.0	0.0	8	100.0	8	100.0	0	0.0	0	0.0
 gamepad	sub-06	physprep	8	0	0.6854	0			0		0		0		0	
 gamepad	sub-06	ts_cneuromod2026	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
-gamepad	sub-06	ts_schaefer1000	8	0	0.6854	0			0		0		0		0	
+gamepad	sub-06	ts_schaefer1000	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-06	ts_voxel_mni	8	0	0.6854	0			0		0		0		0	
-gamepad	sub-06	ts_voxel_native	8	0	0.6854	0			0		0		0		0	
+gamepad	sub-06	ts_voxel_native	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 gamepad	sub-06	complete	8	8	0.6854	8	100.0	0.0	8	100.0	0	0.0	0	0.0	0	0.0
 harrypotter	sub-01	bold	7	7	1.3919	7	100.0	0.0	7	100.0	7	100.0	0	0.0	7	100.0
 harrypotter	sub-01	physio	7	7	1.3919	7	100.0	0.0	7	100.0	7	100.0	0	0.0	7	100.0
@@ -295,9 +295,9 @@ langlocalizer	sub-01	fmriprep	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	1
 langlocalizer	sub-01	tsnr	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	0	0.0
 langlocalizer	sub-01	physprep	12	0	1.048	0			0		0		0		0	
 langlocalizer	sub-01	ts_cneuromod2026	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
-langlocalizer	sub-01	ts_schaefer1000	12	0	1.048	0			0		0		0		0	
+langlocalizer	sub-01	ts_schaefer1000	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-01	ts_voxel_mni	12	0	1.048	0			0		0		0		0	
-langlocalizer	sub-01	ts_voxel_native	12	0	1.048	0			0		0		0		0	
+langlocalizer	sub-01	ts_voxel_native	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-01	complete	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-02	bold	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	12	100.0
 langlocalizer	sub-02	physio	12	0	1.048	0			0		0		0		0	
@@ -305,9 +305,9 @@ langlocalizer	sub-02	fmriprep	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	1
 langlocalizer	sub-02	tsnr	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	0	0.0
 langlocalizer	sub-02	physprep	12	0	1.048	0			0		0		0		0	
 langlocalizer	sub-02	ts_cneuromod2026	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
-langlocalizer	sub-02	ts_schaefer1000	12	0	1.048	0			0		0		0		0	
+langlocalizer	sub-02	ts_schaefer1000	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-02	ts_voxel_mni	12	0	1.048	0			0		0		0		0	
-langlocalizer	sub-02	ts_voxel_native	12	0	1.048	0			0		0		0		0	
+langlocalizer	sub-02	ts_voxel_native	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-02	complete	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-03	bold	12	12	1.0508	12	100.0	0.0	12	100.0	12	100.0	0	0.0	12	100.0
 langlocalizer	sub-03	physio	12	0	1.0508	0			0		0		0		0	
@@ -315,9 +315,9 @@ langlocalizer	sub-03	fmriprep	12	12	1.0508	12	100.0	0.0	12	100.0	12	100.0	0	0.0	
 langlocalizer	sub-03	tsnr	12	12	1.0508	12	100.0	0.0	12	100.0	12	100.0	0	0.0	0	0.0
 langlocalizer	sub-03	physprep	12	0	1.0508	0			0		0		0		0	
 langlocalizer	sub-03	ts_cneuromod2026	12	12	1.0508	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
-langlocalizer	sub-03	ts_schaefer1000	12	0	1.0508	0			0		0		0		0	
+langlocalizer	sub-03	ts_schaefer1000	12	12	1.0508	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-03	ts_voxel_mni	12	0	1.0508	0			0		0		0		0	
-langlocalizer	sub-03	ts_voxel_native	12	0	1.0508	0			0		0		0		0	
+langlocalizer	sub-03	ts_voxel_native	12	12	1.0508	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-03	complete	12	12	1.0508	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-05	bold	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	12	100.0
 langlocalizer	sub-05	physio	12	0	1.048	0			0		0		0		0	
@@ -325,9 +325,9 @@ langlocalizer	sub-05	fmriprep	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	1
 langlocalizer	sub-05	tsnr	12	12	1.048	12	100.0	0.0	12	100.0	12	100.0	0	0.0	0	0.0
 langlocalizer	sub-05	physprep	12	0	1.048	0			0		0		0		0	
 langlocalizer	sub-05	ts_cneuromod2026	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
-langlocalizer	sub-05	ts_schaefer1000	12	0	1.048	0			0		0		0		0	
+langlocalizer	sub-05	ts_schaefer1000	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-05	ts_voxel_mni	12	0	1.048	0			0		0		0		0	
-langlocalizer	sub-05	ts_voxel_native	12	0	1.048	0			0		0		0		0	
+langlocalizer	sub-05	ts_voxel_native	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 langlocalizer	sub-05	complete	12	12	1.048	12	100.0	0.0	12	100.0	0	0.0	0	0.0	0	0.0
 mario	sub-01	bold	84	84	15.5018	84	100.0	0.0	84	100.0	84	100.0	0	0.0	84	100.0
 mario	sub-01	physio	84	84	15.5018	84	100.0	0.0	84	100.0	84	100.0	0	0.0	84	100.0
@@ -485,7 +485,7 @@ movie10	sub-01	fmriprep	61	61	10.2793	61	100.0	0.0	61	100.0	61	100.0	0	0.0	61	10
 movie10	sub-01	tsnr	61	61	10.2793	61	100.0	0.0	61	100.0	61	100.0	0	0.0	0	0.0
 movie10	sub-01	physprep	61	61	10.2793	59	96.72	0.3237	27	44.26	27	44.26	0	0.0	0	0.0
 movie10	sub-01	ts_cneuromod2026	61	61	10.2793	61	100.0	0.0	61	100.0	0	0.0	0	0.0	0	0.0
-movie10	sub-01	ts_schaefer1000	61	0	10.2793	0			0		0		0		0	
+movie10	sub-01	ts_schaefer1000	61	61	10.2793	61	100.0	0.0	61	100.0	0	0.0	0	0.0	0	0.0
 movie10	sub-01	ts_voxel_mni	61	0	10.2793	0			0		0		0		0	
 movie10	sub-01	ts_voxel_native	61	0	10.2793	0			0		0		0		0	
 movie10	sub-01	complete	61	61	10.2793	59	96.72	0.3237	27	44.26	0	0.0	0	0.0	0	0.0
@@ -545,7 +545,7 @@ multfs	sub-01	fmriprep	28	28	2.1655	28	100.0	0.0	28	100.0	28	100.0	0	0.0	0	0.0
 multfs	sub-01	tsnr	28	28	2.1655	0	0.0	2.1655	0	0.0	0	0.0	0	0.0	0	0.0
 multfs	sub-01	physprep	28	0	2.1655	0			0		0		0		0	
 multfs	sub-01	ts_cneuromod2026	28	28	2.1655	28	100.0	0.0	28	100.0	0	0.0	0	0.0	0	0.0
-multfs	sub-01	ts_schaefer1000	28	0	2.1655	0			0		0		0		0	
+multfs	sub-01	ts_schaefer1000	28	28	2.1655	28	100.0	0.0	28	100.0	0	0.0	0	0.0	0	0.0
 multfs	sub-01	ts_voxel_mni	28	0	2.1655	0			0		0		0		0	
 multfs	sub-01	ts_voxel_native	28	0	2.1655	0			0		0		0		0	
 multfs	sub-01	complete	28	28	2.1655	0	0.0	2.1655	0	0.0	0	0.0	0	0.0	0	0.0
@@ -555,7 +555,7 @@ multfs	sub-02	fmriprep	63	63	4.8724	63	100.0	0.0	63	100.0	63	100.0	0	0.0	0	0.0
 multfs	sub-02	tsnr	63	63	4.8724	0	0.0	4.8724	0	0.0	0	0.0	0	0.0	0	0.0
 multfs	sub-02	physprep	63	0	4.8724	0			0		0		0		0	
 multfs	sub-02	ts_cneuromod2026	63	63	4.8724	63	100.0	0.0	63	100.0	0	0.0	0	0.0	0	0.0
-multfs	sub-02	ts_schaefer1000	63	0	4.8724	0			0		0		0		0	
+multfs	sub-02	ts_schaefer1000	63	63	4.8724	63	100.0	0.0	63	100.0	0	0.0	0	0.0	0	0.0
 multfs	sub-02	ts_voxel_mni	63	0	4.8724	0			0		0		0		0	
 multfs	sub-02	ts_voxel_native	63	0	4.8724	0			0		0		0		0	
 multfs	sub-02	complete	63	63	4.8724	0	0.0	4.8724	0	0.0	0	0.0	0	0.0	0	0.0
@@ -565,7 +565,7 @@ multfs	sub-03	fmriprep	112	112	8.6646	112	100.0	0.0	112	100.0	112	100.0	0	0.0	0	
 multfs	sub-03	tsnr	112	112	8.6646	0	0.0	8.6646	0	0.0	0	0.0	0	0.0	0	0.0
 multfs	sub-03	physprep	112	0	8.6646	0			0		0		0		0	
 multfs	sub-03	ts_cneuromod2026	112	112	8.6646	112	100.0	0.0	112	100.0	0	0.0	0	0.0	0	0.0
-multfs	sub-03	ts_schaefer1000	112	0	8.6646	0			0		0		0		0	
+multfs	sub-03	ts_schaefer1000	112	112	8.6646	112	100.0	0.0	112	100.0	0	0.0	0	0.0	0	0.0
 multfs	sub-03	ts_voxel_mni	112	0	8.6646	0			0		0		0		0	
 multfs	sub-03	ts_voxel_native	112	0	8.6646	0			0		0		0		0	
 multfs	sub-03	complete	112	112	8.6646	0	0.0	8.6646	0	0.0	0	0.0	0	0.0	0	0.0
@@ -575,7 +575,7 @@ multfs	sub-05	fmriprep	14	14	1.0828	14	100.0	0.0	14	100.0	14	100.0	0	0.0	0	0.0
 multfs	sub-05	tsnr	14	14	1.0828	0	0.0	1.0828	0	0.0	0	0.0	0	0.0	0	0.0
 multfs	sub-05	physprep	14	0	1.0828	0			0		0		0		0	
 multfs	sub-05	ts_cneuromod2026	14	14	1.0828	14	100.0	0.0	14	100.0	0	0.0	0	0.0	0	0.0
-multfs	sub-05	ts_schaefer1000	14	0	1.0828	0			0		0		0		0	
+multfs	sub-05	ts_schaefer1000	14	14	1.0828	14	100.0	0.0	14	100.0	0	0.0	0	0.0	0	0.0
 multfs	sub-05	ts_voxel_mni	14	0	1.0828	0			0		0		0		0	
 multfs	sub-05	ts_voxel_native	14	0	1.0828	0			0		0		0		0	
 multfs	sub-05	complete	14	14	1.0828	0	0.0	1.0828	0	0.0	0	0.0	0	0.0	0	0.0
@@ -585,7 +585,7 @@ multfs	sub-06	fmriprep	105	105	8.1207	105	100.0	0.0	105	100.0	105	100.0	0	0.0	0	
 multfs	sub-06	tsnr	105	105	8.1207	0	0.0	8.1207	0	0.0	0	0.0	0	0.0	0	0.0
 multfs	sub-06	physprep	105	0	8.1207	0			0		0		0		0	
 multfs	sub-06	ts_cneuromod2026	105	105	8.1207	105	100.0	0.0	105	100.0	0	0.0	0	0.0	0	0.0
-multfs	sub-06	ts_schaefer1000	105	0	8.1207	0			0		0		0		0	
+multfs	sub-06	ts_schaefer1000	105	105	8.1207	105	100.0	0.0	105	100.0	0	0.0	0	0.0	0	0.0
 multfs	sub-06	ts_voxel_mni	105	0	8.1207	0			0		0		0		0	
 multfs	sub-06	ts_voxel_native	105	0	8.1207	0			0		0		0		0	
 multfs	sub-06	complete	105	105	8.1207	0	0.0	8.1207	0	0.0	0	0.0	0	0.0	0	0.0
@@ -595,7 +595,7 @@ mutemusic	sub-01	fmriprep	18	18	3.326	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.0
 mutemusic	sub-01	tsnr	18	18	3.326	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.0
 mutemusic	sub-01	physprep	18	0	3.326	0			0		0		0		0	
 mutemusic	sub-01	ts_cneuromod2026	18	18	3.326	17	94.44	0.1759	17	94.44	0	0.0	0	0.0	0	0.0
-mutemusic	sub-01	ts_schaefer1000	18	0	3.326	0			0		0		0		0	
+mutemusic	sub-01	ts_schaefer1000	18	18	3.326	17	94.44	0.1759	17	94.44	0	0.0	0	0.0	0	0.0
 mutemusic	sub-01	ts_voxel_mni	18	0	3.326	0			0		0		0		0	
 mutemusic	sub-01	ts_voxel_native	18	0	3.326	0			0		0		0		0	
 mutemusic	sub-01	complete	18	18	3.326	17	94.44	0.1759	17	94.44	0	0.0	0	0.0	0	0.0
@@ -605,7 +605,7 @@ mutemusic	sub-02	fmriprep	18	18	3.3012	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.
 mutemusic	sub-02	tsnr	18	18	3.3012	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.0
 mutemusic	sub-02	physprep	18	0	3.3012	0			0		0		0		0	
 mutemusic	sub-02	ts_cneuromod2026	18	18	3.3012	18	100.0	0.0	18	100.0	0	0.0	0	0.0	0	0.0
-mutemusic	sub-02	ts_schaefer1000	18	0	3.3012	0			0		0		0		0	
+mutemusic	sub-02	ts_schaefer1000	18	18	3.3012	18	100.0	0.0	18	100.0	0	0.0	0	0.0	0	0.0
 mutemusic	sub-02	ts_voxel_mni	18	0	3.3012	0			0		0		0		0	
 mutemusic	sub-02	ts_voxel_native	18	0	3.3012	0			0		0		0		0	
 mutemusic	sub-02	complete	18	18	3.3012	18	100.0	0.0	18	100.0	0	0.0	0	0.0	0	0.0
@@ -615,7 +615,7 @@ mutemusic	sub-03	fmriprep	18	18	3.2639	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.
 mutemusic	sub-03	tsnr	18	18	3.2639	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.0
 mutemusic	sub-03	physprep	18	0	3.2639	0			0		0		0		0	
 mutemusic	sub-03	ts_cneuromod2026	18	18	3.2639	17	94.44	0.168	17	94.44	0	0.0	0	0.0	0	0.0
-mutemusic	sub-03	ts_schaefer1000	18	0	3.2639	0			0		0		0		0	
+mutemusic	sub-03	ts_schaefer1000	18	18	3.2639	17	94.44	0.168	17	94.44	0	0.0	0	0.0	0	0.0
 mutemusic	sub-03	ts_voxel_mni	18	0	3.2639	0			0		0		0		0	
 mutemusic	sub-03	ts_voxel_native	18	0	3.2639	0			0		0		0		0	
 mutemusic	sub-03	complete	18	18	3.2639	17	94.44	0.168	17	94.44	0	0.0	0	0.0	0	0.0
@@ -625,7 +625,7 @@ mutemusic	sub-05	fmriprep	19	19	3.3637	19	100.0	0.0	19	100.0	19	100.0	0	0.0	0	0.
 mutemusic	sub-05	tsnr	19	19	3.3637	19	100.0	0.0	19	100.0	19	100.0	0	0.0	0	0.0
 mutemusic	sub-05	physprep	19	0	3.3637	0			0		0		0		0	
 mutemusic	sub-05	ts_cneuromod2026	19	19	3.3637	16	84.21	0.5612	16	84.21	0	0.0	0	0.0	0	0.0
-mutemusic	sub-05	ts_schaefer1000	19	0	3.3637	0			0		0		0		0	
+mutemusic	sub-05	ts_schaefer1000	19	19	3.3637	16	84.21	0.5612	16	84.21	0	0.0	0	0.0	0	0.0
 mutemusic	sub-05	ts_voxel_mni	19	0	3.3637	0			0		0		0		0	
 mutemusic	sub-05	ts_voxel_native	19	0	3.3637	0			0		0		0		0	
 mutemusic	sub-05	complete	19	19	3.3637	16	84.21	0.5612	16	84.21	0	0.0	0	0.0	0	0.0
@@ -635,7 +635,7 @@ mutemusic	sub-06	fmriprep	18	18	3.333	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.0
 mutemusic	sub-06	tsnr	18	18	3.333	18	100.0	0.0	18	100.0	18	100.0	0	0.0	0	0.0
 mutemusic	sub-06	physprep	18	0	3.333	0			0		0		0		0	
 mutemusic	sub-06	ts_cneuromod2026	18	18	3.333	16	88.89	0.3646	16	88.89	0	0.0	0	0.0	0	0.0
-mutemusic	sub-06	ts_schaefer1000	18	0	3.333	0			0		0		0		0	
+mutemusic	sub-06	ts_schaefer1000	18	18	3.333	16	88.89	0.3646	16	88.89	0	0.0	0	0.0	0	0.0
 mutemusic	sub-06	ts_voxel_mni	18	0	3.333	0			0		0		0		0	
 mutemusic	sub-06	ts_voxel_native	18	0	3.333	0			0		0		0		0	
 mutemusic	sub-06	complete	18	18	3.333	16	88.89	0.3646	16	88.89	0	0.0	0	0.0	0	0.0
@@ -645,7 +645,7 @@ narratives	sub-01	fmriprep	78	78	10.973	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	0
 narratives	sub-01	tsnr	78	78	10.973	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	0.0
 narratives	sub-01	physprep	78	0	10.973	0			0		0		0		0	
 narratives	sub-01	ts_cneuromod2026	78	78	10.973	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
-narratives	sub-01	ts_schaefer1000	78	0	10.973	0			0		0		0		0	
+narratives	sub-01	ts_schaefer1000	78	78	10.973	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
 narratives	sub-01	ts_voxel_mni	78	0	10.973	0			0		0		0		0	
 narratives	sub-01	ts_voxel_native	78	0	10.973	0			0		0		0		0	
 narratives	sub-01	complete	78	78	10.973	78	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
@@ -655,7 +655,7 @@ narratives	sub-02	fmriprep	78	78	8.2318	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	0
 narratives	sub-02	tsnr	78	78	8.2318	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	0.0
 narratives	sub-02	physprep	78	0	8.2318	0			0		0		0		0	
 narratives	sub-02	ts_cneuromod2026	78	78	8.2318	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
-narratives	sub-02	ts_schaefer1000	78	0	8.2318	0			0		0		0		0	
+narratives	sub-02	ts_schaefer1000	78	78	8.2318	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
 narratives	sub-02	ts_voxel_mni	78	0	8.2318	0			0		0		0		0	
 narratives	sub-02	ts_voxel_native	78	0	8.2318	0			0		0		0		0	
 narratives	sub-02	complete	78	78	8.2318	78	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
@@ -665,7 +665,7 @@ narratives	sub-03	fmriprep	78	78	10.0923	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	
 narratives	sub-03	tsnr	78	78	10.0923	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	0.0
 narratives	sub-03	physprep	78	0	10.0923	0			0		0		0		0	
 narratives	sub-03	ts_cneuromod2026	78	78	10.0923	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
-narratives	sub-03	ts_schaefer1000	78	0	10.0923	0			0		0		0		0	
+narratives	sub-03	ts_schaefer1000	78	78	10.0923	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
 narratives	sub-03	ts_voxel_mni	78	0	10.0923	0			0		0		0		0	
 narratives	sub-03	ts_voxel_native	78	0	10.0923	0			0		0		0		0	
 narratives	sub-03	complete	78	78	10.0923	78	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
@@ -675,7 +675,7 @@ narratives	sub-05	fmriprep	77	77	8.7206	77	100.0	0.0	77	100.0	77	100.0	0	0.0	0	0
 narratives	sub-05	tsnr	77	77	8.7206	77	100.0	0.0	77	100.0	77	100.0	0	0.0	0	0.0
 narratives	sub-05	physprep	77	0	8.7206	0			0		0		0		0	
 narratives	sub-05	ts_cneuromod2026	77	77	8.7206	77	100.0	0.0	77	100.0	0	0.0	0	0.0	0	0.0
-narratives	sub-05	ts_schaefer1000	77	0	8.7206	0			0		0		0		0	
+narratives	sub-05	ts_schaefer1000	77	77	8.7206	77	100.0	0.0	77	100.0	0	0.0	0	0.0	0	0.0
 narratives	sub-05	ts_voxel_mni	77	0	8.7206	0			0		0		0		0	
 narratives	sub-05	ts_voxel_native	77	0	8.7206	0			0		0		0		0	
 narratives	sub-05	complete	77	77	8.7206	77	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
@@ -685,7 +685,7 @@ narratives	sub-06	fmriprep	78	78	10.6435	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	
 narratives	sub-06	tsnr	78	78	10.6435	78	100.0	0.0	78	100.0	78	100.0	0	0.0	0	0.0
 narratives	sub-06	physprep	78	0	10.6435	0			0		0		0		0	
 narratives	sub-06	ts_cneuromod2026	78	78	10.6435	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
-narratives	sub-06	ts_schaefer1000	78	0	10.6435	0			0		0		0		0	
+narratives	sub-06	ts_schaefer1000	78	78	10.6435	78	100.0	0.0	78	100.0	0	0.0	0	0.0	0	0.0
 narratives	sub-06	ts_voxel_mni	78	0	10.6435	0			0		0		0		0	
 narratives	sub-06	ts_voxel_native	78	0	10.6435	0			0		0		0		0	
 narratives	sub-06	complete	78	78	10.6435	78	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
@@ -905,7 +905,7 @@ triplets	sub-01	fmriprep	81	81	7.8112	78	96.3	0.2744	78	96.3	78	96.3	0	0.0	0	0.0
 triplets	sub-01	tsnr	81	81	7.8112	81	100.0	0.0	81	100.0	81	100.0	0	0.0	0	0.0
 triplets	sub-01	physprep	81	0	7.8112	0			0		0		0		0	
 triplets	sub-01	ts_cneuromod2026	81	81	7.8112	78	96.3	0.2744	78	96.3	0	0.0	0	0.0	0	0.0
-triplets	sub-01	ts_schaefer1000	81	0	7.8112	0			0		0		0		0	
+triplets	sub-01	ts_schaefer1000	81	81	7.8112	78	96.3	0.2744	78	96.3	0	0.0	0	0.0	0	0.0
 triplets	sub-01	ts_voxel_mni	81	0	7.8112	0			0		0		0		0	
 triplets	sub-01	ts_voxel_native	81	0	7.8112	0			0		0		0		0	
 triplets	sub-01	complete	81	81	7.8112	78	96.3	0.2744	78	96.3	0	0.0	0	0.0	0	0.0
@@ -915,7 +915,7 @@ triplets	sub-02	fmriprep	81	81	7.8112	81	100.0	0.0	81	100.0	81	100.0	0	0.0	0	0.0
 triplets	sub-02	tsnr	81	81	7.8112	81	100.0	0.0	81	100.0	81	100.0	0	0.0	0	0.0
 triplets	sub-02	physprep	81	0	7.8112	0			0		0		0		0	
 triplets	sub-02	ts_cneuromod2026	81	81	7.8112	81	100.0	0.0	81	100.0	0	0.0	0	0.0	0	0.0
-triplets	sub-02	ts_schaefer1000	81	0	7.8112	0			0		0		0		0	
+triplets	sub-02	ts_schaefer1000	81	81	7.8112	81	100.0	0.0	81	100.0	0	0.0	0	0.0	0	0.0
 triplets	sub-02	ts_voxel_mni	81	0	7.8112	0			0		0		0		0	
 triplets	sub-02	ts_voxel_native	81	0	7.8112	0			0		0		0		0	
 triplets	sub-02	complete	81	81	7.8112	81	100.0	0.0	81	100.0	0	0.0	0	0.0	0	0.0
@@ -925,7 +925,7 @@ triplets	sub-03	fmriprep	81	81	7.8087	78	96.3	0.2765	78	96.3	78	96.3	0	0.0	0	0.0
 triplets	sub-03	tsnr	81	81	7.8087	77	95.06	0.3708	77	95.06	77	95.06	0	0.0	0	0.0
 triplets	sub-03	physprep	81	0	7.8087	0			0		0		0		0	
 triplets	sub-03	ts_cneuromod2026	81	81	7.8087	78	96.3	0.2765	78	96.3	0	0.0	0	0.0	0	0.0
-triplets	sub-03	ts_schaefer1000	81	0	7.8087	0			0		0		0		0	
+triplets	sub-03	ts_schaefer1000	81	81	7.8087	78	96.3	0.2765	78	96.3	0	0.0	0	0.0	0	0.0
 triplets	sub-03	ts_voxel_mni	81	0	7.8087	0			0		0		0		0	
 triplets	sub-03	ts_voxel_native	81	0	7.8087	0			0		0		0		0	
 triplets	sub-03	complete	81	81	7.8087	77	95.06	0.3708	77	95.06	0	0.0	0	0.0	0	0.0
@@ -935,7 +935,7 @@ triplets	sub-06	fmriprep	81	81	7.8137	81	100.0	0.0	81	100.0	81	100.0	0	0.0	0	0.0
 triplets	sub-06	tsnr	81	81	7.8137	74	91.36	0.7098	74	91.36	74	91.36	0	0.0	0	0.0
 triplets	sub-06	physprep	81	0	7.8137	0			0		0		0		0	
 triplets	sub-06	ts_cneuromod2026	81	81	7.8137	81	100.0	0.0	81	100.0	0	0.0	0	0.0	0	0.0
-triplets	sub-06	ts_schaefer1000	81	0	7.8137	0			0		0		0		0	
+triplets	sub-06	ts_schaefer1000	81	81	7.8137	81	100.0	0.0	81	100.0	0	0.0	0	0.0	0	0.0
 triplets	sub-06	ts_voxel_mni	81	0	7.8137	0			0		0		0		0	
 triplets	sub-06	ts_voxel_native	81	0	7.8137	0			0		0		0		0	
 triplets	sub-06	complete	81	81	7.8137	74	91.36	0.7098	74	91.36	0	0.0	0	0.0	0	0.0

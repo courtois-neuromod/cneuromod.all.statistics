@@ -7,7 +7,7 @@ ses-001	sub-02_ses-001_task-fLoc_run-01	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-001	sub-02_ses-001_task-fLoc_run-01	fLoc	0.06415	ts_cneuromod2026	False		False	False	False	False
 ses-001	sub-02_ses-001_task-fLoc_run-01	fLoc	0.06415	ts_schaefer1000	False		False	False	False	False
 ses-001	sub-02_ses-001_task-fLoc_run-01	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	False		False	False	False	False
 ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	bold	True		True	True	False	True
 ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	fmriprep	False		False	False	False	False
@@ -16,7 +16,7 @@ ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	ts_cneuromod2026	False		False	False	False	False
 ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	ts_schaefer1000	False		False	False	False	False
 ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	False		False	False	False	False
 ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	bold	True		True	True	False	True
 ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -25,7 +25,7 @@ ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	bold	True		True	True	False	True
 ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -34,7 +34,7 @@ ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	bold	True		True	True	False	True
 ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -43,7 +43,7 @@ ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	bold	True		True	True	False	True
 ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -52,7 +52,7 @@ ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	bold	True		True	True	False	True
 ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -61,7 +61,7 @@ ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	bold	True		True	True	False	True
 ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -70,7 +70,7 @@ ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	bold	True		True	True	False	True
 ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -79,7 +79,7 @@ ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	bold	True		True	True	False	True
 ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -88,7 +88,7 @@ ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	bold	True		True	True	False	True
 ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -97,7 +97,7 @@ ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-fLoc_run-01	fLoc	0.06415	ts_voxel_native	True		True	False	False	False
 ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	bold	True		True	True	False	True
 ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	physio	NA		NA	NA	NA	NA
 ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	False
@@ -106,4 +106,4 @@ ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	physprep	NA		NA	NA	NA	NA
 ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	ts_cneuromod2026	True		True	False	False	False
 ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	ts_schaefer1000	True		True	False	False	False
 ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-fLoc_run-02	fLoc	0.06415	ts_voxel_native	True		True	False	False	False

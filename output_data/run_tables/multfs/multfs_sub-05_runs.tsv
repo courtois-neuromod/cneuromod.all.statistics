@@ -5,7 +5,7 @@ ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	fmriprep	True	MNI152NLin2
 ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	tsnr	False		False	False	False	False
 ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	physprep	NA		NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-1back_run-01	1back	0.07781	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	bold	True		False	True	False	True
@@ -14,7 +14,7 @@ ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	fmriprep	True	MNI152NLin2
 ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	tsnr	False		False	False	False	False
 ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	physprep	NA		NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-ctxdm_run-01	ctxdm	0.07616	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	bold	True		False	True	False	True
@@ -23,7 +23,7 @@ ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	fmriprep	True	MNI152NLin2
 ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	tsnr	False		False	False	False	False
 ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	physprep	NA		NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-ctxdm_run-02	ctxdm	0.07616	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	bold	True		False	True	False	True
@@ -32,7 +32,7 @@ ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	fmriprep	True	MNI152NLin2009c
 ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	tsnr	False		False	False	False	False
 ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	physprep	NA		NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-dms_run-01	dms	0.05298	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	bold	True		False	True	False	True
@@ -41,7 +41,7 @@ ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	fmriprep	True	MNI15
 ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	tsnr	False		False	False	False	False
 ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	physprep	NA		NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-01	interdms	0.08609	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	bold	True		False	True	False	True
@@ -50,7 +50,7 @@ ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	fmriprep	True	MNI15
 ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	tsnr	False		False	False	False	False
 ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	physprep	NA		NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-02	interdms	0.08609	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	bold	True		False	True	False	True
@@ -59,7 +59,7 @@ ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	fmriprep	True	MNI15
 ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	tsnr	False		False	False	False	False
 ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	physprep	NA		NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	ts_schaefer1000	True		True	False	False	False
 ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-001	sub-05_ses-001_task-interdms_run-03	interdms	0.08609	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	bold	True		False	True	False	True
@@ -68,7 +68,7 @@ ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	fmriprep	True	MNI152NLin2
 ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	tsnr	False		False	False	False	False
 ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	physprep	NA		NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-1back_run-01	1back	0.07781	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	bold	True		False	True	False	True
@@ -77,7 +77,7 @@ ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	fmriprep	True	MNI152NLin2
 ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	tsnr	False		False	False	False	False
 ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	physprep	NA		NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-ctxdm_run-01	ctxdm	0.07616	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	bold	True		False	True	False	True
@@ -86,7 +86,7 @@ ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	fmriprep	True	MNI152NLin2
 ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	tsnr	False		False	False	False	False
 ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	physprep	NA		NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-ctxdm_run-02	ctxdm	0.07616	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	bold	True		False	True	False	True
@@ -95,7 +95,7 @@ ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	fmriprep	True	MNI152NLin2009c
 ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	tsnr	False		False	False	False	False
 ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	physprep	NA		NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-dms_run-01	dms	0.05298	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	bold	True		False	True	False	True
@@ -104,7 +104,7 @@ ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	fmriprep	True	MNI15
 ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	tsnr	False		False	False	False	False
 ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	physprep	NA		NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-01	interdms	0.08609	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	bold	True		False	True	False	True
@@ -113,7 +113,7 @@ ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	fmriprep	True	MNI15
 ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	tsnr	False		False	False	False	False
 ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	physprep	NA		NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-02	interdms	0.08609	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	bold	True		False	True	False	True
@@ -122,6 +122,6 @@ ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	fmriprep	True	MNI15
 ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	tsnr	False		False	False	False	False
 ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	physprep	NA		NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	ts_schaefer1000	NA	h5 not indexed	NA	NA	NA	NA
+ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	ts_schaefer1000	True		True	False	False	False
 ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
 ses-002	sub-05_ses-002_task-interdms_run-03	interdms	0.08609	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
