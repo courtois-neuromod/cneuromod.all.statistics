@@ -1,5 +1,5 @@
 {
-  "command": "/home/pbellec/git/cneuromod.all.statistics/.venv/bin/invoke run",
+  "command": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics/.venv/bin/invoke run --force",
   "environment": {
     "lockfiles": {
       "requirements.txt": "803fc2212872c07da30b749ac8629754b393d2d8a2334419e712b5a3f384c360",
@@ -18,8 +18,8 @@
       "requests": "2.33.1",
       "s3fs": "2026.9.0"
     },
-    "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
-    "python": "3.14.0"
+    "platform": "Linux-7.0.0-1017-azure-x86_64-with-glibc2.39",
+    "python": "3.12.15"
   },
   "inputs": {
     "assets": {
@@ -54,16 +54,16 @@
       "size_bytes": 34588
     },
     "completeness_summary.tsv": {
-      "sha256": "1a1159a7cb4b8b0cf233cb0de05547ed729add88c0ddb94209a2d3d7c8463a31",
-      "size_bytes": 60082
+      "sha256": "fdb5d2a81bc4378c4674e5e3cddfaec19a35c1f30999fdc9a7855866ef04c479",
+      "size_bytes": 58822
     },
     "figure_cneuromod_comparison_per_subject.png": {
-      "sha256": "0f78f8849cf0d917f5fdd2bcc1e96d1a41d17a60114c9b425148803c30e26818",
-      "size_bytes": 447656
+      "sha256": "947ce05fb8f4d963b7b87c645c9427fed2887c5e7e9223b0f7786e1bbb7be187",
+      "size_bytes": 447567
     },
     "figure_cneuromod_comparison_total.png": {
-      "sha256": "5f2e63b5b7075f98e845b51ad9724f167b678d22b47b2070dc5254cb50b8609f",
-      "size_bytes": 494228
+      "sha256": "e751f2f75c5403b5c2f6689829795651c485f37011b4138366ce9daa1f0e340e",
+      "size_bytes": 494093
     },
     "figure_fmri_hours_min_avg_max.png": {
       "sha256": "4cda0253c57b1b22aefad0c57abbaf799f0b63d59cf728dc03be345bd508f1a6",
@@ -122,484 +122,484 @@
       "size_bytes": 5942
     },
     "physio_crosscheck.tsv": {
-      "sha256": "4c1113871d06ae800a32d3f9f196074ba5c84a275ef0b16c3de904cdd7222bbd",
-      "size_bytes": 512
+      "sha256": "201979b4893eedb1f1b587ecfdd08382855babf53de29dbd4fd5e7d416aa5ff3",
+      "size_bytes": 373
     },
     "physio_runs.tsv": {
-      "sha256": "6f94cb3cdd26b621ae9e4f7f786f2f6ee86df9b4f9d44fc89dede7186c2b68d7",
-      "size_bytes": 305196
+      "sha256": "6c17a4f6a19f2e427f3ab06d645c45c2869af9646eb7eaf94d1814b586591439",
+      "size_bytes": 229751
     },
     "physio_stats.tsv": {
-      "sha256": "364fc3115cd0e4276912c8079119b7b3b621a061aeed2bbb8804ed8ad17764e4",
-      "size_bytes": 873
+      "sha256": "216a69f0517a90457035776532712b38d0f0eb06c84040ace1ebb184a7e42801",
+      "size_bytes": 418
     },
     "physio_stats_per_subject.tsv": {
-      "sha256": "63d7455929fd44afb063cf57abe03175c8512703b35480256691b03714648d7e",
-      "size_bytes": 3366
+      "sha256": "b21963578386b6cae228ab55dd35ff530fe40adf3de12a73276d454a4c3b6c09",
+      "size_bytes": 1502
     },
     "release_dashboard.html": {
-      "sha256": "eaefc362cba7e7f53a895e88e5ab03d7c99d0d61f2ca91c8ff0dd84ed6d456d0",
-      "size_bytes": 271975
+      "sha256": "88ed615f0a3e99f6de9b38d6ec48e353860c1e6e05c67d0744964367efb57aae",
+      "size_bytes": 297779
     },
     "release_dashboard_data/emotion-videos.json": {
-      "sha256": "fd507c385323f1a7ea71d21fa4cae9abe690e2b5678f5acfb714a3249ad1c854",
-      "size_bytes": 43214
+      "sha256": "1028442341af08aee729353b54dd126eb1acac708d1fd28a0b5d9f3866d4619c",
+      "size_bytes": 33779
     },
     "release_dashboard_data/floc.json": {
-      "sha256": "e3d3013906bf49548d4f45243827b643e66a43b6eb5f37fb534957d6db29c55d",
-      "size_bytes": 14581
+      "sha256": "1d92df432ea0a6f973a407478f7c32b2135f5db338950bb9399a879f59185e44",
+      "size_bytes": 6229
     },
     "release_dashboard_data/friends.json": {
-      "sha256": "78db7f51fc35988feb23aa4692a6c0f703061375d6872432093a7e20035ec9e3",
-      "size_bytes": 1299735
+      "sha256": "d3c4561f976a330018aa0438569e0a04232e368773b5d380343e923c65c572d6",
+      "size_bytes": 481646
     },
     "release_dashboard_data/gamepad.json": {
-      "sha256": "13a61fc0f95b684174051355edbf51b96a782d7e966e2b9b9ca93ae80d014ab9",
-      "size_bytes": 12227
+      "sha256": "cf8b8b100bcc042d276c9ecb2154e5d8e1618dae20ddf5c060afa4495c1f459d",
+      "size_bytes": 6297
     },
     "release_dashboard_data/harrypotter.json": {
-      "sha256": "f61aea77664398084f62ca528db80506337882ec6ae2c77517484f77d3c6b67f",
-      "size_bytes": 19744
+      "sha256": "6aa788b18dfbddf2f5f8c737cd56454366a9a34e61010bb349d4bbc4d64080fb",
+      "size_bytes": 8999
     },
     "release_dashboard_data/hcptrt.json": {
-      "sha256": "3e4b80480d45fb24947ba71bf1fee3c58d260e50e7278280782bea0d8df0d7ad",
-      "size_bytes": 310499
+      "sha256": "6ff00d5107b211968723f58874d02c4e5155e3dc2bb5e60335d66bbaaa8bf3e9",
+      "size_bytes": 119177
     },
     "release_dashboard_data/langlocalizer.json": {
-      "sha256": "8ec5d75d76094380983ef90e9ae0737b95962626ad48f98360d7d3a9466f6755",
-      "size_bytes": 16861
+      "sha256": "d9a533843796f79951ca1d9c360b0d3d84dd3dfd3b20f2b96913678d65942175",
+      "size_bytes": 8269
     },
     "release_dashboard_data/mario.json": {
-      "sha256": "3c026c0de541cf25c94fa33f69c6e79f2f828c6e7ad42919743918edf9c31cc6",
-      "size_bytes": 345620
+      "sha256": "882159d979e044ad06e189a9c8a0056acc74a314285c3b3d59f4d87dcdcafff2",
+      "size_bytes": 127290
     },
     "release_dashboard_data/mario3.json": {
-      "sha256": "b52bdeead61ac17bb090bef780c138e3e2dd7b5cc3ebde828fb2e245e511e5d7",
-      "size_bytes": 78669
+      "sha256": "5a2cadeb4157097bfc2128a7d93a93c55ebc43799347046647347ee3438e5826",
+      "size_bytes": 60033
     },
     "release_dashboard_data/mariostars.json": {
-      "sha256": "cf607654bd65bc419058338ca4aed4daeac888d30da7efe2c6119250faf585a6",
-      "size_bytes": 47227
+      "sha256": "1d69d5671c72202075ddcb2de45e9d996144e87fb896e50f6e110efdf1007ce0",
+      "size_bytes": 35397
     },
     "release_dashboard_data/movie10.json": {
-      "sha256": "d2d7ff5df529b255ee5e98a23ed2d523319a170da851d0650056cee608618b07",
-      "size_bytes": 257729
+      "sha256": "fc0334b269576ee12a89fafed8f16be4fdd2257ae8d0ddef37b58d763b8096eb",
+      "size_bytes": 98464
     },
     "release_dashboard_data/multfs.json": {
-      "sha256": "0088d694e7bca068911d4587422a7128d911b222bb0d939cfce146daf4d526d3",
-      "size_bytes": 110555
+      "sha256": "4d0e30bac24a0e86711fdcc2a2a14af681094b4b38b6b6437cc7591c40fdfa78",
+      "size_bytes": 57425
     },
     "release_dashboard_data/mutemusic.json": {
-      "sha256": "50ad83e6a40cba47bc479e82621b47884695e67f187c990d575e4053f0962057",
-      "size_bytes": 33618
+      "sha256": "ff1297a6a6dfa3441a95810dc4f11b8b6334241cf566e5d7e6b575f451d6f6da",
+      "size_bytes": 17385
     },
     "release_dashboard_data/narratives.json": {
-      "sha256": "6cc74d66fea8547ed2b9b2fde6899e9392aac0443ad180ce9984db650e4c4c4b",
-      "size_bytes": 141955
+      "sha256": "4e81dfb021ef24cb4c27b36bbf18a27b1311ef8ef23ff5897ea2b55ade456982",
+      "size_bytes": 76779
     },
     "release_dashboard_data/ood.json": {
-      "sha256": "ec6f4bcf033d7aa9312f4fb4bb2f728dc8afae9905fbc726085ff8c56efe7ac9",
-      "size_bytes": 10717
+      "sha256": "7ca373dccfbbc8bb25046471ee695315b69200ced6427208d2ebe9df0cb8e310",
+      "size_bytes": 8653
     },
     "release_dashboard_data/petit-prince.json": {
-      "sha256": "f6d7b5070da4fb0b43fb2223de546d2d39dd0c3f078cac7a045bd55e132dc958",
-      "size_bytes": 39669
+      "sha256": "b6ab3f4df86c622e0b0b5130192f1dd9ba8206715bca8001794f5bb6a13e44ed",
+      "size_bytes": 15401
     },
     "release_dashboard_data/retinotopy.json": {
-      "sha256": "8e9e93511467f955a0e143c05cd1b06d2bfb7bd22fa9b7fdca66fd029450f028",
-      "size_bytes": 28901
+      "sha256": "c8bda31a66ef82dbc646cd59411f95e3a3b15a9e8f3d2a86050561ee4113b979",
+      "size_bytes": 10833
     },
     "release_dashboard_data/shinobi.json": {
-      "sha256": "55b4033fc10d9b7eb70468429f13c1065bf566d308114f8fb1bcf34e64f03125",
-      "size_bytes": 137335
+      "sha256": "9ca496ab1f2c938c5c85436ebea5af3b3fd91b372b7056d264f64be69b581445",
+      "size_bytes": 59177
     },
     "release_dashboard_data/things.json": {
-      "sha256": "3275e587932675b6edd3543097d00331f3672f1251a6c3664d3dd4ad081d492e",
-      "size_bytes": 380278
+      "sha256": "d6a1c41cef6e1c92b59c7e89e36282f0c34b77d7f24191e99dbe51c5df983311",
+      "size_bytes": 145225
     },
     "release_dashboard_data/triplets.json": {
-      "sha256": "e0611cca34bf52410dc46aad618916006f569b68a466ca1155d3415350bf3256",
-      "size_bytes": 126097
+      "sha256": "b185e682ffa61fbf74150fb475bd76aad84824640703d3a98a53686bccbd2cc3",
+      "size_bytes": 66133
     },
     "run_tables/emotion-videos/emotion-videos_sub-01_runs.tsv": {
-      "sha256": "f79fc3054e557d39f237c59e1ca08b57acc967dfb5514b41ef22ac5d8cf70fc8",
-      "size_bytes": 26719
+      "sha256": "bc956cb72d9789035641223160124b9671959340e3190df085901ceff5de431c",
+      "size_bytes": 28915
     },
     "run_tables/emotion-videos/emotion-videos_sub-02_runs.tsv": {
-      "sha256": "8cdd6085c7a33ba09a34be478dbc49b82d369c09b4cd6bcc11ab333592f783cb",
-      "size_bytes": 26719
+      "sha256": "c33762ee8a48e4cc72aad2a2bab6c1a0dd55b0cad90ab27529ad9ab61082c05a",
+      "size_bytes": 28915
     },
     "run_tables/emotion-videos/emotion-videos_sub-03_runs.tsv": {
-      "sha256": "e71bedc2591b055be944475f66e195d0cf0d69ea9923cdb1b7e104b0cc969ed2",
-      "size_bytes": 28939
+      "sha256": "dba98dbfc257cbb8d47f07f1e275eb2e85e848ca58d297ed81676ed6109b38b4",
+      "size_bytes": 31318
     },
     "run_tables/emotion-videos/emotion-videos_sub-05_runs.tsv": {
-      "sha256": "c08871daecfcf809a810be3b7542de364cf1c6a95f4a70cee997f7583d241d86",
-      "size_bytes": 28199
+      "sha256": "0d6a12dd88e4a8b384f7900835ef8b0eb414355ceee5e2553798a94ef1206a5c",
+      "size_bytes": 30517
     },
     "run_tables/emotion-videos/emotion-videos_sub-06_runs.tsv": {
-      "sha256": "16107bb5ac59ef7595f6df50b5c7aeb26e26e4875c781d9f679f236f436626ae",
-      "size_bytes": 26719
+      "sha256": "6135bf9a623ee1a739d67c27ddabf3c1aafe4fdf2e28d976ac208809911716a6",
+      "size_bytes": 28915
     },
     "run_tables/floc/floc_sub-01_runs.tsv": {
-      "sha256": "491afeafa639fc16d341c5d9e575683c26422c6c725b2c5e5f8a8f43e4dc3cde",
-      "size_bytes": 9019
+      "sha256": "a43f7eeda09112c07f6b97d525e32c4c02d5fb0e1287e651b341492f41654c00",
+      "size_bytes": 9043
     },
     "run_tables/floc/floc_sub-02_runs.tsv": {
-      "sha256": "2ff861d41ba8df80e1ea65e50028d2de8f1a51dc07d5ff402cd8d7b1427f5965",
-      "size_bytes": 8975
+      "sha256": "5b6c4e2d50b0d43fc75a6e8073131572c818adf2446a48668afe462ac980a002",
+      "size_bytes": 9043
     },
     "run_tables/floc/floc_sub-03_runs.tsv": {
-      "sha256": "bda7749749b358d8c070e2486b2921deb79417d20af49dbf7bca3132739cc413",
-      "size_bytes": 8975
+      "sha256": "a29b8b372059c899721658fd63331628ace9222bd4e7bf3e8730a62578a1fe19",
+      "size_bytes": 9043
     },
     "run_tables/friends/friends_sub-01_runs.tsv": {
-      "sha256": "a670982c9a4c57b8979530f3940288c4a4f42b2532b03e9e315e248bd6c4c8ba",
-      "size_bytes": 272210
+      "sha256": "f34ef2940e4b60adf6c937c04440beb48f8e06f82659f6688ad7c612531fda11",
+      "size_bytes": 256270
     },
     "run_tables/friends/friends_sub-02_runs.tsv": {
-      "sha256": "606b62e9888d7aa4e15d84315f7f99ac5611eae2c2b05129494a44ee48dedd92",
-      "size_bytes": 272157
+      "sha256": "a69ab4a9a307245825869bfd93a543fb7aed5b53d59d1b698714ee701de70d37",
+      "size_bytes": 256271
     },
     "run_tables/friends/friends_sub-03_runs.tsv": {
-      "sha256": "2b18540b463b2aeb5e1fe2f0dad1d7c6b84767d5fef2f675c967a70d5662198f",
-      "size_bytes": 271496
+      "sha256": "d13eac59b2a0f09cbef7bdcdd82ae544ed2408d713de9e612377db70c9bc181f",
+      "size_bytes": 255525
     },
     "run_tables/friends/friends_sub-04_runs.tsv": {
-      "sha256": "af6a96db9033c003fea94b5b6e3efdbac218b57b0d8158dd4638d5d0dda50ccc",
-      "size_bytes": 160364
+      "sha256": "2018e6cc63f3fc83e3b5bb1d5277b1771263fced552118f54f8eac57d116d0a4",
+      "size_bytes": 148787
     },
     "run_tables/friends/friends_sub-05_runs.tsv": {
-      "sha256": "246d32ef2d4cfdac5f6daa26e22119d5916ab3fccb8c7b7121e8cdcb217fdf33",
-      "size_bytes": 268355
+      "sha256": "b06c6aa7eebf362be5a3597fbee44e418562d5a7f0e196f42411f6ede14f2c37",
+      "size_bytes": 252527
     },
     "run_tables/friends/friends_sub-06_runs.tsv": {
-      "sha256": "467919cd9b63acc825f0d5ee6f6c1d965a25bed689c20245e6e99a51c9c81d74",
-      "size_bytes": 273060
+      "sha256": "d1123c7f4a76bb1bc11d795f0379020fc55219656bb1d0a425319bbe035607e8",
+      "size_bytes": 257016
     },
     "run_tables/gamepad/gamepad_sub-01_runs.tsv": {
-      "sha256": "63ae7f0ae3c9804d0c8f856bcfbae5a35c569503eef6446bf14a2ff9c379d95e",
-      "size_bytes": 8011
+      "sha256": "86240dbf9d1196a9dae2f68328f8f9d23770957034d05d140e02859599bb01ef",
+      "size_bytes": 8089
     },
     "run_tables/gamepad/gamepad_sub-02_runs.tsv": {
-      "sha256": "448d5000284d87db0a076cab82c06053c37078af70807c2d526cfa1554bce08f",
-      "size_bytes": 6423
+      "sha256": "e33b6af3fc0c0581a4eefa02a5b964ab06f6d632328037fced8a436c34a8fd42",
+      "size_bytes": 6487
     },
     "run_tables/gamepad/gamepad_sub-03_runs.tsv": {
-      "sha256": "6f8b16dd253d4e6858312397a91046b80a8833b062d468d3ca566851d7db8a16",
-      "size_bytes": 6423
+      "sha256": "3c988d80064a3d13d758cc679949392b8bc7a35bc2c6422fba91a313b61639e6",
+      "size_bytes": 6487
     },
     "run_tables/gamepad/gamepad_sub-06_runs.tsv": {
-      "sha256": "da9f79c01a677410f7502709f59bdf948e8604185e459ef11106c0ccca157365",
-      "size_bytes": 6423
+      "sha256": "6740e36bc0b2da2a7568899194349fdf37a5f9c299a63afc1716a1000976096b",
+      "size_bytes": 6487
     },
     "run_tables/harrypotter/harrypotter_sub-01_runs.tsv": {
-      "sha256": "7e5270ac132af2775c440ca4b50dd90802adedaa923c99a255b7eed3fc32f47d",
-      "size_bytes": 5742
+      "sha256": "1666a60d9ca3f7b11f283827747c9e42c5a1e7391ef691114664b4e8f453d022",
+      "size_bytes": 5343
     },
     "run_tables/harrypotter/harrypotter_sub-02_runs.tsv": {
-      "sha256": "a6a2dd76fccbb19300c688353364156261742734061e46360089729f18596997",
-      "size_bytes": 5742
+      "sha256": "9f9b163065c41baec6de8e20757cf667d433c81161757ce470944d48ae9ab53e",
+      "size_bytes": 5343
     },
     "run_tables/harrypotter/harrypotter_sub-03_runs.tsv": {
-      "sha256": "9ebe79084984e5e6d8c6999484d3192772c58f36b6d5516d4c4ef8577afd0007",
-      "size_bytes": 5742
+      "sha256": "98872bed69b02b35dc6e1d3d58dea574c42ed1f1eee5ceb897237e006051fdec",
+      "size_bytes": 5343
     },
     "run_tables/harrypotter/harrypotter_sub-05_runs.tsv": {
-      "sha256": "a193929b0e67c26181b747cbb7eb4f079d9409e1c14bf93a862af291f2258beb",
-      "size_bytes": 5742
+      "sha256": "5ed3da5634b441aa4ae976c0e0e1467f3fbb13c640e9217de7af13cf7bf9fcdb",
+      "size_bytes": 5343
     },
     "run_tables/harrypotter/harrypotter_sub-06_runs.tsv": {
-      "sha256": "1e3e13f9de5069d355d13fdd7c1bff4d844b66eb90ef1410d6c4fab74dea1716",
-      "size_bytes": 5742
+      "sha256": "5b71fee53d31c6178b8b11de9b9cf00b3f2c97e485e6ac088a58f65449cda971",
+      "size_bytes": 5343
     },
     "run_tables/hcptrt/hcptrt_sub-01_runs.tsv": {
-      "sha256": "1bab33c04d2ffdc3eb7a74d5560b18d3818c7f58c2e52b1dccfbe0e181f18891",
-      "size_bytes": 84220
+      "sha256": "eff9c57f3da5e89c930be8297eb7844eb4d1db17125b8c1b9f34518b469e4680",
+      "size_bytes": 85228
     },
     "run_tables/hcptrt/hcptrt_sub-02_runs.tsv": {
-      "sha256": "7acc1da002d164cf34443db14913062c3c9b5d4fa5feb9795c85af532164c255",
-      "size_bytes": 86649
+      "sha256": "fafb31065463e9631c34798541855109e244ebfb721a5c12cdb0ddf84cac2ebf",
+      "size_bytes": 87694
     },
     "run_tables/hcptrt/hcptrt_sub-03_runs.tsv": {
-      "sha256": "e3846f95e4b44b9d88af37d30d2e075e6b5e845798db0a955f5a62b936892651",
-      "size_bytes": 86649
+      "sha256": "eb9d5245d35f414daf7be15d75d7e484693070d1c99370a8582bdb5758932368",
+      "size_bytes": 87694
     },
     "run_tables/hcptrt/hcptrt_sub-04_runs.tsv": {
-      "sha256": "9062a89e55e9f4cfafd6cd2e87463584daf7e2a81acdf202bc454ec0f4db3457",
-      "size_bytes": 81374
+      "sha256": "501a5674da0edbcb679581a57604af5d5a2c98eb03502797d4a1914030b6edc4",
+      "size_bytes": 82150
     },
     "run_tables/hcptrt/hcptrt_sub-05_runs.tsv": {
-      "sha256": "d2b1f1975a6ce7fd6ecfb94dd8e0070f5f1e16974bf9965b7ffb3622c58a95db",
-      "size_bytes": 80297
+      "sha256": "5e2ce8b1533fcb3d051816605b0775262d4897a606dd37961bc7b4db5ce2fe89",
+      "size_bytes": 81259
     },
     "run_tables/hcptrt/hcptrt_sub-06_runs.tsv": {
-      "sha256": "cf95fa3cdc660a2f23f33e4e7330f4b118d20b851baec5ff550ffda49754d697",
-      "size_bytes": 99217
+      "sha256": "03b056902996af77abf63c1bcac8bb0c7ed3ce9b5f65163f257c6454afaf4ae7",
+      "size_bytes": 100411
     },
     "run_tables/index.tsv": {
-      "sha256": "874ee6cc19832a8f7c5785571628363b556049baf2b14f25906a99e14a50a563",
-      "size_bytes": 6162
+      "sha256": "3e97b89e65bd7ba90e784ca5f53a9a1c265f0f276f8065fc9dc5fbcae138fcc9",
+      "size_bytes": 6174
     },
     "run_tables/langlocalizer/langlocalizer_sub-01_runs.tsv": {
-      "sha256": "45ddb8932f5289d61b04a6ad1d17c997bdcc1e774afc0139ebc82b79d55658f3",
-      "size_bytes": 9007
+      "sha256": "bcd87e79df97c05555eb0c356901cdae2125cb0bc4898fa657511abe06893a79",
+      "size_bytes": 9043
     },
     "run_tables/langlocalizer/langlocalizer_sub-02_runs.tsv": {
-      "sha256": "d964f80ce84f0118c7da5e43ed2e1d99a384f9365e73d9b71ce07f7bf2ebb3dc",
-      "size_bytes": 9007
+      "sha256": "ec690985365dde871b2f61607a1054aeeb7969c40f0cc8c90de8aaff30a7d685",
+      "size_bytes": 9043
     },
     "run_tables/langlocalizer/langlocalizer_sub-03_runs.tsv": {
-      "sha256": "46fa52273ce6e220ce72171e598666b6a025004f25a7376e7914734a9b44c73b",
-      "size_bytes": 9007
+      "sha256": "0b38497c054b94bf6290ec9e0a0791f08bfb7088a64b6790cda88b43b642b10e",
+      "size_bytes": 9043
     },
     "run_tables/langlocalizer/langlocalizer_sub-05_runs.tsv": {
-      "sha256": "1e75bfc36c69722c4f293bcd95bb12630955a202cfa637747bc3cbbea2a03da9",
-      "size_bytes": 9007
+      "sha256": "5267aadbc6aa98362f36284de4dd57491ed9096476169157088995e084e26763",
+      "size_bytes": 9043
     },
     "run_tables/mario/mario_sub-01_runs.tsv": {
-      "sha256": "4289ed90176a0d9119183531234566b87295a0cc40d77680283c576ab4c40196",
-      "size_bytes": 69955
+      "sha256": "ee3228e3c51c21eac2ba35bb23f38dbdf0c2706ae666c4b65da24ba94905d49e",
+      "size_bytes": 65479
     },
     "run_tables/mario/mario_sub-02_runs.tsv": {
-      "sha256": "1a8b38981fe8103661b5ba80ae586c072119b15bec08aa5b5b747e1a6feaaf02",
-      "size_bytes": 85013
+      "sha256": "6b5ab56c77bf5a55740bb062faa4ce12c442b6ea8a49d4db9385595a94eaa90e",
+      "size_bytes": 79501
     },
     "run_tables/mario/mario_sub-03_runs.tsv": {
-      "sha256": "9fb2c4a6e0688caf8799187f87e7d74a84ddde46ba2cd23bf8225cbccb06381b",
-      "size_bytes": 79962
+      "sha256": "4b2aaa7eb6aafac41b96ce907f16fa18ac3380f65bfdc85005f8a4de6bc1d1bc",
+      "size_bytes": 74782
     },
     "run_tables/mario/mario_sub-05_runs.tsv": {
-      "sha256": "c94d1054699bc77116531c1bcbbad2290508b0f292e26792800f4515e3711339",
-      "size_bytes": 82740
+      "sha256": "d6094d309e97228baf35417a3948b28a7f15d9dbbef2ab354995b2a3743e59a8",
+      "size_bytes": 77903
     },
     "run_tables/mario/mario_sub-06_runs.tsv": {
-      "sha256": "ad1b5f4a52706d60d981a3e7c94f6cae9660ab22b46b1a7cadaeaee4b7c2b647",
-      "size_bytes": 84957
+      "sha256": "c679a1e9c85a34b404211c547bfc191900550cf3c5b6643cdd7c694937fe8975",
+      "size_bytes": 79438
     },
     "run_tables/mario3/mario3_sub-01_runs.tsv": {
-      "sha256": "d8b0ce82899ddcb97e05837023be3aba26562277927372d6e050e7036ace981a",
-      "size_bytes": 53750
+      "sha256": "1f1412d5a6190ed0e53a3ad3c00f910e134a55f07cfed55a4edcf16c66d458d8",
+      "size_bytes": 54016
     },
     "run_tables/mario3/mario3_sub-02_runs.tsv": {
-      "sha256": "d2b3aac97b99b57ce9250d8a9afb724f86c412f25c0fdcd4fb9f25937f126de4",
-      "size_bytes": 57767
+      "sha256": "45c22e786995c13d3f4964d1fd4a6f2bb1362b9c757443f678ba7b95aae46e39",
+      "size_bytes": 57985
     },
     "run_tables/mario3/mario3_sub-03_runs.tsv": {
-      "sha256": "1080e0d3ad51387802fb64d5aa0ea772e26196c90512a23ac6eea22e47acbc47",
-      "size_bytes": 56906
+      "sha256": "cfa9cf7ab67b98d78c649ecfba43fe72ed2e6a4397db038a70eea52ce6f21094",
+      "size_bytes": 57193
     },
     "run_tables/mario3/mario3_sub-05_runs.tsv": {
-      "sha256": "47d2c448035d9c6c4efd2e3eb9a87160707a5dc596b47fc5257e861929c7ac4d",
-      "size_bytes": 50682
+      "sha256": "68a201272c19e1c021e18eee1537339c96c6cef3e02095d009f825bb18d5dd7d",
+      "size_bytes": 50938
     },
     "run_tables/mario3/mario3_sub-06_runs.tsv": {
-      "sha256": "7b34a6f069d432aee7005047d3a436908fcad8f98ad245ad647a76a2206f7917",
-      "size_bytes": 43695
+      "sha256": "2efc43dd241d8f193c5a04a35ad36efb4396c98a2414c5d1d9ff549c07b16fe8",
+      "size_bytes": 43855
     },
     "run_tables/mariostars/mariostars_sub-01_runs.tsv": {
-      "sha256": "0d076410c05226b8c093645278c8690471a752dda9a5a216cf767723c93ea48d",
-      "size_bytes": 22797
+      "sha256": "7e1a92fdf6f05790605999d2b6819fa3c82a6ed3a8787231e6a17289d848386a",
+      "size_bytes": 23146
     },
     "run_tables/mariostars/mariostars_sub-02_runs.tsv": {
-      "sha256": "951239533dcca405326b7c1001bb2c736a3681d10d984221cffdba8de2e953fc",
-      "size_bytes": 27047
+      "sha256": "302cd459a9e316681f8f6c606ec07fc298012438aa85f22c2cd3aa80bf67fded",
+      "size_bytes": 27430
     },
     "run_tables/mariostars/mariostars_sub-03_runs.tsv": {
-      "sha256": "1fbb82e219e1398a79243eb89d95bd1cbebe1a06d9c33e2d16188d646a85a369",
-      "size_bytes": 30383
+      "sha256": "7048c50e3199b03bf3c3ae3c7ac00e96120bf89608767883f60f80bb8079eb9f",
+      "size_bytes": 30850
     },
     "run_tables/mariostars/mariostars_sub-05_runs.tsv": {
-      "sha256": "12344dcb32454c825cc73819ab998f7eb043d940fcf6242e530dec4c560c1542",
-      "size_bytes": 34585
+      "sha256": "21d51bb7973f20302c5c078ec6db16d245113c0652ff289d3f4d2420ffb29f20",
+      "size_bytes": 35116
     },
     "run_tables/mariostars/mariostars_sub-06_runs.tsv": {
-      "sha256": "536d07277b76be55b1bab6198f6e63a9b9c788f8e8030781463758620ee91cc2",
-      "size_bytes": 38825
+      "sha256": "6749ecf92fdf5f1c2804eadc081053c21143a43c5d71878de7c9a99b36154eab",
+      "size_bytes": 39373
     },
     "run_tables/movie10/movie10_sub-01_runs.tsv": {
-      "sha256": "54388803d84fe46f9cdd8875072e2732b0213283536040592ef57579afa2f181",
-      "size_bytes": 51741
+      "sha256": "413f9d8f761ebc49abc784f7baf1cfd856b5229b35e20ece7d294d4c19aed559",
+      "size_bytes": 48653
     },
     "run_tables/movie10/movie10_sub-02_runs.tsv": {
-      "sha256": "353f685c320e36b1242d3f9a20e3c635b547d5cb805e7aaf126345f19dcce89e",
-      "size_bytes": 51796
+      "sha256": "302de03d6537f73da1d848bfd2746445be06bb549ac0d9ae7ee2f13a295b6f28",
+      "size_bytes": 48651
     },
     "run_tables/movie10/movie10_sub-03_runs.tsv": {
-      "sha256": "4b9e2a2f698f2d4aad71c38369949e5e4d4d28ccbbe32103f445ee2fe10fa844",
-      "size_bytes": 51783
+      "sha256": "c89c3b59f748cd2a184287a4d4bae16bb6b63239fa3df04121cfc8b903f63798",
+      "size_bytes": 48651
     },
     "run_tables/movie10/movie10_sub-04_runs.tsv": {
-      "sha256": "44f664603fbf9afa88176cb3a47db1be41cf3a2e52e906e3c995278962e542cc",
-      "size_bytes": 52037
+      "sha256": "0926b2b15c66e7314044ee997c234cd19165bae544d037c9c38d8bac2e984958",
+      "size_bytes": 48642
     },
     "run_tables/movie10/movie10_sub-05_runs.tsv": {
-      "sha256": "c41ba9d957333c8eb2016724c6139e2428dae7b925da81f6b01d0fb4726ded84",
-      "size_bytes": 51478
+      "sha256": "353d3a4c697844314f91109ae83e0d5c8fde2d23e2947157a63a0ca41a899450",
+      "size_bytes": 48660
     },
     "run_tables/movie10/movie10_sub-06_runs.tsv": {
-      "sha256": "1e1e40a24acec1045bcdd12c810ed0f19dd5be427a6763082e6f25918c24d76d",
-      "size_bytes": 51811
+      "sha256": "36fc7f69033a031aa9d8f50bab35bea6191bbda518135ecb45fbbc159c9b854e",
+      "size_bytes": 48634
     },
     "run_tables/multfs/multfs_sub-01_runs.tsv": {
-      "sha256": "97f3e6e3eb574e74e4e577f4db998d3eaa68955707cac9613aa7bee0404517f8",
-      "size_bytes": 21863
+      "sha256": "24c0db0a447185f05e709117ea2cc7b7b0618d08f95e56c5de53b6de41632cf5",
+      "size_bytes": 22003
     },
     "run_tables/multfs/multfs_sub-02_runs.tsv": {
-      "sha256": "929fd297064b0fc256fdbb5613f8846022f88f66b90881a509b7f8279797cbec",
-      "size_bytes": 49093
+      "sha256": "1cf445069f85e66100c76276f45ce8263e6cd20b2af76cec73d3ba965c2c9a1d",
+      "size_bytes": 49408
     },
     "run_tables/multfs/multfs_sub-03_runs.tsv": {
-      "sha256": "c9dbe156b8a149364b26d7dbe219e86afdec42a0004424d2926a777b15b7bebf",
-      "size_bytes": 87215
+      "sha256": "a1979ec5e8b81a7615913147b2d6d42306e80ab2116877852de6b3f71076fa1a",
+      "size_bytes": 87775
     },
     "run_tables/multfs/multfs_sub-05_runs.tsv": {
-      "sha256": "bb65a2b2c6888a57b4fa29c92e7881a7ba5abd725352512b1356c55c8bcc00a2",
-      "size_bytes": 10971
+      "sha256": "a0720a39df9ad9f9a28ff1fd25673c2dddd41141903d45195cee98fcc125bb2c",
+      "size_bytes": 11041
     },
     "run_tables/multfs/multfs_sub-06_runs.tsv": {
-      "sha256": "0c81b68c104c3b61f4414f1a305591ea8f9451ee65a11052b380599aa0adace7",
-      "size_bytes": 81769
+      "sha256": "be7ff6707aba0d59ba60003c7f33beda1242999e2edecda62f977c409bd7fccc",
+      "size_bytes": 82294
     },
     "run_tables/mutemusic/mutemusic_sub-01_runs.tsv": {
-      "sha256": "990dd2293e9905e89190dc4e6dfbe4a779cc0ec39cdf13139ee6a0273396f039",
-      "size_bytes": 14907
+      "sha256": "7918f11bc421f42f10556e704a40af87446a61d285a6714beefc13b7936d69b2",
+      "size_bytes": 15118
     },
     "run_tables/mutemusic/mutemusic_sub-02_runs.tsv": {
-      "sha256": "5ca58ca333712395b7adc06fbe5f7dd12948e81e22f09eecfd0b3ff1a1ca3ac1",
-      "size_bytes": 14929
+      "sha256": "46c568834ff3a956f13919d6f0e320da99486265a8b99f5455f84089c360744f",
+      "size_bytes": 15145
     },
     "run_tables/mutemusic/mutemusic_sub-03_runs.tsv": {
-      "sha256": "4f75f2f36e267fba3342e848fd101a4d7953c44415864a924863d4379fb12f89",
-      "size_bytes": 14915
+      "sha256": "099a94180c8d30d68f94e54acaa4232550137ec84796728425c3399926fa6f66",
+      "size_bytes": 15127
     },
     "run_tables/mutemusic/mutemusic_sub-05_runs.tsv": {
-      "sha256": "71be7c30783de8fd29924a63f2f0731866635f6782771082c707da5d7714f680",
-      "size_bytes": 15752
+      "sha256": "2fab8088c68ef27d04df0effe9db5942d32e2eb6649cca67741ad19ae77b4f71",
+      "size_bytes": 15973
     },
     "run_tables/mutemusic/mutemusic_sub-06_runs.tsv": {
-      "sha256": "342d3b34dcaab1069b0dc88c06dda7c8cc33063d009d4180a32be94d652ae746",
-      "size_bytes": 14925
+      "sha256": "baaa440e22ff6e9a99656caa092d4f7d95464c16b1595b7a01eb9f82f4c75d52",
+      "size_bytes": 15136
     },
     "run_tables/narratives/narratives_sub-01_runs.tsv": {
-      "sha256": "d545f6e96eb091c0691eddbd79d7849ff0087ab35875b6fb00af51faaee5f288",
-      "size_bytes": 66825
+      "sha256": "aad68fc991dc6cfb84e426eee3e218b63d430a1b589962add282c709190fc525",
+      "size_bytes": 67885
     },
     "run_tables/narratives/narratives_sub-02_runs.tsv": {
-      "sha256": "4fbda73c5b6b923a3e78385ae518a80e9fb80dc56a8a71a1144ecc5e30ad8b93",
-      "size_bytes": 66825
+      "sha256": "d988e930a161d0d728d28b79f07f71020db1697552ca2b71cb6211981d499de7",
+      "size_bytes": 67885
     },
     "run_tables/narratives/narratives_sub-03_runs.tsv": {
-      "sha256": "8cf477ea2eada86c6a669340c5e66debf4ba1b9da8ddf6d0d21be4219e20a8ae",
-      "size_bytes": 66689
+      "sha256": "98be7d863198e274fc1166dc0039d3ce40a4c1dc95254ba4b2b7bc9876668aed",
+      "size_bytes": 67732
     },
     "run_tables/narratives/narratives_sub-05_runs.tsv": {
-      "sha256": "59bc75135f5833ec9d8fa8b0ef01f07f10a48484448f03a72f654d472a7cedfc",
-      "size_bytes": 65998
+      "sha256": "24f6a41c5142103febc9122737fab8fa2e8c0a039cba6bd37fb6e0a642c9c790",
+      "size_bytes": 67048
     },
     "run_tables/narratives/narratives_sub-06_runs.tsv": {
-      "sha256": "2f09964d44b90ed45d9eb6f0061713fa4b9db2f780776db481a932835acdd079",
-      "size_bytes": 66801
+      "sha256": "b61f5e3e1e2becd97b0f409f3455a51220ac69090cc8ab0bb12f9fa5be9cc7c9",
+      "size_bytes": 67858
     },
     "run_tables/ood/ood_sub-01_runs.tsv": {
-      "sha256": "402f4eb4d22a9c3c2c9df001dcc14208041dd0cf559653f519f145c3baab874b",
-      "size_bytes": 9451
+      "sha256": "ea4d73ee50e469c22ecce14bcbf7ffc8ae849e625e5dbf539fc7f4f90670312b",
+      "size_bytes": 9475
     },
     "run_tables/ood/ood_sub-02_runs.tsv": {
-      "sha256": "e22fc9ce1fabd01f6d67411f11f4f023899be9e9a479685e3401780cf8faefbc",
-      "size_bytes": 9451
+      "sha256": "783f7a3dea3580b33d121816c73f3e9f813dbd027b58550985b096b51a374b8d",
+      "size_bytes": 9475
     },
     "run_tables/ood/ood_sub-03_runs.tsv": {
-      "sha256": "dbdeb1d277f5077cbe549e568245b94a7f6cd2f5d21deee88fa54fa7429e4791",
-      "size_bytes": 9451
+      "sha256": "ebe98350526c547acf6083186604f55d1ccee62b5d0c27fa738ee594ccfa33c5",
+      "size_bytes": 9475
     },
     "run_tables/ood/ood_sub-05_runs.tsv": {
-      "sha256": "4a936ee50c680e64103c33b200d454cef77918a7d5ae39e6d605639c187dc17d",
-      "size_bytes": 9451
+      "sha256": "8865dee328d15b42b454f1474d2550f3b8b9b7612f1499c26521d0dbfd592b46",
+      "size_bytes": 9475
     },
     "run_tables/petit-prince/petit-prince_sub-01_runs.tsv": {
-      "sha256": "203326a626e335cd863d6e29f42c8a421beff3f74c3ce13827c753b66974915c",
-      "size_bytes": 13743
+      "sha256": "0eb502b37ed24e76ec2e806523f1fe5ead6a397c9ea61feb199e9dcbe1eb20c4",
+      "size_bytes": 13831
     },
     "run_tables/petit-prince/petit-prince_sub-02_runs.tsv": {
-      "sha256": "238eedf9b21e18a73c25a8ad82a0555c30611e3570a65e782b284a1e097b601c",
-      "size_bytes": 13743
+      "sha256": "1eafc80cb5c78b85fe3eb773f2bffc84daade4cd0b92c985008b5736ae481677",
+      "size_bytes": 13831
     },
     "run_tables/petit-prince/petit-prince_sub-03_runs.tsv": {
-      "sha256": "d9ef33f112369f6489fc33263c7eded04b04024e61330a360eb34a29f5a6efa7",
-      "size_bytes": 13743
+      "sha256": "3b5aaa80fb98c874b2ed93bbabb5c78e531bb533d03b3c248d7c5f5633c23d7f",
+      "size_bytes": 13831
     },
     "run_tables/petit-prince/petit-prince_sub-05_runs.tsv": {
-      "sha256": "047c28cdd322157b51ccd896ab380e958eca3352ef55ea6bc55e09e5f090829d",
-      "size_bytes": 13743
+      "sha256": "8e142b078b9576aa484cb1bbc725c61c7f10197efadbf4090dbe8e02b3fcb874",
+      "size_bytes": 13831
     },
     "run_tables/petit-prince/petit-prince_sub-06_runs.tsv": {
-      "sha256": "1b1dd23198e7148a9c29734171e85cec7302e163c377ea236ae26ae7cf28f23a",
-      "size_bytes": 12223
+      "sha256": "559e61e4e3a77babb18a58c62be932c9cbcc0c8a79ddfc6a029da93e67600069",
+      "size_bytes": 12301
     },
     "run_tables/retinotopy/retinotopy_sub-01_runs.tsv": {
-      "sha256": "e276a7797779c5afa00239e36d4d591aab99f45f9673db5917fbda3968cceccf",
-      "size_bytes": 12733
+      "sha256": "e55116fee30b332039f08ce46fead19032637246a12fc092c815c5546b8fbb45",
+      "size_bytes": 12715
     },
     "run_tables/retinotopy/retinotopy_sub-02_runs.tsv": {
-      "sha256": "0d8bf59636af7c22a4af1b17f79c895294e163e0784f044c6c8e9a22a441bec1",
-      "size_bytes": 12733
+      "sha256": "f6e05b4e9a5e49789b5eba2e021a0cbb943129193db1bef9dab459c5f1de7f5e",
+      "size_bytes": 12715
     },
     "run_tables/retinotopy/retinotopy_sub-03_runs.tsv": {
-      "sha256": "c16e4889859ab993f6416394747abba47cd537ee0c7781c0cb2570c256d77d73",
-      "size_bytes": 10624
+      "sha256": "9a197cdfdc521e8dc5a90be6fa194ec2dc396d9bc0268089d29d1eef92c21f11",
+      "size_bytes": 10609
     },
     "run_tables/retinotopy/retinotopy_sub-05_runs.tsv": {
-      "sha256": "eab599ff1addc2411d2c4e36ce165e75f51cd2bd279d86caf1dde274f93d145f",
-      "size_bytes": 11359
+      "sha256": "1d3867e27646e11a15e81a355a8e981df739d5a12fb5d7be5d5f2484cb6cf1a4",
+      "size_bytes": 11329
     },
     "run_tables/shinobi/shinobi_sub-01_runs.tsv": {
-      "sha256": "7d020f8d9cf08ee41f29dd8aee4dfc13c927d807553c19c1c4d68fd242cdab4d",
-      "size_bytes": 45716
+      "sha256": "f66f01438f9252b9f6df9e822a313b0019248b3f2c367b1a7b5a51fb60d3c02c",
+      "size_bytes": 43258
     },
     "run_tables/shinobi/shinobi_sub-02_runs.tsv": {
-      "sha256": "1e879d90a7f9eddc9c8bcbed29ea8d7e1401aecb5bfc193f9aac8e0dcd0e3f1b",
-      "size_bytes": 47472
+      "sha256": "6ba8530297143ecf28176016675afcee73d1607eee5c0df7421ce7b7503e00db",
+      "size_bytes": 44823
     },
     "run_tables/shinobi/shinobi_sub-04_runs.tsv": {
-      "sha256": "ed3353183c4dedd5bbf65060ed077db5b40dd193524c3a0541e77e385445f780",
-      "size_bytes": 47520
+      "sha256": "737ceeac7a1ffe591ee2707e7a62e78d5950e16c5e7c439e7ad5f67f495ddc57",
+      "size_bytes": 44882
     },
     "run_tables/shinobi/shinobi_sub-06_runs.tsv": {
-      "sha256": "777430742f9ee6b93ea5bc62e841f9599d3835bc76866064b21147d30394ad39",
-      "size_bytes": 44915
+      "sha256": "716c3aaf3f91fcc281dd658eb158605c7e95c4455e6439f264e461bdea1bcdf1",
+      "size_bytes": 42414
     },
     "run_tables/things/things_sub-01_runs.tsv": {
-      "sha256": "fbb18c2bfd137f8e1798c9ae13d525b5611ae3f783e63e9863e88d6ec41d9494",
-      "size_bytes": 161830
+      "sha256": "be1e8e48432edba9963f48b036ca1722bc5a9e4c0c4c838caced712a5a654cb4",
+      "size_bytes": 163024
     },
     "run_tables/things/things_sub-02_runs.tsv": {
-      "sha256": "bcb803190259a0c3d690c0c080c5b18762aba8f4d90ae0a46e4093ff55f2d9f5",
-      "size_bytes": 161824
+      "sha256": "661fa358a02dc4a1e783fe36d5b1f27af77fe7b97e212e8eb94171b8670c2e43",
+      "size_bytes": 163024
     },
     "run_tables/things/things_sub-03_runs.tsv": {
-      "sha256": "aacf4238676952200c5db2e4417dea5a69d1c370d4e12b7dbffdfd0aee36cdc3",
-      "size_bytes": 161854
+      "sha256": "0cf7ede9a8ced33745cd65e4a4b10a40541608e45e56bcdd735011aa2110fda1",
+      "size_bytes": 163024
     },
     "run_tables/things/things_sub-06_runs.tsv": {
-      "sha256": "84fe3c573649a8ba3071e3320de1d0b9e56278b0ce84a1e08e24cecb92bc3fc7",
-      "size_bytes": 148140
+      "sha256": "1b03e001203538ec9f3bfdaa48fbda44ac49c0cf2c0460afee1ccba014ce6c30",
+      "size_bytes": 149254
     },
     "run_tables/triplets/triplets_sub-01_runs.tsv": {
-      "sha256": "7da78d4b60d9eabc4894e78a4300a74ad9e2efc8eec3ed395364a8d693c1cd69",
-      "size_bytes": 71314
+      "sha256": "1f9024a0b4d621e295787be9581c249ece1c56adc9dd48ab7acd48d5a191a718",
+      "size_bytes": 72898
     },
     "run_tables/triplets/triplets_sub-02_runs.tsv": {
-      "sha256": "5ba070d47d47c416cd1fef1b9dbc4af8dc57dacfa8b06f9f246ee8fa0979fbd5",
-      "size_bytes": 71368
+      "sha256": "875e5038002df4f6cc75fed1fe2058265319684a1d54c76be7b64c7df8f80341",
+      "size_bytes": 72898
     },
     "run_tables/triplets/triplets_sub-03_runs.tsv": {
-      "sha256": "716b34d2eeb130582d537e26c40c13dd86276ed3e3d50ccb89d50af190664b87",
-      "size_bytes": 71314
+      "sha256": "2210f43f419bf4bd82fc657fe04fa88bfff5bf8174fb7b921b948b46eae07b32",
+      "size_bytes": 72898
     },
     "run_tables/triplets/triplets_sub-06_runs.tsv": {
-      "sha256": "cec8b7ae220572ba6bf63db4d1404dca3cc9741c73e2bf55f7e60e0e3e532246",
-      "size_bytes": 71368
+      "sha256": "224a6c5e5fc63f0c9c7e358d106ea56b8730232b65ce9ee0a489cc17194fa9ab",
+      "size_bytes": 72898
     },
     "session_counts.tsv": {
       "sha256": "ca217ec000bbe065b3a37688df9bf72a38683f0cb30b170550ac8f8750f3710e",
@@ -614,13 +614,13 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-10-28T16:52:38+00:00",
+  "recorded_at": "2026-10-29T19:51:13+00:00",
   "repository": {
-    "branch": "physio-stats",
-    "commit": "070ce17e0aa598cd38ba26d5c9672e5c43774abb",
+    "branch": "main",
+    "commit": "ae3e442804e0bfc355264332a06a1038766559c4",
     "dirty": true,
-    "remote": "git@github.com:courtois-neuromod/cneuromod.all.statistics.git",
-    "toplevel": "/home/pbellec/git/cneuromod.all.statistics"
+    "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics.git",
+    "toplevel": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics"
   },
   "schema": "airoh/provenance/1",
   "tasks": [

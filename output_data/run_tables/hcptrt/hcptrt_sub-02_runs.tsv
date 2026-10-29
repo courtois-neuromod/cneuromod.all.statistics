@@ -1,991 +1,991 @@
 session	run_key	task	duration_h	asset	present	detail	s3unf	conp	narval	sequoia
-ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-001	sub-02_ses-001_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-language_run-02	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-motor_run-02	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-relational_run-02	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-social_run-02	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	bold	True		False	False	False	False
 ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	tsnr	False		False	False	False	False
 ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-002	sub-02_ses-002_task-wm_run-02	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-003	sub-02_ses-003_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-language_run-02	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-motor_run-02	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-relational_run-02	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-social_run-02	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	bold	True		False	False	False	False
 ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	tsnr	False		False	False	False	False
 ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-004	sub-02_ses-004_task-wm_run-02	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-005	sub-02_ses-005_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-language_run-02	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-motor_run-02	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-relational_run-02	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-social_run-02	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	bold	True		False	False	False	False
 ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	tsnr	False		False	False	False	False
 ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-006	sub-02_ses-006_task-wm_run-02	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-007	sub-02_ses-007_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-language_run-02	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-motor_run-02	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-relational_run-02	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-social_run-02	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	bold	True		False	False	False	False
 ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	tsnr	False		False	False	False	False
 ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-008	sub-02_ses-008_task-wm_run-02	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-restingstate_run-01	restingstate	0.24833	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	bold	True		True	True	False	True
+ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-009	sub-02_ses-009_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-01	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-emotion_run-02	emotion	0.03808	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-01	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-gambling_run-02	gambling	0.05339	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-01	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-language_run-02	language	0.06581	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-01	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-motor_run-02	motor	0.0596	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-01	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-relational_run-02	relational	0.04925	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-01	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-social_run-02	social	0.05753	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	bold	True		True	True	False	True
+ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-01	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	bold	True		False	False	False	False
 ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	physio	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	fmriprep	True	MNI152NLin2009cAsym;T1w	True	True	False	True
-ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	tsnr	True	MNI152NLin2009cAsym;T1w	True	True	False	False
+ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	fmriprep	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	tsnr	False		False	False	False	False
 ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	physprep	NA		NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_cneuromod2026	True		True	False	False	False
-ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_schaefer1000	True		True	False	False	False
-ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA	h5 not indexed	NA	NA	NA	NA
-ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_voxel_native	NA	h5 not indexed	NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_cneuromod2026	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_schaefer1000	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_voxel_mni	NA		NA	NA	NA	NA
+ses-010	sub-02_ses-010_task-wm_run-02	wm	0.08361	ts_voxel_native	NA		NA	NA	NA	NA

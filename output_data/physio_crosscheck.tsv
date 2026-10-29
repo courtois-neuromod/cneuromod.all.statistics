@@ -1,7 +1,7 @@
 dataset	recorded_h	PPG_declared_h	PPG_usable_h	ECG_declared_h	ECG_usable_h	EDA_declared_h	EDA_usable_h	RSP_declared_h	RSP_usable_h
 emotion-videos		25.9		25.9		25.9		25.9	
-friends	314.2782	368.0	310.6173	368.0	312.6329	368.0	286.645	368.0	313.7151
-harrypotter	6.9595	7.0	5.5676	7.0	6.2766	7.0	6.9595	7.0	6.9595
-mario	91.2356	92.2	67.9686	92.2	45.4214	92.2	87.2288	92.2	91.2356
-movie10	59.7126	60.0	45.9581	60.0	56.1794	60.0	56.9434	60.0	57.9688
-shinobi	40.1671	31.0	34.5495	31.0	23.5301	31.0	40.1503	31.0	39.0685
+friends	314.2782	368.0		368.0		368.0		368.0	
+harrypotter	6.9595	7.0		7.0		7.0		7.0	
+mario	91.2356	92.2		92.2		92.2		92.2	
+movie10	59.7126	60.0		60.0		60.0		60.0	
+shinobi	40.1671	31.0		31.0		31.0		31.0	
