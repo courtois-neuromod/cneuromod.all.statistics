@@ -1,5 +1,5 @@
 {
-  "command": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics/.venv/bin/invoke run --force",
+  "command": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics/.venv/bin/invoke refresh --source /home/runner/work/cneuromod.all/cneuromod.all",
   "environment": {
     "lockfiles": {
       "requirements.txt": "803fc2212872c07da30b749ac8629754b393d2d8a2334419e712b5a3f384c360",
@@ -24,15 +24,19 @@
   "inputs": {
     "assets": {
       "cneuromod_all": {
-        "commit": "a51c2a546d37194bee27804a29335506ac2ee886",
+        "commit": "98a51493d369f242481436bd19c28e3311ca5ae8",
         "resolved_path": "/home/runner/work/cneuromod.all/cneuromod.all",
         "sha256": null
       }
     },
     "manifest_file": "source_data/MANIFEST.json",
-    "manifest_sha256": "4847769ba40856a10252378b2aba8c12c76fed6791d8a634b6e520949afcdd61"
+    "manifest_sha256": "5d8c23856f3eb972dba063a7e6662ad94cc6cd4154425d4c0057d195014921dd"
   },
   "outputs": {
+    "SOURCE_STATE.json": {
+      "sha256": "f306cef3536d958df497f18a634583c53964e9dd3023f83a8cbdd542617c1104",
+      "size_bytes": 13834
+    },
     "cneuromod_maturity.csv": {
       "sha256": "b0a1dbe48375df374e05abcd877afe544d0eed60a76517f54954f33a3b5431d2",
       "size_bytes": 1222
@@ -614,25 +618,16 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-10-30T17:58:22+00:00",
+  "recorded_at": "2026-10-31T18:43:48+00:00",
   "repository": {
     "branch": "main",
-    "commit": "bd4dc96d97d5cd30b753d8d0395c8e7c0eb9f832",
+    "commit": "7c84c69f7be81678443a5ea9e88fa2084e7f8f1f",
     "dirty": true,
     "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics"
   },
   "schema": "airoh/provenance/1",
   "tasks": [
-    "run-statistics",
-    "run-fmri-stats",
-    "run-fmri-per-subject-stats",
-    "run-physio-stats",
-    "run-run-tables",
-    "run-completeness-summary",
-    "run-dashboard",
-    "run-cneuromod-tables",
-    "run-cneuromod-summary",
-    "run-notebooks"
+    "refresh"
   ]
 }
