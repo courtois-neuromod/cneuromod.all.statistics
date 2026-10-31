@@ -19,6 +19,8 @@ uv sync
 ```bash
 uv run invoke fetch           # Make cneuromod.all, each dataset's source trees and the release indexes available
 uv run invoke run             # Full pipeline (statistics + figures)
+uv run invoke check-fresh     # List datasets whose remote inputs changed since the last refresh
+uv run invoke refresh         # Fetch and rebuild only the stale datasets (used by CI)
 uv run invoke run-smoke       # Fast end-to-end check
 ```
 
