@@ -429,6 +429,124 @@ def run_notebooks(c):
     airoh_run_notebooks(c, notebooks_dir, output_dir, keys=["source_data_dir", "output_data_dir"])
 
 
+def _outputs_changed(output_dir):
+    """True if git sees changes under output_data/ other than the bookkeeping files."""
+    import subprocess
+    out = subprocess.run(["git", "status", "--porcelain", "--", str(output_dir)],
+                         capture_output=True, text=True).stdout
+    return any(Path(line[3:]).name not in ("PROVENANCE.json", "SOURCE_STATE.json")
+               for line in out.splitlines())
+
+
+def _fresh_report(c, dataset=None):
+    """(remote heads, stale {dataset: reasons}, code hash) against output_data/SOURCE_STATE.json.
+
+    With `dataset`, exactly those datasets are reported stale.
+    """
+    from analysis import freshness as fr
+
+    heads = fr.source_heads(_cneuromod_dir(c))
+    code = fr.code_hash(".")
+    if dataset:
+        names = {n.strip() for n in dataset.split(",")}
+        return heads, {d: ["requested"] for d in heads if d in names}, code
+    state = fr.read_state(c.config.get("output_data_dir"))
+    return heads, fr.stale_datasets(heads, state["datasets"], code, state["code_hash"]), code
+
+
+@task(help={"json": "Print the stale datasets and their reasons as JSON."})
+def check_fresh(c, json=False):
+    """List datasets whose remote inputs (or the pipeline code) changed since the last refresh. Read-only."""
+    import json as jsonlib
+
+    if not _cneuromod_dir(c).is_dir():
+        fetch_cneuromod(c)
+    _, stale, _ = _fresh_report(c)
+    if json:
+        print(jsonlib.dumps(stale, indent=2))
+        return
+    if not stale:
+        print("No stale datasets.")
+    for name, reasons in stale.items():
+        print(f"{name}: {'; '.join(reasons)}")
+
+
+@task(help={
+    "source": "Path to an existing local cneuromod.all checkout to symlink instead of cloning.",
+    "dataset": "Comma-separated datasets to treat as stale, regardless of the recorded state.",
+    "allow_drop": "Accept a drop in judged runs or remote-held counts for the refreshed datasets.",
+})
+def refresh(c, source=None, dataset=None, allow_drop=False):
+    """Fetch and rebuild only what changed, refusing to record a completeness regression.
+
+    Unlike `fetch` and `run`, this task does both, by design (CI). The cheap
+    outputs are always recomputed; the heavy per-dataset part (fmriprep, tsnr,
+    timeseries, annex locations, run tables) only for stale datasets, the others
+    keeping their committed run tables.
+    """
+    import pandas as pd
+    from airoh.provenance import record_run, record_sources
+    from analysis import freshness as fr
+
+    output_dir = Path(c.config.get("output_data_dir"))
+    summary_file = output_dir / "completeness_summary.tsv"
+
+    fetch_cneuromod(c, source=source)
+    fetch_bids(c)
+    fetch_physprep(c)
+    heads, stale, code = _fresh_report(c, dataset)
+    for name, reasons in stale.items():
+        print(f"stale {name}: {'; '.join(reasons)}")
+    if not stale:
+        print("No stale datasets.")
+
+    before = pd.read_csv(summary_file, sep="\t") if summary_file.exists() else None
+
+    # Cheap tier: always recomputed (run tables, summary and dashboard are handled below).
+    for clean_task in (clean_statistics, clean_fmri_stats, clean_fmri_per_subject_stats,
+                       clean_physio_stats, clean_cneuromod_tables, clean_cneuromod_summary,
+                       clean_figures):
+        clean_task(c)
+    run_statistics(c)
+    run_fmri_stats(c)
+    run_fmri_per_subject_stats(c)
+    run_physio_stats(c)
+    run_cneuromod_tables(c)
+    run_cneuromod_summary(c)
+    run_notebooks(c)
+
+    # Heavy tier: stale datasets only.
+    names = ",".join(sorted(stale))
+    if stale:
+        fetch_fmriprep(c, dataset=names, strict=True)
+        fetch_tsnr(c, dataset=names, strict=True)
+        fetch_timeseries(c, dataset=names, strict=True)
+        fetch_annex_locations(c, dataset=names)
+        fetch_timeseries_index(c, dataset=names)
+        record_sources(c)
+        for name in sorted(stale):
+            clean_run_tables(c, dataset=name)
+        run_run_tables(c, dataset=names)
+    clean_completeness_summary(c)
+    clean_dashboard(c)
+    run_completeness_summary(c)
+    run_dashboard(c)
+
+    if before is not None and stale and not allow_drop:
+        drops = fr.regressions(before, pd.read_csv(summary_file, sep="\t"), list(stale))
+        if drops:
+            raise SystemExit("Refusing to record a regression (use --allow-drop to accept):\n  "
+                             + "\n  ".join(drops))
+
+    if stale:
+        recorded = fr.read_state(output_dir)["datasets"]
+        recorded.update({d: heads[d] for d in stale})
+        fr.write_state(output_dir, code, {d: v for d, v in recorded.items() if d in heads})
+    if stale or _outputs_changed(output_dir):
+        record_run(c, tasks="refresh")
+    print("✅ refresh complete.")
+
+
 @task(help={"force": "Run `clean` first, forcing every step to recompute."})
 def run(c, force=False):
     """Full pipeline."""
