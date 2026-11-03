@@ -9,7 +9,7 @@
     },
     "emotion-videos": {
       "bids": {
-        "annex": "1de88fb7660e1b5e15ab922f272643e4789d337b",
+        "annex": "e3baf78ec393350e943e1081371ce94deaf83068",
         "head": "7a75b04fd09254ec64d2601d5ae2c9202dffe155"
       },
       "fmriprep": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-10-31T18:43:48+00:00",
+  "recorded_at": "2026-11-03T17:37:44+00:00",
   "schema": 1
 }
