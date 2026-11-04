@@ -195,7 +195,7 @@
     },
     "mariostars": {
       "bids": {
-        "annex": "f76c2829ae437697b0952c3f4b035d4b9dad4e1c",
+        "annex": "7ebc8e3d77c54164b09bde86fdd95d2ab2ce8911",
         "head": "50260f431d858ab8590d09edbabed2608de61940"
       },
       "fmriprep": {
@@ -343,7 +343,7 @@
     },
     "shinobi": {
       "bids": {
-        "annex": "7ce80f5c9040011e5dcc22937459b87eda166ea4",
+        "annex": "9da9e6a9ae5ddb157ade16f1c5b8cc1da614cbea",
         "head": "9efcd5fb1840072eecc67571baab356b5ba48773"
       },
       "fmriprep": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-04T13:58:59+00:00",
+  "recorded_at": "2026-11-04T14:11:03+00:00",
   "schema": 1
 }
