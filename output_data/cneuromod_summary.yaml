@@ -22,9 +22,9 @@ physiology:
 subjects_n: 6
 tasks:
   audio:
-    per_subject_unique: 125.3
+    per_subject_unique: 127.4
     per_subject_with_repetition: 138.8
-    total_unique: 303.6
+    total_unique: 305.7
     total_with_repetition: 756.5
   contrasts: 62
   controlled:
@@ -42,9 +42,9 @@ tasks:
     per_subject_h: 1.2
     total_h: 7.5
   speech_listening:
-    per_subject_unique: 78.6
+    per_subject_unique: 80.7
     per_subject_with_repetition: 89.9
-    total_unique: 85.1
+    total_unique: 87.2
     total_with_repetition: 522.6
   text_reading:
     per_subject_unique: 4.0

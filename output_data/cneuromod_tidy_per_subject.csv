@@ -272,8 +272,8 @@ ood,Movies,Physiology,#7030A0,Eye,physiology.eye_tracking.per_subject_h,h,
 petit-prince,Stories,Brain,#4472C4,fMRI,neuroimaging.fmri.per_subject_h,h,3.2
 petit-prince,Stories,Task content,#538135,Images,tasks.images.per_subject_unique,#img,
 petit-prince,Stories,Task content,#538135,Video,tasks.video.per_subject_unique,h,
-petit-prince,Stories,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,1.1
-petit-prince,Stories,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,1.1
+petit-prince,Stories,Task content,#538135,Audio,tasks.audio.per_subject_unique,h,3.2
+petit-prince,Stories,Task content,#538135,Speech,tasks.speech_listening.per_subject_unique,h,3.2
 petit-prince,Stories,Task content,#538135,Text,tasks.text_reading.per_subject_unique,h,
 petit-prince,Stories,Task content,#538135,Rest,tasks.resting_state.per_subject_h,h,
 petit-prince,Stories,Task content,#538135,Controlled,tasks.controlled.per_subject_h,h,

@@ -171,7 +171,7 @@
     },
     "mario3": {
       "bids": {
-        "annex": "da8e0d3d383a9f286d0ae712d56a5e25d5e64d9a",
+        "annex": "6fefa6590ae7b151aaff2172d20c2d8e38721baf",
         "head": "73c7316a049fbed0be03a0b157126b24cbaae123"
       },
       "fmriprep": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-04T14:11:03+00:00",
+  "recorded_at": "2026-11-04T17:25:12+00:00",
   "schema": 1
 }

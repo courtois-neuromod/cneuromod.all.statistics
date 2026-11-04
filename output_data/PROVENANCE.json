@@ -24,37 +24,37 @@
   "inputs": {
     "assets": {
       "cneuromod_all": {
-        "commit": "5c5b45c5ecd75ff46bfbd8c56f47350bd5b0c8e5",
+        "commit": "8201fc5abe99dbe0c0fca72094c29e127b70748b",
         "resolved_path": "/home/runner/work/cneuromod.all/cneuromod.all",
         "sha256": null
       }
     },
     "manifest_file": "source_data/MANIFEST.json",
-    "manifest_sha256": "cf390484fe85d96ff036e5f004e9b0f9f7ae02677449683eaf6aec14fb28d5f3"
+    "manifest_sha256": "96fa2559158772c784a1e57453d543f96ddcd89ad37acec8911491721408f2ad"
   },
   "outputs": {
     "SOURCE_STATE.json": {
-      "sha256": "43814c9d9fb5d355730af0be2428011cc08bdc4937653eab2739760796bcdbf2",
+      "sha256": "8f23ed288939fd87492554b49b775992f9f3cae93ef2da2c0314bc57ef4e565f",
       "size_bytes": 13834
     },
     "cneuromod_maturity.csv": {
-      "sha256": "76dcefeefbba42e63ac3a2d840375dff405c41ddbc29e79ae77931f8bbdc0193",
-      "size_bytes": 1466
+      "sha256": "8f3ab16f3c08be7be1a6a5d355a8b51c5b11172dd59d1c9b382455dd0effe8dc",
+      "size_bytes": 1465
     },
     "cneuromod_subjects.csv": {
       "sha256": "1754a842f04ee1ddee987c52e8563ceb11b6844696e140f3a01cdcf0cfb2d2b1",
       "size_bytes": 4076
     },
     "cneuromod_summary.yaml": {
-      "sha256": "4020ffbff19e8fe2c1f697cf3f74367ef73372a15c9050569ad5a686662afc6d",
+      "sha256": "34e7b532c8aadb0cee4d3918190517b94736f2a1b4ad9811b766440b703f4c65",
       "size_bytes": 1270
     },
     "cneuromod_tidy_per_subject.csv": {
-      "sha256": "06bd5487c61ade8df47a1f6f21df82c6abd2e8b62cdbc9160665000e62777ff8",
+      "sha256": "4d7d3ae778560c646c757331956d2a3c7a408cfc614f9c1fe6a8befcf8411d87",
       "size_bytes": 28842
     },
     "cneuromod_tidy_total.csv": {
-      "sha256": "d725889b1c3a2c32259df87613a4014eba817a45dd23bf6741ba71bc475e4371",
+      "sha256": "95c6008ee16d32e9c78003fd7995accd1f19fbfc300c68f6caca0bf4228b4dea",
       "size_bytes": 34588
     },
     "completeness_summary.tsv": {
@@ -62,12 +62,12 @@
       "size_bytes": 68308
     },
     "figure_cneuromod_comparison_per_subject.png": {
-      "sha256": "a84932c32facd7ce684c33a38b2c8ee3b4e794480a938b181535df28110b5b12",
-      "size_bytes": 466967
+      "sha256": "f1661ad8fc3abddfccf0a259c5f9cdcca0f201312e7237b1f4078fcc1ec50f18",
+      "size_bytes": 467243
     },
     "figure_cneuromod_comparison_total.png": {
-      "sha256": "d702061ea434fec544bac0c05c0a3bbd0b8d50bddac3ea86c8d92bb3256603d8",
-      "size_bytes": 511688
+      "sha256": "edc6fa06d2a8b3aab64a60628e041882a51b5568093d96dd201b0de3a1ea6299",
+      "size_bytes": 512739
     },
     "figure_fmri_hours_min_avg_max.png": {
       "sha256": "4cda0253c57b1b22aefad0c57abbaf799f0b63d59cf728dc03be345bd508f1a6",
@@ -618,10 +618,10 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-11-04T14:11:03+00:00",
+  "recorded_at": "2026-11-04T17:25:12+00:00",
   "repository": {
     "branch": "main",
-    "commit": "11f38ee172fbc3536120360b0033ba09fb1edc15",
+    "commit": "67a4dca53fbba131b79572d20dfc069f9283f6da",
     "dirty": true,
     "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics"

@@ -348,8 +348,8 @@ petit-prince,Stories,Brain recordings,#4472C4,iEEG,neuroimaging.ieeg.total_h,h,
 petit-prince,Stories,Brain recordings,#4472C4,Ca²⁺,neuroimaging.calcium_imaging.total_h,h,
 petit-prince,Stories,Task content,#538135,Images,tasks.images.total_unique,#img,
 petit-prince,Stories,Task content,#538135,Video,tasks.video.total_unique,h,
-petit-prince,Stories,Task content,#538135,Audio,tasks.audio.total_unique,h,1.1
-petit-prince,Stories,Task content,#538135,Speech,tasks.speech_listening.total_unique,h,1.1
+petit-prince,Stories,Task content,#538135,Audio,tasks.audio.total_unique,h,3.2
+petit-prince,Stories,Task content,#538135,Speech,tasks.speech_listening.total_unique,h,3.2
 petit-prince,Stories,Task content,#538135,Text,tasks.text_reading.total_unique,h,
 petit-prince,Stories,Task content,#538135,Rest,tasks.resting_state.total_h,h,
 petit-prince,Stories,Task content,#538135,Controlled,tasks.controlled.total_h,h,

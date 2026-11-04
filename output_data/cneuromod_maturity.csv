@@ -17,7 +17,7 @@ multfs,Taskscapes,beta,,,
 mutemusic,Taskscapes,beta,,,
 narratives,Stories,alpha,,,
 ood,Movies,stable,,d-Ascoli2026-hf;Schad2025-nx;Eren2025-xi;Villanueva2025-xe;Corsico2025-si;Scholz2025-io;He2025-vt;Scotti2025-dn,"Held-out test set of the Algonauts 2025 challenge (out-of-distribution phase), still the active test set of the benchmark on Codabench; validated by the common QC metrics only"
-petit-prince,Stories,alpha,,,
+petit-prince,Stories,beta,,,
 retinotopy,Functional localizers,stable,St-Laurent2026-zc,,
 shinobi,Videogames,stable,Harel2026-hr,Kemtur2023-px,
 things,Taskscapes,stable,St-Laurent2026-zc,,
