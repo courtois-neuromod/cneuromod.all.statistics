@@ -22,7 +22,7 @@ physiology:
 subjects_n: 6
 tasks:
   audio:
-    per_subject_unique: 127.4
+    per_subject_unique: 124.3
     per_subject_with_repetition: 136.0
     total_unique: 305.7
     total_with_repetition: 739.8
@@ -42,7 +42,7 @@ tasks:
     per_subject_h: 1.2
     total_h: 7.5
   speech_listening:
-    per_subject_unique: 80.7
+    per_subject_unique: 77.6
     per_subject_with_repetition: 87.1
     total_unique: 87.2
     total_with_repetition: 505.8
@@ -52,7 +52,7 @@ tasks:
     total_unique: 4.0
     total_with_repetition: 38.2
   video:
-    per_subject_unique: 125.1
+    per_subject_unique: 122.0
     per_subject_with_repetition: 125.0
     total_unique: 296.9
     total_with_repetition: 684.6
