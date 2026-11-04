@@ -9,7 +9,7 @@
     },
     "emotion-videos": {
       "bids": {
-        "annex": "e3baf78ec393350e943e1081371ce94deaf83068",
+        "annex": "b88addd822d1cd2b150a4c7f20bb93b27e36f6a4",
         "head": "7a75b04fd09254ec64d2601d5ae2c9202dffe155"
       },
       "fmriprep": {
@@ -195,7 +195,7 @@
     },
     "mariostars": {
       "bids": {
-        "annex": "2cdf5bd81aab186bff799375b461f883b867b181",
+        "annex": "f76c2829ae437697b0952c3f4b035d4b9dad4e1c",
         "head": "50260f431d858ab8590d09edbabed2608de61940"
       },
       "fmriprep": {
@@ -343,7 +343,7 @@
     },
     "shinobi": {
       "bids": {
-        "annex": "929b5c1a949189011dc798f623fe910260ec3e09",
+        "annex": "7ce80f5c9040011e5dcc22937459b87eda166ea4",
         "head": "9efcd5fb1840072eecc67571baab356b5ba48773"
       },
       "fmriprep": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-03T17:37:44+00:00",
+  "recorded_at": "2026-11-04T13:58:59+00:00",
   "schema": 1
 }

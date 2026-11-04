@@ -23,9 +23,9 @@ subjects_n: 6
 tasks:
   audio:
     per_subject_unique: 125.3
-    per_subject_with_repetition: 142.9
+    per_subject_with_repetition: 138.8
     total_unique: 303.6
-    total_with_repetition: 754.5
+    total_with_repetition: 756.5
   contrasts: 62
   controlled:
     per_subject_h: 28.7
@@ -43,9 +43,9 @@ tasks:
     total_h: 7.5
   speech_listening:
     per_subject_unique: 78.6
-    per_subject_with_repetition: 94.0
+    per_subject_with_repetition: 89.9
     total_unique: 85.1
-    total_with_repetition: 520.6
+    total_with_repetition: 522.6
   text_reading:
     per_subject_unique: 4.0
     per_subject_with_repetition: 9.2
@@ -53,6 +53,6 @@ tasks:
     total_with_repetition: 38.2
   video:
     per_subject_unique: 125.1
-    per_subject_with_repetition: 131.9
+    per_subject_with_repetition: 127.8
     total_unique: 296.9
-    total_with_repetition: 699.5
+    total_with_repetition: 701.5
