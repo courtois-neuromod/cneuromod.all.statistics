@@ -1,7 +1,7 @@
 dataset	subject	asset	n_runs	n_judged	hours	n_present	pct_present	hours_missing	n_on_s3unf	pct_on_s3unf	n_on_conp	pct_on_conp	n_on_narval	pct_on_narval	n_on_sequoia	pct_on_sequoia
 emotion-videos	sub-01	bold	36	36	5.035	36	100.0	0.0	36	100.0	36	100.0	0	0.0	36	100.0
 emotion-videos	sub-01	physio	36	0	5.035	0			0		0		0		0	
-emotion-videos	sub-01	fmriprep	36	36	5.035	36	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
+emotion-videos	sub-01	fmriprep	36	36	5.035	36	100.0	0.0	36	100.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-01	tsnr	36	36	5.035	0	0.0	5.035	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-01	physprep	36	0	5.035	0			0		0		0		0	
 emotion-videos	sub-01	ts_cneuromod2026	36	0	5.035	0			0		0		0		0	
@@ -11,7 +11,7 @@ emotion-videos	sub-01	ts_voxel_native	36	0	5.035	0			0		0		0		0
 emotion-videos	sub-01	complete	36	36	5.035	0	0.0	5.035	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-02	bold	36	36	5.035	36	100.0	0.0	36	100.0	36	100.0	0	0.0	36	100.0
 emotion-videos	sub-02	physio	36	0	5.035	0			0		0		0		0	
-emotion-videos	sub-02	fmriprep	36	36	5.035	36	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
+emotion-videos	sub-02	fmriprep	36	36	5.035	36	100.0	0.0	36	100.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-02	tsnr	36	36	5.035	0	0.0	5.035	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-02	physprep	36	0	5.035	0			0		0		0		0	
 emotion-videos	sub-02	ts_cneuromod2026	36	0	5.035	0			0		0		0		0	
@@ -21,7 +21,7 @@ emotion-videos	sub-02	ts_voxel_native	36	0	5.035	0			0		0		0		0
 emotion-videos	sub-02	complete	36	36	5.035	0	0.0	5.035	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-03	bold	39	39	5.4545	39	100.0	0.0	39	100.0	39	100.0	0	0.0	39	100.0
 emotion-videos	sub-03	physio	39	0	5.4545	0			0		0		0		0	
-emotion-videos	sub-03	fmriprep	39	39	5.4545	39	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
+emotion-videos	sub-03	fmriprep	39	39	5.4545	39	100.0	0.0	39	100.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-03	tsnr	39	39	5.4545	0	0.0	5.4545	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-03	physprep	39	0	5.4545	0			0		0		0		0	
 emotion-videos	sub-03	ts_cneuromod2026	39	0	5.4545	0			0		0		0		0	
@@ -31,7 +31,7 @@ emotion-videos	sub-03	ts_voxel_native	39	0	5.4545	0			0		0		0		0
 emotion-videos	sub-03	complete	39	39	5.4545	0	0.0	5.4545	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-05	bold	38	38	5.3147	38	100.0	0.0	38	100.0	38	100.0	0	0.0	38	100.0
 emotion-videos	sub-05	physio	38	0	5.3147	0			0		0		0		0	
-emotion-videos	sub-05	fmriprep	38	38	5.3147	38	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
+emotion-videos	sub-05	fmriprep	38	38	5.3147	38	100.0	0.0	38	100.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-05	tsnr	38	38	5.3147	0	0.0	5.3147	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-05	physprep	38	0	5.3147	0			0		0		0		0	
 emotion-videos	sub-05	ts_cneuromod2026	38	0	5.3147	0			0		0		0		0	
@@ -41,7 +41,7 @@ emotion-videos	sub-05	ts_voxel_native	38	0	5.3147	0			0		0		0		0
 emotion-videos	sub-05	complete	38	38	5.3147	0	0.0	5.3147	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-06	bold	36	36	5.035	36	100.0	0.0	36	100.0	36	100.0	0	0.0	36	100.0
 emotion-videos	sub-06	physio	36	0	5.035	0			0		0		0		0	
-emotion-videos	sub-06	fmriprep	36	36	5.035	36	100.0	0.0	0	0.0	0	0.0	0	0.0	0	0.0
+emotion-videos	sub-06	fmriprep	36	36	5.035	36	100.0	0.0	36	100.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-06	tsnr	36	36	5.035	0	0.0	5.035	0	0.0	0	0.0	0	0.0	0	0.0
 emotion-videos	sub-06	physprep	36	0	5.035	0			0		0		0		0	
 emotion-videos	sub-06	ts_cneuromod2026	36	0	5.035	0			0		0		0		0	

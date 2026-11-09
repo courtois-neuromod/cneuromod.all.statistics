@@ -13,7 +13,7 @@
         "head": "5f2d7e1d6872fb764493643aeca6325f9c8d6420"
       },
       "fmriprep": {
-        "annex": "8835f4a050285e7c2af1abb4dda6f949918c381a",
+        "annex": "caa9950fd8306e163af71be65afddd60842ea8cb",
         "head": "548ca724165c597fd4dff95cb5dbfbd5004ca901"
       },
       "physprep": {
@@ -195,7 +195,7 @@
     },
     "mariostars": {
       "bids": {
-        "annex": "a9e3fa008dee03747870f9b346740559b2201ce0",
+        "annex": "04bb96c37e8d97e3bc6a1f07333d731e8ff14e26",
         "head": "50260f431d858ab8590d09edbabed2608de61940"
       },
       "fmriprep": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-06T17:08:02+00:00",
+  "recorded_at": "2026-11-09T15:06:46+00:00",
   "schema": 1
 }

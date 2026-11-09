@@ -24,17 +24,17 @@
   "inputs": {
     "assets": {
       "cneuromod_all": {
-        "commit": "59e34460b0ac5a530a4bddbd43e62c2fb90795f5",
+        "commit": "ffd641d7f16c998c69aa63c09ec0d63ca0de8f03",
         "resolved_path": "/home/runner/work/cneuromod.all/cneuromod.all",
         "sha256": null
       }
     },
     "manifest_file": "source_data/MANIFEST.json",
-    "manifest_sha256": "b01bed294c062673dfac36b6117c35aaf71fe13ebaea55f8dfc4fe94966fb2b4"
+    "manifest_sha256": "ed116c1759ab8e2e8210016123cde538e4dd3a518b3f02927fec716ee245cf31"
   },
   "outputs": {
     "SOURCE_STATE.json": {
-      "sha256": "a1a27598a9a81f28b63d1c708356f5c509023a8b2b49f4408122567c84ae47e3",
+      "sha256": "a5375323f2c33a641ccfb1b684ed3ecf3269ca6267a89e2275a40970de455fa0",
       "size_bytes": 13834
     },
     "cneuromod_maturity.csv": {
@@ -58,8 +58,8 @@
       "size_bytes": 34588
     },
     "completeness_summary.tsv": {
-      "sha256": "ed81f97a06f825f77c482e2c6749190d1e3e7ac8e76cf1b6f83c4159ed676750",
-      "size_bytes": 68308
+      "sha256": "912f9a939c4260114d8797e1493fbade5c29aec99667367ef3a3ed648f346520",
+      "size_bytes": 68323
     },
     "figure_cneuromod_comparison_per_subject.png": {
       "sha256": "ecfcd5c2b6da887bcc31de776a07129da39e4b65af3c59b417b36b8af5f4c4f6",
@@ -142,12 +142,12 @@
       "size_bytes": 3366
     },
     "release_dashboard.html": {
-      "sha256": "e32073f245b562cf016042ec3530540a685a2fcb0fee763eea180da4b66322b4",
-      "size_bytes": 300521
+      "sha256": "492035970b787980f893f0bb4afe6e5028f736aafc4ea27ad1a0c9d785b49ca4",
+      "size_bytes": 300536
     },
     "release_dashboard_data/emotion-videos.json": {
-      "sha256": "d63b1211061b8908ff4a25c892b356271c3843fe1bb566e74f8ad1f5fb380bd6",
-      "size_bytes": 60049
+      "sha256": "0a14507475a437aa9f8b616c378f5d8df95446166135cc41273289cff69f2e6e",
+      "size_bytes": 61344
     },
     "release_dashboard_data/floc.json": {
       "sha256": "b7b93ade754c5c8fc92680ff241122284ce1b7eb65351c72daee34e7366d6754",
@@ -226,24 +226,24 @@
       "size_bytes": 209492
     },
     "run_tables/emotion-videos/emotion-videos_sub-01_runs.tsv": {
-      "sha256": "7aa743f23c0ca8a48779073fe84dc41e0326d50fca399532846b572eae032e70",
-      "size_bytes": 30139
+      "sha256": "ed95b7e09971ee2b1e27feb1411998ebd30d964bdcb472cf6af0046871ef14b9",
+      "size_bytes": 30103
     },
     "run_tables/emotion-videos/emotion-videos_sub-02_runs.tsv": {
-      "sha256": "f1a1de3644b55e441e54ab97bcc552fc6869cf13761a3204520c812a40e852cd",
-      "size_bytes": 30139
+      "sha256": "487a614b5542bf62ad8eb3d373b176ad96197f0155bd29da03a1bdeff5a2333a",
+      "size_bytes": 30103
     },
     "run_tables/emotion-videos/emotion-videos_sub-03_runs.tsv": {
-      "sha256": "a7b3d6096487359641b3e8691cf5e85a84048cd565343bfa078614f2f73cf9a7",
-      "size_bytes": 32644
+      "sha256": "e79c9bb39de886182f39ad0a0131606f0b7f083caf20cb0893e8779bdd090930",
+      "size_bytes": 32605
     },
     "run_tables/emotion-videos/emotion-videos_sub-05_runs.tsv": {
-      "sha256": "25d4d5465375f89e598ebd9ea386b657ce976c8ec6740b79312673ea394f4e91",
-      "size_bytes": 31809
+      "sha256": "ba145f48dad5c9d94c3232511676895fbbe9f0cf73c89bb5b8ccba9f59ccf0a3",
+      "size_bytes": 31771
     },
     "run_tables/emotion-videos/emotion-videos_sub-06_runs.tsv": {
-      "sha256": "808b3aff078a3feab39226143a57b4affaa4533e183fa46568a53ae67a57855a",
-      "size_bytes": 30139
+      "sha256": "d68d02f9d37b7f7c6b239b1dd118675a62ca99d2f5b72e283561b37f9f4bfd40",
+      "size_bytes": 30103
     },
     "run_tables/floc/floc_sub-01_runs.tsv": {
       "sha256": "f2699513a83b46e5e39f1c54837a40216c093f1e0897fb6592019948408a6a50",
@@ -618,10 +618,10 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-11-06T17:08:02+00:00",
+  "recorded_at": "2026-11-09T15:06:46+00:00",
   "repository": {
     "branch": "main",
-    "commit": "92fa540981ddf517ac3b8a378be5306f89289a9f",
+    "commit": "93911606fa1f8f7c6d71de6cd22edaed2d20c276",
     "dirty": true,
     "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics"
