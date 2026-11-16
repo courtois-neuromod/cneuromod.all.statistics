@@ -21,7 +21,7 @@
         "head": "7425f9c26adb588c8adaa4bbf070028de6daa415"
       },
       "tsnr": {
-        "annex": "2556e7c5059711685ccb54bcba2e6bcf14059523",
+        "annex": "bf0979766f5cf206ddd692715424731297b0d3b4",
         "head": "f79c35e389d07e946ec8e601af9312e070e5a3a1"
       }
     },
@@ -153,7 +153,7 @@
         "head": "70902e9160429a8807435da419af686dbcd34519"
       },
       "fmriprep": {
-        "annex": "8f014f54f4db81c6b8ddd81e93d40559c783283b",
+        "annex": "23b70798662d5e9f4468f3de8de63fc17e6e7321",
         "head": "7654440fbca17a44af355a1a6575e5b5ea0cba0c"
       },
       "physprep": {
@@ -195,7 +195,7 @@
     },
     "mariostars": {
       "bids": {
-        "annex": "04bb96c37e8d97e3bc6a1f07333d731e8ff14e26",
+        "annex": "5e0c8b1603c4c93ff0b9950a0bab1c246b72949c",
         "head": "50260f431d858ab8590d09edbabed2608de61940"
       },
       "fmriprep": {
@@ -235,7 +235,7 @@
     },
     "multfs": {
       "bids": {
-        "annex": "ba1344fb9b5bc510693906a8d21b667081a68ef6",
+        "annex": "2a4f638e009dc499aa5496576360cf87ae3aae6a",
         "head": "785f2d657fe3f01502fb79dee16df8bf1ecffd27"
       },
       "fmriprep": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-09T15:06:46+00:00",
+  "recorded_at": "2026-11-16T14:46:32+00:00",
   "schema": 1
 }

@@ -24,17 +24,17 @@
   "inputs": {
     "assets": {
       "cneuromod_all": {
-        "commit": "ffd641d7f16c998c69aa63c09ec0d63ca0de8f03",
+        "commit": "735780526fc58e7eef6423fbc74a9baebd0c53d2",
         "resolved_path": "/home/runner/work/cneuromod.all/cneuromod.all",
         "sha256": null
       }
     },
     "manifest_file": "source_data/MANIFEST.json",
-    "manifest_sha256": "ed116c1759ab8e2e8210016123cde538e4dd3a518b3f02927fec716ee245cf31"
+    "manifest_sha256": "d08915b18a215607437e1256d65bee7280dec3afa7d887efe366605c905b0b79"
   },
   "outputs": {
     "SOURCE_STATE.json": {
-      "sha256": "a5375323f2c33a641ccfb1b684ed3ecf3269ca6267a89e2275a40970de455fa0",
+      "sha256": "c4d74c1c2c047488eff806a9de2a985a143c24f73a3c8b966a0041f365bdaa94",
       "size_bytes": 13834
     },
     "cneuromod_maturity.csv": {
@@ -58,8 +58,8 @@
       "size_bytes": 34588
     },
     "completeness_summary.tsv": {
-      "sha256": "912f9a939c4260114d8797e1493fbade5c29aec99667367ef3a3ed648f346520",
-      "size_bytes": 68323
+      "sha256": "8b4b9f1346a1d47ab24f18b150814c26f478412c056da3ae77d0ed02b8ccdc9f",
+      "size_bytes": 68340
     },
     "figure_cneuromod_comparison_per_subject.png": {
       "sha256": "ecfcd5c2b6da887bcc31de776a07129da39e4b65af3c59b417b36b8af5f4c4f6",
@@ -142,8 +142,8 @@
       "size_bytes": 3366
     },
     "release_dashboard.html": {
-      "sha256": "492035970b787980f893f0bb4afe6e5028f736aafc4ea27ad1a0c9d785b49ca4",
-      "size_bytes": 300536
+      "sha256": "43b2d00860fd7e6c28bdf24f3fa91ed7954ae21f70b732b401d2285c3064661f",
+      "size_bytes": 300553
     },
     "release_dashboard_data/emotion-videos.json": {
       "sha256": "0a14507475a437aa9f8b616c378f5d8df95446166135cc41273289cff69f2e6e",
@@ -190,8 +190,8 @@
       "size_bytes": 309907
     },
     "release_dashboard_data/multfs.json": {
-      "sha256": "8d1d6f6f8b2a2712e31c9b20d8aae602260fbee156d44bfc09a86672c9bad647",
-      "size_bytes": 173667
+      "sha256": "2539a323dd995e901405763ce723bbe241dd36047303651210d6769d379cea4e",
+      "size_bytes": 176243
     },
     "release_dashboard_data/mutemusic.json": {
       "sha256": "8b666bc09c16859728d39ab760e3259ab7dfd205aad8497825f9bd01a60d20e3",
@@ -446,24 +446,24 @@
       "size_bytes": 58697
     },
     "run_tables/multfs/multfs_sub-01_runs.tsv": {
-      "sha256": "01248be23783ea1e1e1fa075282bee9539b76efbef93177e265fef217021536f",
-      "size_bytes": 24439
+      "sha256": "844a07e96fb1b5cd8fa0decb5bb51e8258db4ad4cd65dceb21e0e83a65ab7043",
+      "size_bytes": 24411
     },
     "run_tables/multfs/multfs_sub-02_runs.tsv": {
-      "sha256": "d3a359bf61bf83c2b607b2ce58e17856b5bbd106b2221e63d3c9565baf550cda",
-      "size_bytes": 54889
+      "sha256": "c89493ce43b3aa10c552ed9dedf75ad0b5b344d3b2a6dd653a56aa4180fd652a",
+      "size_bytes": 54826
     },
     "run_tables/multfs/multfs_sub-03_runs.tsv": {
-      "sha256": "8dcdeae68f35f046d797a35ab95fce79f2280a622b733db01a7222e75cbdb3ed",
-      "size_bytes": 97519
+      "sha256": "af06fbbabb0c7a5a08b819f91e885dc9227d5f574ee5aa9c908ccbd667cf9784",
+      "size_bytes": 97407
     },
     "run_tables/multfs/multfs_sub-05_runs.tsv": {
-      "sha256": "cc9e9995339a1530619d5fb49e07ea6c4880ba9ac50587577391f4501d94de23",
-      "size_bytes": 12259
+      "sha256": "080171069391748f0c267d3e8d1f4f3db3cc2b7cd74de7cf55aedfc4a86572c7",
+      "size_bytes": 12245
     },
     "run_tables/multfs/multfs_sub-06_runs.tsv": {
-      "sha256": "c2ff72602b79cdf3e547fa63cd8fd2b7d6146d7e1973817f8ce3c16b39cd1b1e",
-      "size_bytes": 91429
+      "sha256": "0899ef6c992ae3330a219c7f43d5708880430b75e146501cad600c2597f02d01",
+      "size_bytes": 91324
     },
     "run_tables/mutemusic/mutemusic_sub-01_runs.tsv": {
       "sha256": "a2fc972ee7b535173b2c1757cf55f9a0b7af6153be16bb5c0415c804161e269e",
@@ -618,10 +618,10 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-11-09T15:06:46+00:00",
+  "recorded_at": "2026-11-16T14:46:32+00:00",
   "repository": {
     "branch": "main",
-    "commit": "93911606fa1f8f7c6d71de6cd22edaed2d20c276",
+    "commit": "1401fae43c8a408d2ce4daa60b63c27e943ff581",
     "dirty": true,
     "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics"
