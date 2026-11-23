@@ -149,12 +149,12 @@
     },
     "mario": {
       "bids": {
-        "annex": "6d4f872b34cc93154079874e295e955abd9ca10e",
+        "annex": "6240fdaf69bb491bf4251f3e3d8da5c2df4cb877",
         "head": "70902e9160429a8807435da419af686dbcd34519"
       },
       "fmriprep": {
-        "annex": "23b70798662d5e9f4468f3de8de63fc17e6e7321",
-        "head": "7654440fbca17a44af355a1a6575e5b5ea0cba0c"
+        "annex": "b1aead44c608d0f3da777acffb5268a75c01b810",
+        "head": "486ffe410dbf5ea24fced113270103545ec7b9e2"
       },
       "physprep": {
         "annex": "8e9608e850c7658a3cf6aa5ba2a68daa28734bde",
@@ -171,7 +171,7 @@
     },
     "mario3": {
       "bids": {
-        "annex": "6fefa6590ae7b151aaff2172d20c2d8e38721baf",
+        "annex": "d027e7c2388747d9afa932736c9e54eb6d90b592",
         "head": "73c7316a049fbed0be03a0b157126b24cbaae123"
       },
       "fmriprep": {
@@ -195,11 +195,11 @@
     },
     "mariostars": {
       "bids": {
-        "annex": "5e0c8b1603c4c93ff0b9950a0bab1c246b72949c",
+        "annex": "80b3b8d9601d32caccf4a01dbc717666e19b5e59",
         "head": "50260f431d858ab8590d09edbabed2608de61940"
       },
       "fmriprep": {
-        "annex": "21776bf1ddf6c64b809dbe39dca258e5936d79dd",
+        "annex": "624af4a2f63bcb863fec0f4c783048e2e2945524",
         "head": "78f84c8109963eb3e0a23368172d36324e74205c"
       },
       "timeseries": {
@@ -343,7 +343,7 @@
     },
     "shinobi": {
       "bids": {
-        "annex": "9da9e6a9ae5ddb157ade16f1c5b8cc1da614cbea",
+        "annex": "c106085a1cdfd7edca6351226505b27c3a8b545f",
         "head": "9efcd5fb1840072eecc67571baab356b5ba48773"
       },
       "fmriprep": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-16T14:46:32+00:00",
+  "recorded_at": "2026-11-23T17:24:49+00:00",
   "schema": 1
 }

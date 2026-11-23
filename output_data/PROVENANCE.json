@@ -18,23 +18,23 @@
       "requests": "2.33.1",
       "s3fs": "2026.9.0"
     },
-    "platform": "Linux-7.0.0-1017-azure-x86_64-with-glibc2.39",
+    "platform": "Linux-7.0.0-1020-azure-x86_64-with-glibc2.43",
     "python": "3.12.16"
   },
   "inputs": {
     "assets": {
       "cneuromod_all": {
-        "commit": "735780526fc58e7eef6423fbc74a9baebd0c53d2",
+        "commit": "2ff4c01e60760da52269d9f2aad49dfc78eb74e9",
         "resolved_path": "/home/runner/work/cneuromod.all/cneuromod.all",
         "sha256": null
       }
     },
     "manifest_file": "source_data/MANIFEST.json",
-    "manifest_sha256": "d08915b18a215607437e1256d65bee7280dec3afa7d887efe366605c905b0b79"
+    "manifest_sha256": "a4ff55d5efc801e2f08f90c412854e963e594b5f45ec2152a5e5b34777f29cd2"
   },
   "outputs": {
     "SOURCE_STATE.json": {
-      "sha256": "c4d74c1c2c047488eff806a9de2a985a143c24f73a3c8b966a0041f365bdaa94",
+      "sha256": "cc327d9027e3a71aaa400e429273da70a008a730efc1df56dd2ec4f66ad069bf",
       "size_bytes": 13834
     },
     "cneuromod_maturity.csv": {
@@ -62,12 +62,12 @@
       "size_bytes": 68340
     },
     "figure_cneuromod_comparison_per_subject.png": {
-      "sha256": "ecfcd5c2b6da887bcc31de776a07129da39e4b65af3c59b417b36b8af5f4c4f6",
-      "size_bytes": 463300
+      "sha256": "026fb2467ac0add9e837e95cb1d20a21e963fee5798b6fd2a4a2d7dc7b87bdc2",
+      "size_bytes": 463317
     },
     "figure_cneuromod_comparison_total.png": {
-      "sha256": "edc6fa06d2a8b3aab64a60628e041882a51b5568093d96dd201b0de3a1ea6299",
-      "size_bytes": 512739
+      "sha256": "1150bea4f9ae8f33865ccfef9530a38a775b997a198b8ab2a1a598e526a2daa6",
+      "size_bytes": 512733
     },
     "figure_fmri_hours_min_avg_max.png": {
       "sha256": "4cda0253c57b1b22aefad0c57abbaf799f0b63d59cf728dc03be345bd508f1a6",
@@ -618,10 +618,10 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-11-16T14:46:32+00:00",
+  "recorded_at": "2026-11-23T17:24:49+00:00",
   "repository": {
     "branch": "main",
-    "commit": "1401fae43c8a408d2ce4daa60b63c27e943ff581",
+    "commit": "73d55776c38fecbf2397e5de37acd8f77092074c",
     "dirty": true,
     "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics"
