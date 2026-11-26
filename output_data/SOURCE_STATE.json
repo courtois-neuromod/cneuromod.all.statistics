@@ -149,20 +149,20 @@
     },
     "mario": {
       "bids": {
-        "annex": "6240fdaf69bb491bf4251f3e3d8da5c2df4cb877",
+        "annex": "7ef2ea57eb12e8a0e6082c24681df40cd1d901ec",
         "head": "70902e9160429a8807435da419af686dbcd34519"
       },
       "fmriprep": {
-        "annex": "b1aead44c608d0f3da777acffb5268a75c01b810",
-        "head": "486ffe410dbf5ea24fced113270103545ec7b9e2"
+        "annex": "53a51d940270cd3387f767d98c57e2bed5fa7c79",
+        "head": "573be22c4d69bc2595f7d515ddf12b4e471cecad"
       },
       "physprep": {
         "annex": "8e9608e850c7658a3cf6aa5ba2a68daa28734bde",
         "head": "2eb2670d79c89595f3d1fe89d53714c5d414b3dc"
       },
       "timeseries": {
-        "annex": "ddb3ce296e60696855852fdb9bb38ec0d89570b4",
-        "head": "c3fe2af1f4eda21a73438d158a87a0a672a9fc2e"
+        "annex": "1f30a137c816e58195370f9e81a3ffe14650dbcd",
+        "head": "eaa935edc717eaa55b05746d9fd410cd616d0803"
       },
       "tsnr": {
         "annex": "34f0f9d69e0f9f13a6e191aa99eb0ed750057d88",
@@ -171,16 +171,16 @@
     },
     "mario3": {
       "bids": {
-        "annex": "d027e7c2388747d9afa932736c9e54eb6d90b592",
+        "annex": "7d4e0964c82279edafc39feb480b8a876767791e",
         "head": "73c7316a049fbed0be03a0b157126b24cbaae123"
       },
       "fmriprep": {
-        "annex": "9d349357ed3f8ea085f5770fad0231d61016ba7f",
+        "annex": "966dc1839dd57e9bea89dbbb3eaf82f8c12366e6",
         "head": "d32d7e798341beaa87e332c517c0b5c40e46d58a"
       },
       "timeseries": {
-        "annex": "8deaee9bd0d9c48d01fd79d2625dd78add926491",
-        "head": "257723ea2dac812b3d90e46efeb3db92357efc96"
+        "annex": "4f508ed9408cf0477a102f4e31c7f8a2008233a7",
+        "head": "f990be78cbf9297fef570874fb3be4250cf4d8b1"
       },
       "tsnr": {
         "annex": "1fefbd2ac8b3d1dcc0a7c589f70f47ff86f48b71",
@@ -195,16 +195,16 @@
     },
     "mariostars": {
       "bids": {
-        "annex": "80b3b8d9601d32caccf4a01dbc717666e19b5e59",
+        "annex": "26e04f2948ce5dda14989e7623f93c1b22bb7202",
         "head": "50260f431d858ab8590d09edbabed2608de61940"
       },
       "fmriprep": {
-        "annex": "624af4a2f63bcb863fec0f4c783048e2e2945524",
+        "annex": "6688c1ba87289abd02e657b7aecbf2d167e0b7ed",
         "head": "78f84c8109963eb3e0a23368172d36324e74205c"
       },
       "timeseries": {
-        "annex": "937a34934c7186e5a29678a59d76990b4b535980",
-        "head": "a5cd2f00c633a6c218e5c21da250d6b7a157bffc"
+        "annex": "10673448dde5b490b6b1db3787547e48eca82436",
+        "head": "a383b783edde564ab0bc4ab9eff82ad5e85eddef"
       },
       "tsnr": {
         "annex": "b5cabf6535afb54cda14005a9226d0b2c758b32a",
@@ -343,20 +343,20 @@
     },
     "shinobi": {
       "bids": {
-        "annex": "c106085a1cdfd7edca6351226505b27c3a8b545f",
+        "annex": "9e4517237cf4adbda8acf2128cd319ac2be7baf9",
         "head": "9efcd5fb1840072eecc67571baab356b5ba48773"
       },
       "fmriprep": {
-        "annex": "97f829820f60f788462e8bc56dd78b0dd959fb74",
-        "head": "f21bd04a113c25544106db45ec30634ab1191115"
+        "annex": "1104405db7ae2b6cbb402fb72255f1a73a39ba4f",
+        "head": "3eff5fba8caa746636c1535a455aae9dddd64ffb"
       },
       "physprep": {
         "annex": "b0f19db63c39b040ac5caf6fca16a59197a1b180",
         "head": "b0cacf65e29d834581bfdad5120badb75fec8182"
       },
       "timeseries": {
-        "annex": "84316ea8694ad8a5abd825c9e5d23c6443a520b7",
-        "head": "206016dc40a7d9d5284651a15c50a0f8d3c4381b"
+        "annex": "1a330a9e28379b4b657a744aea49a74283904179",
+        "head": "7636ea26680b8fd50a27f2a609049020cc0d6100"
       },
       "tsnr": {
         "annex": "093e39af237345e04eea03092f888f5b42769fdf",
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-23T17:24:49+00:00",
+  "recorded_at": "2026-11-26T04:15:47+00:00",
   "schema": 1
 }
