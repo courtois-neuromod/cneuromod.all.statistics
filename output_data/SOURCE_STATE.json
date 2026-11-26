@@ -176,7 +176,7 @@
       },
       "fmriprep": {
         "annex": "966dc1839dd57e9bea89dbbb3eaf82f8c12366e6",
-        "head": "d32d7e798341beaa87e332c517c0b5c40e46d58a"
+        "head": "7ffe3e7d9dc17952424f46cda65f2e78c5420aaf"
       },
       "timeseries": {
         "annex": "4f508ed9408cf0477a102f4e31c7f8a2008233a7",
@@ -200,7 +200,7 @@
       },
       "fmriprep": {
         "annex": "6688c1ba87289abd02e657b7aecbf2d167e0b7ed",
-        "head": "78f84c8109963eb3e0a23368172d36324e74205c"
+        "head": "8e55499f5f870517381acea3df864a8b6f269749"
       },
       "timeseries": {
         "annex": "10673448dde5b490b6b1db3787547e48eca82436",
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-26T04:15:47+00:00",
+  "recorded_at": "2026-11-26T16:42:44+00:00",
   "schema": 1
 }
