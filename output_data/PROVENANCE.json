@@ -24,17 +24,17 @@
   "inputs": {
     "assets": {
       "cneuromod_all": {
-        "commit": "ecc1d3605f637eb7eb92bb2af536b489b88ea732",
+        "commit": "34f473b6e451c0697245826490873cc1aad1b99c",
         "resolved_path": "/home/runner/work/cneuromod.all/cneuromod.all",
         "sha256": null
       }
     },
     "manifest_file": "source_data/MANIFEST.json",
-    "manifest_sha256": "d7f1d1916625ba8152b29b35f718db7cb19fb6f5db511ede254d28cf5c4cd5a8"
+    "manifest_sha256": "0da59a99e73ffe3b562b783ad4cbecd8b9e2b7e446436c866c2bbcd917355c84"
   },
   "outputs": {
     "SOURCE_STATE.json": {
-      "sha256": "c1cece62d6a8575615a28f83e1a855d570daae7bf5218c91730653ed968b39e1",
+      "sha256": "75bcabe6b91be39761a5010be8d2a5d0a118682fddf2d30cdd5165bfed5a0fe3",
       "size_bytes": 13834
     },
     "cneuromod_maturity.csv": {
@@ -618,10 +618,10 @@
       "size_bytes": 176248
     }
   },
-  "recorded_at": "2026-11-26T16:42:44+00:00",
+  "recorded_at": "2026-11-27T21:17:30+00:00",
   "repository": {
     "branch": "main",
-    "commit": "41ad9ea2ce165e06369fabeb2304593f1f61173f",
+    "commit": "9bce79642a5b62133d79c0312d8e7f7479ce0cd0",
     "dirty": true,
     "remote": "https://github.com/courtois-neuromod/cneuromod.all.statistics.git",
     "toplevel": "/home/runner/work/cneuromod.all/cneuromod.all/analysis/cneuromod.all.statistics"

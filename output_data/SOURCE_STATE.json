@@ -10,7 +10,7 @@
     "emotion-videos": {
       "bids": {
         "annex": "bf2ac066d4d8cb3ccb164cceef1d9046ab45a827",
-        "head": "5f2d7e1d6872fb764493643aeca6325f9c8d6420"
+        "head": "c0a637b7595035f2ca72dd7c18475612bd057d21"
       },
       "fmriprep": {
         "annex": "caa9950fd8306e163af71be65afddd60842ea8cb",
@@ -149,7 +149,7 @@
     },
     "mario": {
       "bids": {
-        "annex": "7ef2ea57eb12e8a0e6082c24681df40cd1d901ec",
+        "annex": "8b34276f11a49ab7b190ed22304c95af8063dd58",
         "head": "70902e9160429a8807435da419af686dbcd34519"
       },
       "fmriprep": {
@@ -161,7 +161,7 @@
         "head": "2eb2670d79c89595f3d1fe89d53714c5d414b3dc"
       },
       "timeseries": {
-        "annex": "1f30a137c816e58195370f9e81a3ffe14650dbcd",
+        "annex": "304f5160699caa660c4624f9228fb9d9da2e4b1a",
         "head": "eaa935edc717eaa55b05746d9fd410cd616d0803"
       },
       "tsnr": {
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-26T16:42:44+00:00",
+  "recorded_at": "2026-11-27T21:17:30+00:00",
   "schema": 1
 }
