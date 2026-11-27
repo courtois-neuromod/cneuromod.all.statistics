@@ -172,7 +172,7 @@
     "mario3": {
       "bids": {
         "annex": "7d4e0964c82279edafc39feb480b8a876767791e",
-        "head": "73c7316a049fbed0be03a0b157126b24cbaae123"
+        "head": "8a1562dca8a7a6e9feed3b85dc056d5fd0235ad7"
       },
       "fmriprep": {
         "annex": "966dc1839dd57e9bea89dbbb3eaf82f8c12366e6",
@@ -196,7 +196,7 @@
     "mariostars": {
       "bids": {
         "annex": "26e04f2948ce5dda14989e7623f93c1b22bb7202",
-        "head": "50260f431d858ab8590d09edbabed2608de61940"
+        "head": "78d30171688b01f1c0bfb4851340bd01d5b17c1a"
       },
       "fmriprep": {
         "annex": "6688c1ba87289abd02e657b7aecbf2d167e0b7ed",
@@ -344,7 +344,7 @@
     "shinobi": {
       "bids": {
         "annex": "9e4517237cf4adbda8acf2128cd319ac2be7baf9",
-        "head": "9efcd5fb1840072eecc67571baab356b5ba48773"
+        "head": "e4bbe1728125f27eab8e8b1b083972d732373898"
       },
       "fmriprep": {
         "annex": "1104405db7ae2b6cbb402fb72255f1a73a39ba4f",
@@ -400,6 +400,6 @@
       }
     }
   },
-  "recorded_at": "2026-11-27T21:17:30+00:00",
+  "recorded_at": "2026-11-27T21:43:15+00:00",
   "schema": 1
 }
